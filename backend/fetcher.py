@@ -21,9 +21,15 @@ def get_sl(overpass):
     query = ''.join([
         f'(',
         f'relation["type"="route"]["network"="SL"]["route"="train"]({bbox});',
+        f'relation["type"="route"]["network"="SL"]["route"="subway"]({bbox});',
         f'relation["type"="route"]["network"="Stockholms tunnelbana"]["route"="subway"]({bbox});',
         f'relation["type"="route"]["network"="SL"]["route"="light_rail"]({bbox});',
         f'relation["type"="route"]["network"="SL"]["route"="tram"]({bbox});',
+        f'relation["type"="route"]["network"="SL"]["planned:route"="train"]({bbox});',
+        f'relation["type"="route"]["network"="SL"]["planned:route"="subway"]({bbox});',
+        f'relation["type"="route"]["network"="Stockholms tunnelbana"]["planned:route"="subway"]({bbox});',
+        f'relation["type"="route"]["network"="SL"]["planned:route"="light_rail"]({bbox});',
+        f'relation["type"="route"]["network"="SL"]["planned:route"="tram"]({bbox});',
         f');',
         f'out geom;'
     ])
