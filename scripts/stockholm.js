@@ -1,10 +1,12 @@
 function style(feature) {
+    const planned = !feature.properties.tags.route;
+
     st = {
         // fillColor: '#ff7800',
-        weight: 6,
-        opacity: 1,
+        weight: planned ? 4 : 5,
+        opacity: planned ? 0.5 : 1,
         color: feature.properties.tags.colour || '#000',
-        dashArray: '',
+        dashArray: planned ? '10' : '',
         fillOpacity: 0.7,
     };
 
