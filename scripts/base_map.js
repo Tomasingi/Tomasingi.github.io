@@ -3,6 +3,7 @@ const mapCenters = {
     reykjavik: {pos: [64.12, -21.85], zoom: 11},
     stockholm: {pos: [59.32, 18.06], zoom: 10},
     istanbul: {pos: [41.01, 28.95], zoom: 10},
+    goteborg: {pos: [57.70, 11.97], zoom: 10},
 }
 
 const loc = location.pathname.split('/').slice(-1)[0].split('.')[0];

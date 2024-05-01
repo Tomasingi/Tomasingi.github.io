@@ -55,6 +55,24 @@ def get_sl(overpass):
         f.write('var data = ')
         json.dump(geojson, f, indent=4)
 
+def get_vasttrafik(overpass):
+    bbox = '57.5,11.5,58.5,12.5'
+    query = ''.join([
+        f'(',
+        f'relation["type"="route"]["network"="Västtrafik"]["route"="tram"]({bbox});',
+        # f'relation["type"="route"]["network"="Västtrafik"]["route"="bus"]({bbox});',
+        f'relation["type"="route"]["network"="Västtrafik"]["route"="ferry"]({bbox});',
+        f');',
+        f'out geom;'
+    ])
+    result = overpass.query(query)
+
+    path = '../scripts/vasttrafik_json.js'
+    with open(path, 'w') as f:
+        geojson = osm2geojson.json2geojson(result.toJSON())
+        f.write('var data = ')
+        json.dump(geojson, f, indent=4)
+
 def get_istanbul(overpass):
     bbox = '40.8,28.6,41.4,29.7'
     query = ''.join([
@@ -81,6 +99,7 @@ def main():
     get_bicycle_routes_reykjavik(overpass)
     get_buses_reykjavik(overpass)
     get_sl(overpass)
+    get_vasttrafik(overpass)
     get_istanbul(overpass)
 
 if __name__ == '__main__':

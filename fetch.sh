@@ -2,4 +2,6 @@
 
 source ~/.virtualenvs/osmpy/bin/activate
 
-python links.py
+cd backend/
+
+python fetcher.py

@@ -27,7 +27,8 @@ def main():
         'Hjólaleiðir',
         'Reykjavík',
         'Stockholm',
-        'İstanbul'
+        'İstanbul',
+        'Göteborg',
     ]
 
     page_files = dict()
