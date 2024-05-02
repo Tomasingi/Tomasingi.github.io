@@ -5,7 +5,7 @@ function style(feature) {
         // fillColor: '#ff7800',
         weight: planned ? 4 : 5,
         opacity: planned ? 0.5 : 1,
-        color: feature.properties.tags.colour || '#000',
+        color: feature.properties.tags.colour || '#999',
         dashArray: planned ? '10' : '',
         fillOpacity: 0.7,
     };
