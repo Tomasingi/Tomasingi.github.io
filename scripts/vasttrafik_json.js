@@ -90959,7 +90959,7 @@ var data = {
                 "type": "relation",
                 "id": 5455642,
                 "tags": {
-                    "colour": "#000000",
+                    "colour": "#FFFFFF",
                     "from": "Opaltorget",
                     "name": "Sp\u00e5rvagn 1: Tynnered - Stenpiren - \u00d6stra Sjukhuset",
                     "network": "V\u00e4sttrafik",
@@ -95924,7 +95924,7 @@ var data = {
                 "type": "relation",
                 "id": 5455643,
                 "tags": {
-                    "colour": "#000000",
+                    "colour": "#FFFFFF",
                     "from": "\u00d6stra Sjukhuset",
                     "name": "Sp\u00e5rvagn 1: \u00d6stra Sjukhuset - Stenpiren - Tynnered",
                     "network": "V\u00e4sttrafik",
