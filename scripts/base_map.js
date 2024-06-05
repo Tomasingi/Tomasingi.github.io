@@ -14,12 +14,17 @@ var map = L.map('map', {
     wheelPxPerZoomLevel: 120
 }).setView(center.pos, center.zoom);
 
-var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    minZoom: 6,
-    id: 'mapbox/streets-v11',
-    tileSize: 512,
-    zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoiZGFzc2NoZWl0IiwiYSI6ImNqa3IxeHZzMDBvYWgza3Q5OWM5MzUzcHUifQ.6xj-BznboqX4wPfbvnnEGA',
+// var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
+//     attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+//     maxZoom: 18,
+//     minZoom: 6,
+//     id: 'mapbox/streets-v11',
+//     tileSize: 512,
+//     zoomOffset: -1,
+//     accessToken: 'pk.eyJ1IjoiZGFzc2NoZWl0IiwiYSI6ImNqa3IxeHZzMDBvYWgza3Q5OWM5MzUzcHUifQ.6xj-BznboqX4wPfbvnnEGA',
+// }).addTo(map);
+
+const mtLayer = L.maptilerLayer({
+    apiKey: 'BiZawqqKjurSA7iSzwT4',
+    style: L.MaptilerStyle.DATAVIZ.LIGHT,
 }).addTo(map);
