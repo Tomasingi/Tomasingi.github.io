@@ -25,6 +25,7 @@ def main():
     main_page = 'index.html'
     pages = [
         'Hjólaleiðir',
+        'Vegir',
         'Reykjavík',
         'Stockholm',
         'İstanbul',

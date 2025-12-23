@@ -19,6 +19,7 @@ var data = {
                 },
                 "nodes": [
                     539369578,
+                    13137897099,
                     5116846110,
                     11167588260,
                     539369597,
@@ -54,12 +55,15 @@ var data = {
                     539369578,
                     2775388106,
                     539369561,
-                    7334698926,
-                    2666827070,
+                    13137905220,
+                    13137897084,
+                    13137897083,
+                    13137897082,
                     12146318524,
                     2376231899,
                     10257913298,
                     34156796,
+                    13248077597,
                     7054098090,
                     5768550509,
                     6276056269,
@@ -76,8 +80,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9848185,
-                        41.0365258
+                        28.9848245,
+                        41.0365349
+                    ],
+                    [
+                        28.9848671,
+                        41.036585
                     ],
                     [
                         28.9848929,
@@ -148,12 +156,12 @@ var data = {
                         41.0372277
                     ],
                     [
-                        28.9853339,
-                        41.0371844
+                        28.9853393,
+                        41.0371915
                     ],
                     [
-                        28.9853985,
-                        41.037138
+                        28.9854012,
+                        41.03714
                     ],
                     [
                         28.9854454,
@@ -208,24 +216,32 @@ var data = {
                         41.0365895
                     ],
                     [
-                        28.9848185,
-                        41.0365258
+                        28.9848245,
+                        41.0365349
                     ],
                     [
-                        28.9847425,
-                        41.0364437
+                        28.9847653,
+                        41.0364811
                     ],
                     [
-                        28.9845929,
-                        41.036311
+                        28.9847116,
+                        41.036441
                     ],
                     [
-                        28.9845642,
-                        41.0362971
+                        28.9845692,
+                        41.036331
                     ],
                     [
-                        28.9844898,
-                        41.036261
+                        28.984553,
+                        41.0363185
+                    ],
+                    [
+                        28.9845096,
+                        41.0362901
+                    ],
+                    [
+                        28.9844576,
+                        41.0362626
                     ],
                     [
                         28.9843913,
@@ -242,6 +258,10 @@ var data = {
                     [
                         28.9819491,
                         41.0353971
+                    ],
+                    [
+                        28.9813989,
+                        41.0351849
                     ],
                     [
                         28.9809381,
@@ -276,12 +296,12 @@ var data = {
                         41.0339027
                     ],
                     [
-                        28.97794,
-                        41.0337849
+                        28.977934,
+                        41.033792
                     ],
                     [
-                        28.9776226,
-                        41.0336614
+                        28.9779176,
+                        41.0337858
                     ]
                 ]
             }
@@ -296,6 +316,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -420,7 +442,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248648719,
@@ -594,7 +616,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248648747,
@@ -703,7 +725,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248648762,
@@ -780,7 +802,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248653066,
@@ -944,7 +966,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304052517,
@@ -1078,7 +1100,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248643724,
@@ -1204,7 +1226,7 @@ var data = {
                     "railway": "subway",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958731243,
@@ -1462,7 +1484,7 @@ var data = {
                     "tunnel": "yes",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248666702,
@@ -1977,6 +1999,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -2018,6 +2041,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -2059,7 +2084,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248643159,
@@ -2113,6 +2138,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -2150,6 +2176,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -2186,6 +2214,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -2220,6 +2249,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -2266,6 +2297,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -2301,6 +2334,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -2361,6 +2396,7 @@ var data = {
                     287814814,
                     287814817,
                     287814819,
+                    12794137490,
                     287814822,
                     287814824,
                     287814825,
@@ -2587,6 +2623,10 @@ var data = {
                         41.056356
                     ],
                     [
+                        28.7051855,
+                        41.0563969
+                    ],
+                    [
                         28.704333,
                         41.056878
                     ],
@@ -2632,6 +2672,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -2764,6 +2806,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "no",
                     "usage": "main",
@@ -2800,12 +2844,11 @@ var data = {
                     287814562,
                     287814565,
                     287814568,
-                    287814570,
                     287814573,
-                    287814576,
                     287814579,
-                    287814582,
-                    287814585,
+                    12794098925,
+                    12794098923,
+                    12794098924,
                     9769325738,
                     287814590,
                     287814593,
@@ -2957,32 +3000,28 @@ var data = {
                         41.041601
                     ],
                     [
-                        28.756553,
-                        41.041956
+                        28.7565459,
+                        41.0419427
                     ],
                     [
-                        28.755875,
-                        41.042191
+                        28.7556741,
+                        41.0422549
                     ],
                     [
-                        28.755016,
-                        41.042518
+                        28.7521804,
+                        41.043535
                     ],
                     [
-                        28.75279,
-                        41.043246
+                        28.7519109,
+                        41.0436476
                     ],
                     [
-                        28.752351,
-                        41.043408
+                        28.7516437,
+                        41.0437654
                     ],
                     [
-                        28.7516502,
-                        41.0437484
-                    ],
-                    [
-                        28.751381,
-                        41.0438811
+                        28.7513828,
+                        41.0438895
                     ],
                     [
                         28.7511312,
@@ -3114,6 +3153,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -3240,6 +3281,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -3378,6 +3421,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -3419,7 +3464,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304051209,
@@ -3611,7 +3656,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958796351,
@@ -3670,7 +3715,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304051725,
@@ -3717,7 +3762,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248655487,
@@ -3810,6 +3855,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -3887,6 +3934,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -3926,6 +3975,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -3945,8 +3995,8 @@ var data = {
                         40.9765509
                     ],
                     [
-                        28.8438125,
-                        40.9763502
+                        28.8437982,
+                        40.9763271
                     ]
                 ]
             }
@@ -3969,7 +4019,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304051209,
@@ -4098,7 +4148,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304050911,
@@ -4196,6 +4246,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "construction",
                     "usage": "main",
@@ -4246,7 +4297,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248648747,
@@ -4364,6 +4415,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:etcs": "1",
@@ -4734,6 +4787,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -4797,6 +4852,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -4834,6 +4891,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -4873,19 +4931,13 @@ var data = {
                     "voltage": "750"
                 },
                 "nodes": [
-                    3282388014,
-                    4958787829,
-                    4958787830,
-                    12328471724,
-                    12328471723,
-                    4958787831,
-                    1037636280,
-                    12328471734,
-                    1037636285,
-                    4897304963,
-                    9761483812,
                     1037636288,
+                    13054592079,
+                    13054592068,
                     1037636289,
+                    13054592071,
+                    13054592066,
+                    13054592065,
                     4958787859,
                     4958787858,
                     4958787857,
@@ -4897,76 +4949,52 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8915405,
-                        41.0014584
+                        28.8924911,
+                        41.0021535
                     ],
                     [
-                        28.8918382,
-                        41.0014841
+                        28.8925173,
+                        41.0022105
                     ],
                     [
-                        28.892042,
-                        41.0015225
+                        28.8925581,
+                        41.0022989
                     ],
                     [
-                        28.8921379,
-                        41.0015465
+                        28.8925923,
+                        41.002369
                     ],
                     [
-                        28.8922507,
-                        41.0016058
+                        28.8926246,
+                        41.0024086
                     ],
                     [
-                        28.892323,
-                        41.0016749
+                        28.8926741,
+                        41.0024482
                     ],
                     [
-                        28.8923825,
-                        41.0017626
+                        28.8927623,
+                        41.0025257
                     ],
                     [
-                        28.8923989,
-                        41.0018142
+                        28.8930195,
+                        41.002745
                     ],
                     [
-                        28.892415,
-                        41.0018646
+                        28.893248,
+                        41.0029547
                     ],
                     [
-                        28.8924979,
-                        41.0020344
+                        28.8934557,
+                        41.0031786
                     ],
                     [
-                        28.892565,
-                        41.0021719
+                        28.8935569,
+                        41.0032954
                     ],
                     [
-                        28.8926403,
-                        41.0023261
-                    ],
-                    [
-                        28.892769,
-                        41.0024861
-                    ],
-                    [
-                        28.8929969,
-                        41.0026824
-                    ],
-                    [
-                        28.8932879,
-                        41.0029425
-                    ],
-                    [
-                        28.8934891,
-                        41.0031632
-                    ],
-                    [
-                        28.8935709,
-                        41.0032897
-                    ],
-                    [
-                        28.8936311,
-                        41.0034065
+                        28.893602,
+                        41.0033756
                     ]
                 ]
             }
@@ -5007,6 +5035,7 @@ var data = {
                     3282407235,
                     3282407232,
                     7711340806,
+                    12985679470,
                     3282407230,
                     3282407228,
                     3282407226,
@@ -5053,6 +5082,7 @@ var data = {
                     7711238172,
                     7711238173,
                     1024706640,
+                    13054591997,
                     9040308152,
                     7711238177,
                     1024706638,
@@ -5061,29 +5091,40 @@ var data = {
                     7711238180,
                     7711238179,
                     9040308140,
+                    13054591987,
                     1024706637,
+                    13054591981,
                     1024706635,
                     4283925800,
                     9040308131,
+                    13054591978,
                     9040308132,
                     4283888082,
                     1024706630,
+                    13054591977,
                     1024706628,
                     9040308119,
-                    1024706627,
                     7711238159,
-                    1024706623,
+                    13054591973,
                     1024706622,
-                    1024706621,
+                    13054591974,
                     7711238157,
+                    13054591948,
                     1024706620,
+                    13054591950,
                     1024706619,
+                    13054591953,
                     9040305896,
+                    13054591952,
                     5499934370,
+                    13054592001,
                     9040305901,
                     1024706618,
                     4283925802,
                     1024706617,
+                    13054592006,
+                    13054591887,
+                    13054591884,
                     1024706616
                 ]
             },
@@ -5157,6 +5198,10 @@ var data = {
                     [
                         28.8613438,
                         41.0271784
+                    ],
+                    [
+                        28.8615167,
+                        41.026694
                     ],
                     [
                         28.8615516,
@@ -5343,6 +5388,10 @@ var data = {
                         41.0157439
                     ],
                     [
+                        28.8771365,
+                        41.0154981
+                    ],
+                    [
                         28.8771771,
                         41.0154552
                     ],
@@ -5351,104 +5400,136 @@ var data = {
                         41.0154248
                     ],
                     [
-                        28.877455,
-                        41.0152468
+                        28.8774415,
+                        41.015239
                     ],
                     [
-                        28.8778458,
-                        41.0149832
+                        28.8778157,
+                        41.0149856
                     ],
                     [
-                        28.8779783,
-                        41.0148939
+                        28.8779648,
+                        41.0148908
                     ],
                     [
-                        28.8781633,
-                        41.0147956
+                        28.8781332,
+                        41.0147815
                     ],
                     [
-                        28.8782044,
-                        41.0147788
+                        28.8781822,
+                        41.0147489
                     ],
                     [
-                        28.8783129,
-                        41.0147181
+                        28.8782734,
+                        41.0147103
                     ],
                     [
-                        28.8783854,
-                        41.0146776
+                        28.8783245,
+                        41.0146966
                     ],
                     [
-                        28.8797156,
-                        41.0142961
+                        28.878481,
+                        41.0146549
                     ],
                     [
-                        28.8798814,
-                        41.0142146
+                        28.8796344,
+                        41.0143161
                     ],
                     [
-                        28.879995,
-                        41.0141329
+                        28.8797301,
+                        41.0142836
                     ],
                     [
-                        28.8800707,
-                        41.0140461
+                        28.8798585,
+                        41.0142201
                     ],
                     [
-                        28.8801673,
-                        41.0138678
+                        28.8799908,
+                        41.0141204
                     ],
                     [
-                        28.8803407,
-                        41.0132892
+                        28.8800516,
+                        41.0140476
                     ],
                     [
-                        28.8807669,
-                        41.0114311
+                        28.8801081,
+                        41.0139622
                     ],
                     [
-                        28.8808749,
-                        41.0109684
+                        28.8801556,
+                        41.0138514
                     ],
                     [
-                        28.8808785,
-                        41.010953
+                        28.8801955,
+                        41.01371
                     ],
                     [
-                        28.8808816,
-                        41.0109103
+                        28.8805155,
+                        41.0124194
                     ],
                     [
-                        28.8809179,
-                        41.0104101
+                        28.8807003,
+                        41.0115647
                     ],
                     [
-                        28.8810338,
-                        41.0091553
+                        28.8807752,
+                        41.0112096
                     ],
                     [
-                        28.8810788,
-                        41.0084104
+                        28.8808221,
+                        41.010926
                     ],
                     [
-                        28.88113,
-                        41.0080856
+                        28.8808485,
+                        41.0108031
                     ],
                     [
-                        28.8812277,
-                        41.0073209
+                        28.880967,
+                        41.0094954
                     ],
                     [
-                        28.8814052,
-                        41.006256
+                        28.8810379,
+                        41.0086946
                     ],
                     [
-                        28.881477,
-                        41.0060929
+                        28.8810771,
+                        41.0081173
                     ],
                     [
-                        28.8816589,
-                        41.0057986
+                        28.8810957,
+                        41.0079225
+                    ],
+                    [
+                        28.8811743,
+                        41.0073108
+                    ],
+                    [
+                        28.8812795,
+                        41.0066234
+                    ],
+                    [
+                        28.8813451,
+                        41.0063253
+                    ],
+                    [
+                        28.881392,
+                        41.0061945
+                    ],
+                    [
+                        28.8814167,
+                        41.0061312
+                    ],
+                    [
+                        28.8814568,
+                        41.0060573
+                    ],
+                    [
+                        28.8816356,
+                        41.0057888
+                    ],
+                    [
+                        28.881848,
+                        41.0054779
                     ],
                     [
                         28.8818606,
@@ -5459,16 +5540,28 @@ var data = {
                         41.0052681
                     ],
                     [
-                        28.8823191,
-                        41.0046418
+                        28.8822854,
+                        41.0047308
                     ],
                     [
                         28.8827418,
                         41.0039169
                     ],
                     [
-                        28.8834606,
-                        41.0027105
+                        28.8828317,
+                        41.0037581
+                    ],
+                    [
+                        28.8829175,
+                        41.0036065
+                    ],
+                    [
+                        28.8830984,
+                        41.0032758
+                    ],
+                    [
+                        28.8833723,
+                        41.002796
                     ]
                 ]
             }
@@ -5505,7 +5598,7 @@ var data = {
                     9385532772,
                     1026207439,
                     4958617027,
-                    12327191707,
+                    12846659434,
                     1026207436,
                     9385532781,
                     4958617028,
@@ -5584,16 +5677,16 @@ var data = {
                         41.0364006
                     ],
                     [
-                        28.9236637,
-                        41.0366112
+                        28.9236652,
+                        41.0366089
                     ],
                     [
                         28.9234199,
                         41.0369942
                     ],
                     [
-                        28.9231168,
-                        41.0374594
+                        28.9231135,
+                        41.0374588
                     ],
                     [
                         28.9229357,
@@ -6048,7 +6141,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304051221,
@@ -6102,6 +6195,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6138,7 +6232,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
-                    "operator": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6302,6 +6396,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6338,6 +6433,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6377,6 +6473,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6414,6 +6511,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6433,8 +6531,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8438125,
-                        40.9763502
+                        28.8437982,
+                        40.9763271
                     ],
                     [
                         28.8433303,
@@ -6472,6 +6570,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -6607,8 +6707,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     1065492986,
@@ -6703,8 +6802,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     1065493037,
@@ -6770,8 +6868,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     1065493065,
@@ -6934,6 +7031,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -6977,6 +7076,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -7013,6 +7114,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -7275,6 +7377,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -7549,6 +7653,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -7559,7 +7665,7 @@ var data = {
                 "nodes": [
                     287815463,
                     1833437762,
-                    6498991360,
+                    13110488459,
                     287815502
                 ]
             },
@@ -7575,8 +7681,8 @@ var data = {
                         41.1298843
                     ],
                     [
-                        28.6241246,
-                        41.1302235
+                        28.624126,
+                        41.1302234
                     ],
                     [
                         28.614737,
@@ -7596,6 +7702,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -7912,6 +8020,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tunnel": "yes",
@@ -7955,6 +8065,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -8031,6 +8142,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -8429,6 +8541,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -8465,6 +8578,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -8630,6 +8744,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -8667,6 +8783,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -8702,6 +8820,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "source": "Yahoo",
@@ -8767,6 +8887,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "layer": "-1",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "tunnel": "yes",
@@ -8804,6 +8926,7 @@ var data = {
                     "layer": "-1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -8852,6 +8975,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -8902,6 +9026,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -9051,6 +9177,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -9247,6 +9375,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -9652,6 +9782,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -9688,6 +9820,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "no",
                     "usage": "main",
@@ -9728,6 +9862,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "no",
                     "usage": "main",
@@ -9777,15 +9913,15 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "tracks": "1",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    2253949885,
-                    1065496278,
-                    1065496281,
+                    12809248670,
                     1065496283,
                     287814292
                 ]
@@ -9794,16 +9930,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.765073,
-                        41.0250486
-                    ],
-                    [
-                        28.7650227,
-                        41.0253763
-                    ],
-                    [
-                        28.7650146,
-                        41.0257041
+                        28.7650041,
+                        41.0259678
                     ],
                     [
                         28.7649584,
@@ -9826,6 +9954,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -10015,7 +10145,7 @@ var data = {
                     "railway": "subway",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248643152,
@@ -10073,6 +10203,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "source": "Yahoo",
@@ -10111,6 +10242,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -10146,6 +10278,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:etcs": "1",
@@ -10433,6 +10567,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -10469,6 +10604,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -10757,6 +10893,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -10792,6 +10929,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -10863,6 +11002,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -11152,6 +11293,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -11223,6 +11366,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -11258,6 +11402,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -11292,6 +11438,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -11471,8 +11619,8 @@ var data = {
                         41.0239172
                     ],
                     [
-                        28.9603378,
-                        41.0242589
+                        28.9603158,
+                        41.0242528
                     ],
                     [
                         28.9600313,
@@ -11865,8 +12013,8 @@ var data = {
                         41.0239145
                     ],
                     [
-                        28.9603054,
-                        41.0242392
+                        28.9602875,
+                        41.0242282
                     ],
                     [
                         28.959998,
@@ -12149,6 +12297,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -12161,7 +12311,10 @@ var data = {
                     353037079,
                     5084157969,
                     353037080,
+                    13288045024,
+                    13288045023,
                     5084157968,
+                    13288045011,
                     5084157967,
                     5084157966,
                     353037081,
@@ -12213,8 +12366,20 @@ var data = {
                         40.8191769
                     ],
                     [
+                        29.3320289,
+                        40.8184777
+                    ],
+                    [
+                        29.3323095,
+                        40.8182608
+                    ],
+                    [
                         29.334864,
                         40.8162858
+                    ],
+                    [
+                        29.3357974,
+                        40.8155361
                     ],
                     [
                         29.3370473,
@@ -12316,6 +12481,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -12389,6 +12555,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -12435,6 +12602,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -12765,6 +12933,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -13325,7 +13495,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     2511296157,
@@ -13369,6 +13539,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -13405,6 +13577,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -13446,6 +13620,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -14047,40 +14223,9 @@ var data = {
                     "wikidata": "Q26273325"
                 },
                 "nodes": [
-                    7711133925,
-                    11215413478,
-                    9038926439,
-                    11215413479,
-                    2594274179,
-                    2594274178,
-                    7711133927,
-                    11215413500,
-                    2594274177,
-                    11215413499,
-                    2594274176,
-                    9038926447,
-                    7711133931,
-                    7711133933,
-                    2594274175,
-                    2594274174,
-                    9038926451,
-                    9038926452,
-                    2594274173,
-                    9038926453,
-                    2594274172,
-                    9038926455,
-                    7711133975,
-                    7711133937,
-                    6989461647,
-                    9038926458,
-                    2594274170,
-                    3282388052,
-                    3282388051,
-                    3282388049,
                     9040236197,
                     3282388047,
                     9040236201,
-                    2368330482,
                     11218880018,
                     2368330481,
                     11218880020,
@@ -14118,14 +14263,16 @@ var data = {
                     11470974682,
                     3282388015,
                     4958787840,
-                    4958787841,
                     4958787837,
                     4958787839,
                     3282388014,
                     4958787832,
+                    13054592052,
                     4958787836,
                     7681187640,
                     4958791093,
+                    13054592028,
+                    13054592023,
                     4958787843,
                     3282407185
                 ]
@@ -14134,144 +14281,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9098105,
-                        41.0091503
+                        28.9077334,
+                        41.0042752
                     ],
                     [
-                        28.9098137,
-                        41.0090702
+                        28.9073596,
+                        41.0042355
                     ],
                     [
-                        28.9098068,
-                        41.0089671
+                        28.9069355,
+                        41.0041861
                     ],
                     [
-                        28.9097833,
-                        41.0088776
-                    ],
-                    [
-                        28.9094964,
-                        41.0082686
-                    ],
-                    [
-                        28.9093294,
-                        41.0078647
-                    ],
-                    [
-                        28.90917,
-                        41.0075319
-                    ],
-                    [
-                        28.9091072,
-                        41.0073762
-                    ],
-                    [
-                        28.9090716,
-                        41.0072436
-                    ],
-                    [
-                        28.9090327,
-                        41.0070945
-                    ],
-                    [
-                        28.9089488,
-                        41.0066831
-                    ],
-                    [
-                        28.9089453,
-                        41.0065907
-                    ],
-                    [
-                        28.9089629,
-                        41.0064747
-                    ],
-                    [
-                        28.9089729,
-                        41.0064333
-                    ],
-                    [
-                        28.9090547,
-                        41.0062458
-                    ],
-                    [
-                        28.909238,
-                        41.0057434
-                    ],
-                    [
-                        28.9094062,
-                        41.0053319
-                    ],
-                    [
-                        28.9094637,
-                        41.0052369
-                    ],
-                    [
-                        28.9095213,
-                        41.0051755
-                    ],
-                    [
-                        28.9096263,
-                        41.005074
-                    ],
-                    [
-                        28.9096942,
-                        41.0049808
-                    ],
-                    [
-                        28.9097444,
-                        41.00487
-                    ],
-                    [
-                        28.9097709,
-                        41.0047354
-                    ],
-                    [
-                        28.9097652,
-                        41.0046622
-                    ],
-                    [
-                        28.9097578,
-                        41.0046451
-                    ],
-                    [
-                        28.9097329,
-                        41.0045935
-                    ],
-                    [
-                        28.909689,
-                        41.004541
-                    ],
-                    [
-                        28.9096047,
-                        41.004491
-                    ],
-                    [
-                        28.9094558,
-                        41.0044333
-                    ],
-                    [
-                        28.9092471,
-                        41.0043856
-                    ],
-                    [
-                        28.9077702,
-                        41.0042479
-                    ],
-                    [
-                        28.9073663,
-                        41.0042041
-                    ],
-                    [
-                        28.9069631,
-                        41.0041594
-                    ],
-                    [
-                        28.9068845,
-                        41.0041531
-                    ],
-                    [
-                        28.9067746,
-                        41.0041457
+                        28.9067639,
+                        41.0041609
                     ],
                     [
                         28.9060495,
@@ -14342,8 +14365,8 @@ var data = {
                         41.0035192
                     ],
                     [
-                        28.9017647,
-                        41.0035189
+                        28.9017459,
+                        41.0035194
                     ],
                     [
                         28.9015668,
@@ -14358,8 +14381,8 @@ var data = {
                         41.0034237
                     ],
                     [
-                        28.8998776,
-                        41.003372
+                        28.8998873,
+                        41.003385
                     ],
                     [
                         28.8996076,
@@ -14406,56 +14429,64 @@ var data = {
                         41.0017587
                     ],
                     [
-                        28.893659,
-                        41.0016865
+                        28.8936504,
+                        41.0017125
                     ],
                     [
-                        28.8932163,
-                        41.0016388
+                        28.8931915,
+                        41.0016526
                     ],
                     [
-                        28.8928762,
+                        28.8927415,
                         41.0015954
                     ],
                     [
-                        28.8925222,
-                        41.0015306
+                        28.8921965,
+                        41.0014967
                     ],
                     [
-                        28.8921976,
-                        41.0014821
+                        28.8919658,
+                        41.0014732
                     ],
                     [
-                        28.8919669,
-                        41.0014578
+                        28.891575,
+                        41.0014812
                     ],
                     [
-                        28.8915405,
-                        41.0014584
+                        28.891398,
+                        41.0014854
                     ],
                     [
-                        28.8913743,
-                        41.0014659
+                        28.8909947,
+                        41.0015066
                     ],
                     [
-                        28.890675,
-                        41.0015077
+                        28.8906496,
+                        41.0015184
                     ],
                     [
-                        28.8903174,
-                        41.0015136
+                        28.8901578,
+                        41.0015333
                     ],
                     [
-                        28.8898681,
-                        41.0015364
+                        28.8898735,
+                        41.0015435
                     ],
                     [
-                        28.8894027,
-                        41.0015458
+                        28.889797,
+                        41.0015465
                     ],
                     [
-                        28.889075,
-                        41.001549
+                        28.889518,
+                        41.0015587
+                    ],
+                    [
+                        28.8891845,
+                        41.001567
+                    ],
+                    [
+                        28.888917,
+                        41.00156
                     ]
                 ]
             }
@@ -14479,20 +14510,25 @@ var data = {
                 },
                 "nodes": [
                     7711133925,
-                    11215413471,
-                    11210083975,
+                    13055137571,
                     2598795654,
                     2598795655,
                     3282369897,
                     7711133915,
                     3282369900,
-                    11215413464,
+                    13055149541,
                     11215413463,
                     3289739283,
+                    13055137579,
                     9040236169,
                     3282369903,
+                    13055137581,
                     7711133914,
+                    13055137594,
+                    13055137595,
                     3282369905,
+                    13055137582,
+                    13055137600,
                     3282369907,
                     7711133909,
                     7711133906,
@@ -14506,12 +14542,12 @@ var data = {
                     974667944,
                     974667941,
                     974667939,
-                    2368457967,
-                    974667936,
+                    13055149510,
                     974667926,
                     1054751875,
                     975063217,
                     9040236184,
+                    13055149506,
                     974667922,
                     974667919,
                     1054794677,
@@ -14530,64 +14566,84 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9098105,
-                        41.0091503
+                        28.9097702,
+                        41.0091944
                     ],
                     [
-                        28.9097785,
-                        41.0092185
+                        28.9096803,
+                        41.0093286
                     ],
                     [
-                        28.9097509,
-                        41.0092635
+                        28.9096543,
+                        41.0093674
                     ],
                     [
-                        28.9097106,
-                        41.0093269
+                        28.9095006,
+                        41.0095899
                     ],
                     [
-                        28.9095274,
-                        41.0096108
+                        28.9094526,
+                        41.0096879
                     ],
                     [
-                        28.9094941,
-                        41.0096827
+                        28.9094341,
+                        41.009799
                     ],
                     [
-                        28.9094687,
-                        41.0097788
+                        28.9094276,
+                        41.0099037
                     ],
                     [
-                        28.9094579,
-                        41.0098684
+                        28.9094373,
+                        41.0100551
                     ],
                     [
-                        28.9094607,
-                        41.009939
+                        28.909439,
+                        41.0100811
                     ],
                     [
-                        28.9094661,
-                        41.0100539
+                        28.9094588,
+                        41.0103501
                     ],
                     [
-                        28.9095096,
-                        41.0104465
+                        28.9094763,
+                        41.0105872
                     ],
                     [
-                        28.9095473,
-                        41.0106967
+                        28.9094943,
+                        41.0107062
                     ],
                     [
                         28.9096707,
                         41.0117081
                     ],
                     [
-                        28.9097398,
-                        41.0125699
+                        28.9096973,
+                        41.0118878
                     ],
                     [
-                        28.909798,
-                        41.0128726
+                        28.9097398,
+                        41.0125332
+                    ],
+                    [
+                        28.9097634,
+                        41.0127341
+                    ],
+                    [
+                        28.9097752,
+                        41.012815
+                    ],
+                    [
+                        28.9098224,
+                        41.0129912
+                    ],
+                    [
+                        28.9098811,
+                        41.0131388
+                    ],
+                    [
+                        28.9098838,
+                        41.0131452
                     ],
                     [
                         28.910892,
@@ -14610,64 +14666,64 @@ var data = {
                         41.0157758
                     ],
                     [
-                        28.9111509,
-                        41.0158729
+                        28.9111285,
+                        41.0158589
                     ],
                     [
                         28.9112549,
                         41.0159277
                     ],
                     [
-                        28.9114362,
-                        41.0160028
+                        28.9115859,
+                        41.0160557
                     ],
                     [
                         28.9121757,
                         41.016273
                     ],
                     [
-                        28.9126279,
-                        41.0164663
+                        28.9127214,
+                        41.0164918
                     ],
                     [
                         28.9138106,
                         41.0169662
                     ],
                     [
-                        28.9139917,
-                        41.0170562
+                        28.9140125,
+                        41.0170758
                     ],
                     [
-                        28.9141888,
-                        41.0171812
+                        28.9141992,
+                        41.0172008
                     ],
                     [
-                        28.9143814,
-                        41.0173319
+                        28.9145941,
+                        41.0175573
                     ],
                     [
-                        28.9146767,
-                        41.0175943
+                        28.9148445,
+                        41.017778
                     ],
                     [
-                        28.9149299,
-                        41.0178137
+                        28.914957,
+                        41.0178576
                     ],
                     [
-                        28.9149814,
-                        41.0178603
+                        28.9150987,
+                        41.0179484
                     ],
                     [
-                        28.915104,
-                        41.0179361
+                        28.9152337,
+                        41.01803
                     ],
                     [
-                        28.9152833,
-                        41.0180273
+                        28.9153903,
+                        41.0180848
                     ],
                     [
-                        28.9154383,
-                        41.0180805
+                        28.9155392,
+                        41.0181253
                     ],
                     [
                         28.9160757,
@@ -14743,20 +14799,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9839592,
-                        41.0366609
+                        28.9841158,
+                        41.0364743
                     ],
                     [
-                        28.9838812,
-                        41.0367273
+                        28.9838738,
+                        41.036724
                     ],
                     [
-                        28.9837536,
-                        41.0368612
+                        28.9837704,
+                        41.0368283
                     ],
                     [
-                        28.9837489,
-                        41.0368739
+                        28.9837563,
+                        41.0368557
                     ],
                     [
                         28.9837469,
@@ -14781,6 +14837,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -14842,10 +14899,12 @@ var data = {
                 "tags": {
                     "bridge": "yes",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -14953,6 +15012,7 @@ var data = {
                     11154298840,
                     7725470074,
                     3057305001,
+                    13140623435,
                     11154298848
                 ]
             },
@@ -14960,28 +15020,32 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.960579,
-                        41.0036975
+                        28.9605629,
+                        41.0036955
                     ],
                     [
                         28.9609128,
                         41.0036399
                     ],
                     [
-                        28.9613231,
-                        41.0035796
+                        28.9613218,
+                        41.0035847
                     ],
                     [
-                        28.9617545,
-                        41.0035393
+                        28.9617558,
+                        41.0035474
                     ],
                     [
                         28.9643677,
                         41.0033715
                     ],
                     [
-                        28.9650953,
-                        41.0032893
+                        28.9647447,
+                        41.0033289
+                    ],
+                    [
+                        28.9651154,
+                        41.0032923
                     ]
                 ]
             }
@@ -15774,6 +15838,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -15831,9 +15896,7 @@ var data = {
                     "railway": "subway",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     11710850496,
@@ -15956,6 +16019,7 @@ var data = {
                     7716874388,
                     8947033444,
                     7974014694,
+                    13203609289,
                     7716874389,
                     10685555784,
                     8947033460,
@@ -16465,16 +16529,20 @@ var data = {
                         41.0179413
                     ],
                     [
-                        28.8598292,
-                        41.0183052
+                        28.8598591,
+                        41.018277
                     ],
                     [
-                        28.8589067,
-                        41.0187438
+                        28.8590113,
+                        41.0186761
                     ],
                     [
-                        28.8568389,
-                        41.0196136
+                        28.8576153,
+                        41.0193103
+                    ],
+                    [
+                        28.8569286,
+                        41.019608
                     ],
                     [
                         28.8563138,
@@ -16615,9 +16683,7 @@ var data = {
                     "railway": "subway",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     5494015918,
@@ -16737,6 +16803,7 @@ var data = {
                     7974014771,
                     8947079633,
                     7716967012,
+                    13038153611,
                     8947079634,
                     7974014772,
                     8947079635,
@@ -17240,6 +17307,10 @@ var data = {
                     [
                         28.7989239,
                         41.1145539
+                    ],
+                    [
+                        28.7988804,
+                        41.1145631
                     ],
                     [
                         28.7984736,
@@ -18892,7 +18963,13 @@ var data = {
                 },
                 "nodes": [
                     3289785666,
+                    13137897094,
+                    13137897093,
+                    13137897092,
+                    13137897091,
                     3289785667,
+                    13137897090,
+                    13137897089,
                     3289785668,
                     11060344194,
                     11060344193
@@ -18902,20 +18979,44 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9839592,
-                        41.0366609
+                        28.9841158,
+                        41.0364743
                     ],
                     [
-                        28.9838976,
-                        41.036736
+                        28.9840765,
+                        41.0365235
                     ],
                     [
-                        28.9837728,
-                        41.0368705
+                        28.9840337,
+                        41.0365774
+                    ],
+                    [
+                        28.9840034,
+                        41.0366187
+                    ],
+                    [
+                        28.9839769,
+                        41.036648
+                    ],
+                    [
+                        28.9838936,
+                        41.0367332
+                    ],
+                    [
+                        28.983803,
+                        41.036824
+                    ],
+                    [
+                        28.9837863,
+                        41.0368448
+                    ],
+                    [
+                        28.9837731,
+                        41.0368695
                     ],
                     [
                         28.9837672,
-                        41.0368814
+                        41.0368903
                     ],
                     [
                         28.9837639,
@@ -18942,7 +19043,6 @@ var data = {
                 },
                 "nodes": [
                     3289786338,
-                    10293864688,
                     27412837,
                     10293864692,
                     2334805789,
@@ -18967,13 +19067,13 @@ var data = {
                     251402261,
                     2775747127,
                     7813891361,
+                    13138057902,
                     7813891357,
                     7813891365,
                     7600939830,
                     7813891358,
                     7600939831,
                     7600939832,
-                    10257952571,
                     1679439182
                 ]
             },
@@ -18981,40 +19081,36 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9773876,
-                        41.0335685
+                        28.9772847,
+                        41.0335585
                     ],
                     [
-                        28.9773182,
-                        41.0335398
+                        28.9772454,
+                        41.0335435
                     ],
                     [
-                        28.9772653,
-                        41.0335179
+                        28.9771736,
+                        41.0335145
                     ],
                     [
-                        28.9772148,
-                        41.0334968
+                        28.9770862,
+                        41.0334758
                     ],
                     [
-                        28.9771003,
-                        41.033449
+                        28.9769655,
+                        41.0334095
                     ],
                     [
-                        28.9769878,
-                        41.0333902
+                        28.9769216,
+                        41.0333798
                     ],
                     [
-                        28.9769457,
-                        41.0333682
+                        28.9768634,
+                        41.0333219
                     ],
                     [
-                        28.9769197,
-                        41.0333442
-                    ],
-                    [
-                        28.976847,
-                        41.0332773
+                        28.9768001,
+                        41.0332475
                     ],
                     [
                         28.9767589,
@@ -19077,12 +19173,16 @@ var data = {
                         41.0291865
                     ],
                     [
-                        28.9748566,
-                        41.0288861
+                        28.9747964,
+                        41.0288238
                     ],
                     [
                         28.9745621,
                         41.0285756
+                    ],
+                    [
+                        28.9745202,
+                        41.0285328
                     ],
                     [
                         28.9744914,
@@ -19097,24 +19197,20 @@ var data = {
                         41.0285033
                     ],
                     [
-                        28.9744219,
-                        41.0284951
+                        28.9744232,
+                        41.0284895
                     ],
                     [
-                        28.9743761,
-                        41.0284898
+                        28.9743821,
+                        41.0284837
                     ],
                     [
-                        28.9743215,
-                        41.0284878
+                        28.9743376,
+                        41.0284812
                     ],
                     [
-                        28.9742332,
-                        41.0284881
-                    ],
-                    [
-                        28.9742109,
-                        41.0284882
+                        28.9742907,
+                        41.0284814
                     ]
                 ]
             }
@@ -19137,9 +19233,7 @@ var data = {
                 },
                 "nodes": [
                     3289786343,
-                    3289786342,
                     3289786337,
-                    3289786340,
                     3289786338
                 ]
             },
@@ -19147,24 +19241,16 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9776226,
-                        41.0336614
+                        28.9779176,
+                        41.0337858
                     ],
                     [
-                        28.9775606,
-                        41.0336521
+                        28.9774617,
+                        41.0336224
                     ],
                     [
-                        28.9774969,
-                        41.0336275
-                    ],
-                    [
-                        28.9774544,
-                        41.033611
-                    ],
-                    [
-                        28.9773876,
-                        41.0335685
+                        28.9772847,
+                        41.0335585
                     ]
                 ]
             }
@@ -19187,9 +19273,13 @@ var data = {
                 },
                 "nodes": [
                     3289786338,
+                    13137930665,
+                    13137930666,
                     3289786339,
                     3289786336,
                     3289786341,
+                    13137930667,
+                    13137930668,
                     3289786343
                 ]
             },
@@ -19197,24 +19287,40 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9773876,
-                        41.0335685
+                        28.9772847,
+                        41.0335585
                     ],
                     [
-                        28.9774734,
-                        41.0335822
+                        28.9773547,
+                        41.0335783
                     ],
                     [
-                        28.9775139,
-                        41.0335988
+                        28.9774227,
+                        41.0335916
                     ],
                     [
-                        28.977577,
-                        41.0336247
+                        28.9774714,
+                        41.0336055
                     ],
                     [
-                        28.9776226,
-                        41.0336614
+                        28.9775964,
+                        41.0336499
+                    ],
+                    [
+                        28.9777741,
+                        41.0337135
+                    ],
+                    [
+                        28.9778214,
+                        41.0337342
+                    ],
+                    [
+                        28.9778743,
+                        41.0337654
+                    ],
+                    [
+                        28.9779176,
+                        41.0337858
                     ]
                 ]
             }
@@ -19237,29 +19343,49 @@ var data = {
                 },
                 "nodes": [
                     1679439182,
+                    13138050699,
+                    13138050698,
                     3289788383,
                     3289788384,
-                    3289788382
+                    13138050700,
+                    13138057901,
+                    3289788381
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9742109,
-                        41.0284882
+                        28.9742907,
+                        41.0284814
                     ],
                     [
-                        28.9740655,
-                        41.0284953
+                        28.9742499,
+                        41.0284855
                     ],
                     [
-                        28.9739387,
-                        41.0284945
+                        28.974185,
+                        41.0284943
                     ],
                     [
-                        28.9738631,
-                        41.0284863
+                        28.9741513,
+                        41.0284971
+                    ],
+                    [
+                        28.9740047,
+                        41.0284975
+                    ],
+                    [
+                        28.9739758,
+                        41.0284948
+                    ],
+                    [
+                        28.973909,
+                        41.0284861
+                    ],
+                    [
+                        28.9738621,
+                        41.0284825
                     ]
                 ]
             }
@@ -19281,10 +19407,8 @@ var data = {
                     "voltage": "600"
                 },
                 "nodes": [
-                    3289788382,
                     3289788381,
                     3289788380,
-                    7813891359,
                     1679439182
                 ]
             },
@@ -19292,24 +19416,16 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9738631,
-                        41.0284863
+                        28.9738621,
+                        41.0284825
                     ],
                     [
-                        28.9738954,
-                        41.0284823
+                        28.9740144,
+                        41.0284813
                     ],
                     [
-                        28.9739956,
-                        41.0284798
-                    ],
-                    [
-                        28.9741147,
-                        41.0284773
-                    ],
-                    [
-                        28.9742109,
-                        41.0284882
+                        28.9742907,
+                        41.0284814
                     ]
                 ]
             }
@@ -19320,11 +19436,13 @@ var data = {
                 "type": "way",
                 "id": 323764099,
                 "tags": {
+                    "cutting": "yes",
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -19343,9 +19461,7 @@ var data = {
                     4259060233,
                     4259060231,
                     1034388871,
-                    1034388873,
-                    1034388874,
-                    251732707
+                    1034388873
                 ]
             },
             "geometry": {
@@ -19394,14 +19510,6 @@ var data = {
                     [
                         28.9209294,
                         40.991889
-                    ],
-                    [
-                        28.9206873,
-                        40.9919521
-                    ],
-                    [
-                        28.919771,
-                        40.992185
                     ]
                 ]
             }
@@ -19419,6 +19527,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -19453,11 +19562,13 @@ var data = {
                 "type": "way",
                 "id": 323765315,
                 "tags": {
+                    "cutting": "yes",
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -19466,8 +19577,6 @@ var data = {
                     "voltage": "25000"
                 },
                 "nodes": [
-                    3305442179,
-                    3305442177,
                     4259060232,
                     3305442176,
                     3305442174,
@@ -19486,16 +19595,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9197471,
-                        40.9921403
-                    ],
-                    [
-                        28.9206433,
-                        40.9919084
-                    ],
-                    [
-                        28.9208873,
-                        40.9918472
+                        28.9209101,
+                        40.9918432
                     ],
                     [
                         28.9211087,
@@ -19538,8 +19639,8 @@ var data = {
                         40.9918973
                     ],
                     [
-                        28.9236755,
-                        40.99204
+                        28.9236835,
+                        40.9920481
                     ]
                 ]
             }
@@ -19572,6 +19673,7 @@ var data = {
                     "name:uk": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
                     "name:ur": "\u0645\u0631\u0645\u0631\u0627\u0626\u06cc",
                     "name:zh": "\u9a6c\u5c14\u9a6c\u62c9\u94c1\u8def",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -19593,7 +19695,7 @@ var data = {
                     3305588890,
                     11282171112,
                     3305588891,
-                    3305588893,
+                    13140618276,
                     11282171109,
                     3409803039,
                     6507029924,
@@ -19673,16 +19775,16 @@ var data = {
                         41.0156015
                     ],
                     [
-                        28.9856469,
-                        41.0169413
+                        28.9855986,
+                        41.0167996
                     ],
                     [
-                        28.9864111,
-                        41.017324
+                        28.9869475,
+                        41.0174171
                     ],
                     [
-                        28.9879483,
-                        41.0179641
+                        29.0069979,
+                        41.0241772
                     ],
                     [
                         29.0087012,
@@ -19862,6 +19964,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -19928,10 +20031,12 @@ var data = {
                 "tags": {
                     "bridge": "yes",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -19970,6 +20075,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -19983,8 +20089,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9533349,
-                        41.0048654
+                        28.9532334,
+                        41.0048585
                     ],
                     [
                         28.9540279,
@@ -19999,174 +20105,41 @@ var data = {
                 "type": "way",
                 "id": 323783717,
                 "tags": {
-                    "bridge": "yes",
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
-                    "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    3305602325,
-                    3305602326
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9325197,
-                        40.999383
-                    ],
-                    [
-                        28.9326015,
-                        40.9994723
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783718,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602343,
-                    3305602342
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.960364,
-                        41.0036965
-                    ],
-                    [
-                        28.9605726,
-                        41.003663
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783719,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602332,
-                    3305602333
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.937763,
-                        41.0022174
-                    ],
-                    [
-                        28.9381154,
-                        41.0023461
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783721,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602317,
-                    3305602318
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9301225,
-                        40.9954557
-                    ],
-                    [
-                        28.930229,
-                        40.9955481
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783722,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602322,
                     11154298855,
                     3305602323,
                     4096852616,
                     3305602324,
                     11684007836,
-                    3305602325
+                    3305602325,
+                    3305602326,
+                    3305602327,
+                    7725470084,
+                    3305602328,
+                    7725470083,
+                    3305602329,
+                    3305602330,
+                    11684007834,
+                    3305602331,
+                    4096851785,
+                    3305602332
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9314354,
-                        40.9971398
-                    ],
-                    [
-                        28.931652,
-                        40.9977497
+                        28.931715,
+                        40.9979208
                     ],
                     [
                         28.9318736,
@@ -20187,220 +20160,7 @@ var data = {
                     [
                         28.9325197,
                         40.999383
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783723,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602342,
-                    11684007820,
-                    11154298838,
-                    11154298839,
-                    11228793731,
-                    3305602338,
-                    11154298849
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9605726,
-                        41.003663
                     ],
-                    [
-                        28.9609063,
-                        41.0036041
-                    ],
-                    [
-                        28.9613132,
-                        41.0035429
-                    ],
-                    [
-                        28.9617581,
-                        41.0034989
-                    ],
-                    [
-                        28.9632405,
-                        41.003417
-                    ],
-                    [
-                        28.9643645,
-                        41.0033431
-                    ],
-                    [
-                        28.9651008,
-                        41.0032549
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783724,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602318,
-                    4096852607,
-                    3305602319,
-                    3305602320,
-                    3305602321
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.930229,
-                        40.9955481
-                    ],
-                    [
-                        28.9304482,
-                        40.995737
-                    ],
-                    [
-                        28.9309483,
-                        40.9962964
-                    ],
-                    [
-                        28.9311937,
-                        40.9966254
-                    ],
-                    [
-                        28.9314002,
-                        40.9970659
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783725,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602355,
-                    3305602353,
-                    11684007824,
-                    3305602350,
-                    11684007823,
-                    11154298847,
-                    3305602348,
-                    11154298845,
-                    11154298846,
-                    3305602343
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9540279,
-                        41.0048121
-                    ],
-                    [
-                        28.9549313,
-                        41.0047482
-                    ],
-                    [
-                        28.9556957,
-                        41.0046994
-                    ],
-                    [
-                        28.9564426,
-                        41.0046135
-                    ],
-                    [
-                        28.956741,
-                        41.004571
-                    ],
-                    [
-                        28.9570429,
-                        41.0045205
-                    ],
-                    [
-                        28.957572,
-                        41.0043998
-                    ],
-                    [
-                        28.9582785,
-                        41.00423
-                    ],
-                    [
-                        28.9589119,
-                        41.0040566
-                    ],
-                    [
-                        28.960364,
-                        41.0036965
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783726,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305602326,
-                    3305602327,
-                    7725470084,
-                    3305602328,
-                    7725470083,
-                    3305602329,
-                    3305602330,
-                    11684007834,
-                    3305602331,
-                    4096851785,
-                    3305602332
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
                     [
                         28.9326015,
                         40.9994723
@@ -20452,12 +20212,202 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
+                "id": 323783718,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602355,
+                    3305602353,
+                    11684007824,
+                    3305602350,
+                    11684007823,
+                    11154298847,
+                    3305602348,
+                    11154298845,
+                    11154298846,
+                    13140623433,
+                    3305602343
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9540279,
+                        41.0048121
+                    ],
+                    [
+                        28.9549313,
+                        41.0047482
+                    ],
+                    [
+                        28.9556957,
+                        41.0046994
+                    ],
+                    [
+                        28.9564426,
+                        41.0046135
+                    ],
+                    [
+                        28.956741,
+                        41.004571
+                    ],
+                    [
+                        28.9570429,
+                        41.0045205
+                    ],
+                    [
+                        28.957572,
+                        41.0043998
+                    ],
+                    [
+                        28.9580465,
+                        41.0042816
+                    ],
+                    [
+                        28.9589119,
+                        41.0040566
+                    ],
+                    [
+                        28.9600055,
+                        41.0037783
+                    ],
+                    [
+                        28.9603908,
+                        41.0036925
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 323783719,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602332,
+                    3305602333
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.937763,
+                        41.0022174
+                    ],
+                    [
+                        28.9381013,
+                        41.002338
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 323783721,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    4096852601,
+                    4096851787,
+                    13140609673,
+                    13140609672,
+                    3305602314,
+                    4259060244,
+                    3305602315,
+                    3305602316,
+                    13140609674,
+                    3305602317
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9244256,
+                        40.9923111
+                    ],
+                    [
+                        28.9251601,
+                        40.9926429
+                    ],
+                    [
+                        28.9253911,
+                        40.9927456
+                    ],
+                    [
+                        28.9256222,
+                        40.9928544
+                    ],
+                    [
+                        28.9266435,
+                        40.9933302
+                    ],
+                    [
+                        28.9281794,
+                        40.9940569
+                    ],
+                    [
+                        28.9284825,
+                        40.9942188
+                    ],
+                    [
+                        28.928772,
+                        40.9943941
+                    ],
+                    [
+                        28.9290245,
+                        40.9945668
+                    ],
+                    [
+                        28.9301252,
+                        40.9954689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
                 "id": 323783727,
                 "tags": {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20500,8 +20450,8 @@ var data = {
                         41.0048662
                     ],
                     [
-                        28.9533349,
-                        41.0048654
+                        28.9532334,
+                        41.0048585
                     ]
                 ]
             }
@@ -20516,6 +20466,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20527,15 +20478,18 @@ var data = {
                     11228793730,
                     11154298854,
                     3305602339,
-                    7725470073
+                    13004337857,
+                    11684007833,
+                    11684007826,
+                    3305602346
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9381154,
-                        41.0023461
+                        28.9381013,
+                        41.002338
                     ],
                     [
                         28.9386123,
@@ -20558,43 +20512,20 @@ var data = {
                         41.0035209
                     ],
                     [
-                        28.9463946,
-                        41.0036805
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 323783856,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    3305604379,
-                    3305604378
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9667017,
-                        41.0031397
+                        28.9463682,
+                        41.0036758
                     ],
                     [
-                        28.9668376,
-                        41.0031315
+                        28.9468162,
+                        41.0037656
+                    ],
+                    [
+                        28.9495057,
+                        41.0042967
+                    ],
+                    [
+                        28.9500783,
+                        41.0044108
                     ]
                 ]
             }
@@ -20611,6 +20542,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20624,12 +20556,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9651008,
-                        41.0032549
+                        28.9651129,
+                        41.0032539
                     ],
                     [
-                        28.965433,
-                        41.0032232
+                        28.9654403,
+                        41.0032303
                     ]
                 ]
             }
@@ -20644,6 +20576,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20651,23 +20584,23 @@ var data = {
                 "nodes": [
                     3305604381,
                     11154298851,
-                    3305604379
+                    3305604378
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.965433,
-                        41.0032232
+                        28.9654403,
+                        41.0032303
                     ],
                     [
-                        28.9664055,
-                        41.0031651
+                        28.9665772,
+                        41.003154
                     ],
                     [
-                        28.9667017,
-                        41.0031397
+                        28.966689,
+                        41.0031473
                     ]
                 ]
             }
@@ -20682,13 +20615,15 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    3305604378,
+                    13140623439,
                     11684007809,
+                    13140623441,
                     3305604375
                 ]
             },
@@ -20696,12 +20631,16 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9668376,
-                        41.0031315
+                        28.9667817,
+                        41.0031414
                     ],
                     [
-                        28.9679685,
-                        41.0030655
+                        28.9679001,
+                        41.0030706
+                    ],
+                    [
+                        28.9682532,
+                        41.0030379
                     ],
                     [
                         28.9686539,
@@ -20722,6 +20661,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20735,12 +20675,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9792221,
-                        41.0034666
+                        28.9792234,
+                        41.0034737
                     ],
                     [
-                        28.9793409,
-                        41.003517
+                        28.9793382,
+                        41.003519
                     ]
                 ]
             }
@@ -20757,6 +20697,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20774,8 +20715,8 @@ var data = {
                         41.0024591
                     ],
                     [
-                        28.9738054,
-                        41.0024646
+                        28.9738027,
+                        41.0024606
                     ]
                 ]
             }
@@ -20792,6 +20733,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20805,12 +20747,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9712956,
-                        41.0026393
+                        28.9712976,
+                        41.0026444
                     ],
                     [
-                        28.9715138,
-                        41.0026145
+                        28.9715078,
+                        41.0026165
                     ]
                 ]
             }
@@ -20827,6 +20769,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20860,15 +20803,18 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
                     3305610503,
+                    13140623455,
                     11775780001,
                     3305610504,
                     11684007807,
+                    13140623456,
                     3305610505
                 ]
             },
@@ -20876,24 +20822,32 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9793409,
-                        41.003517
+                        28.9793382,
+                        41.003519
                     ],
                     [
-                        28.9798468,
-                        41.0037674
+                        28.979596,
+                        41.0036314
                     ],
                     [
-                        28.9803355,
-                        41.004028
+                        28.9798522,
+                        41.0037583
+                    ],
+                    [
+                        28.9803449,
+                        41.004025
                     ],
                     [
                         28.9810568,
                         41.0044174
                     ],
                     [
-                        28.9821555,
-                        41.0050942
+                        28.9814323,
+                        41.0046351
+                    ],
+                    [
+                        28.9822185,
+                        41.0051235
                     ]
                 ]
             }
@@ -20908,13 +20862,16 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
                     3305610495,
+                    13140623442,
                     3305610494,
+                    13140623443,
                     3305610489,
                     3305610490
                 ]
@@ -20923,12 +20880,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9715138,
-                        41.0026145
+                        28.9715078,
+                        41.0026165
+                    ],
+                    [
+                        28.9720926,
+                        41.002544
                     ],
                     [
                         28.9726308,
                         41.0024895
+                    ],
+                    [
+                        28.9729369,
+                        41.0024707
                     ],
                     [
                         28.9732349,
@@ -20951,6 +20916,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -20983,8 +20949,8 @@ var data = {
                         41.0026939
                     ],
                     [
-                        28.9712956,
-                        41.0026393
+                        28.9712976,
+                        41.0026444
                     ]
                 ]
             }
@@ -20999,17 +20965,23 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
                     3305610491,
+                    13140623444,
                     3305610492,
+                    13140623445,
                     3305610493,
                     11005962177,
                     11005962178,
+                    13140623451,
                     3305610500,
+                    13140623453,
+                    13140623454,
                     11154298834,
                     3305610502
                 ]
@@ -21018,12 +20990,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9738054,
-                        41.0024646
+                        28.9738027,
+                        41.0024606
+                    ],
+                    [
+                        28.9741516,
+                        41.0024749
                     ],
                     [
                         28.9745005,
                         41.0024994
+                    ],
+                    [
+                        28.9749143,
+                        41.0025422
                     ],
                     [
                         28.9752873,
@@ -21034,20 +21014,32 @@ var data = {
                         41.0026714
                     ],
                     [
-                        28.9762347,
-                        41.0027626
+                        28.9760818,
+                        41.0027403
                     ],
                     [
-                        28.9784137,
-                        41.0032177
+                        28.9781489,
+                        41.0031635
                     ],
                     [
-                        28.9788448,
-                        41.0033358
+                        28.9784124,
+                        41.0032187
                     ],
                     [
-                        28.9792221,
-                        41.0034666
+                        28.9786115,
+                        41.0032688
+                    ],
+                    [
+                        28.9788113,
+                        41.0033286
+                    ],
+                    [
+                        28.9790057,
+                        41.0033915
+                    ],
+                    [
+                        28.9792234,
+                        41.0034737
                     ]
                 ]
             }
@@ -21064,6 +21056,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -21077,12 +21070,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9821555,
-                        41.0050942
+                        28.9822185,
+                        41.0051235
                     ],
                     [
-                        28.9822897,
-                        41.0051748
+                        28.9823326,
+                        41.005195
                     ]
                 ]
             }
@@ -21097,32 +21090,41 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    3305598427,
-                    12660718809,
                     3305598428,
+                    13140618260,
+                    13140618261,
                     3305598429,
+                    13140618262,
                     11154298872,
+                    13140618263,
                     3305598430,
                     11684007806,
                     5764494191,
                     11154298873,
+                    13140618264,
                     3305598431,
+                    13140618265,
                     11154298874,
                     11154298875,
                     3459530813,
+                    13140618267,
                     11154298876,
                     11684007805,
                     3305598432,
                     11154298877,
+                    13140618268,
                     3305598433,
+                    13140618269,
                     11154298878,
                     3305598434,
                     3305598438,
+                    13140618270,
                     4013901239,
                     11684007804,
                     3305598440,
@@ -21130,12 +21132,14 @@ var data = {
                     3305598441,
                     4013901714,
                     4013901721,
+                    13140618271,
                     4013901730,
                     4013901735,
                     3305598444,
                     3425182641,
                     4013901731,
                     4013901724,
+                    13140618272,
                     11775924819,
                     11775924802
                 ]
@@ -21144,28 +21148,36 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9822897,
-                        41.0051748
+                        28.9836003,
+                        41.0059845
                     ],
                     [
-                        28.9829541,
-                        41.0055807
+                        28.9838327,
+                        41.0061474
                     ],
                     [
-                        28.9836016,
-                        41.005983
+                        28.9841786,
+                        41.0064101
                     ],
                     [
-                        28.9844966,
-                        41.0066516
+                        28.9844899,
+                        41.0066627
                     ],
                     [
-                        28.9852015,
-                        41.0073212
+                        28.9848137,
+                        41.0069464
                     ],
                     [
-                        28.9855882,
-                        41.0077775
+                        28.9851921,
+                        41.0073161
+                    ],
+                    [
+                        28.9854215,
+                        41.0075833
+                    ],
+                    [
+                        28.9856941,
+                        41.0079111
                     ],
                     [
                         28.9859093,
@@ -21176,12 +21188,20 @@ var data = {
                         41.00856
                     ],
                     [
-                        28.986427,
-                        41.009071
+                        28.9863371,
+                        41.0089162
                     ],
                     [
-                        28.9866302,
-                        41.0095396
+                        28.9864904,
+                        41.0092289
+                    ],
+                    [
+                        28.9866275,
+                        41.0095416
+                    ],
+                    [
+                        28.9867171,
+                        41.0097853
                     ],
                     [
                         28.9867959,
@@ -21192,15 +21212,19 @@ var data = {
                         41.0103523
                     ],
                     [
-                        28.9869632,
-                        41.0107312
+                        28.9869498,
+                        41.0107322
                     ],
                     [
-                        28.9870178,
-                        41.0112491
+                        28.9869898,
+                        41.0110003
                     ],
                     [
-                        28.9870345,
+                        28.9870111,
+                        41.0112542
+                    ],
+                    [
+                        28.9870238,
                         41.0116103
                     ],
                     [
@@ -21212,12 +21236,20 @@ var data = {
                         41.0130602
                     ],
                     [
+                        28.9869568,
+                        41.0136548
+                    ],
+                    [
                         28.9869321,
                         41.0140706
                     ],
                     [
-                        28.9868913,
-                        41.0144585
+                        28.9869144,
+                        41.0142949
+                    ],
+                    [
+                        28.9868819,
+                        41.014498
                     ],
                     [
                         28.986838,
@@ -21228,16 +21260,20 @@ var data = {
                         41.0148625
                     ],
                     [
+                        28.9866692,
+                        41.0150631
+                    ],
+                    [
                         28.9865795,
                         41.0152071
                     ],
                     [
-                        28.986492,
-                        41.0153082
+                        28.9864679,
+                        41.0153375
                     ],
                     [
-                        28.9863905,
-                        41.0154067
+                        28.9863395,
+                        41.0154644
                     ],
                     [
                         28.9861482,
@@ -21252,36 +21288,44 @@ var data = {
                         41.0159484
                     ],
                     [
-                        28.9851863,
-                        41.0160531
+                        28.9853057,
+                        41.0160217
                     ],
                     [
-                        28.984892,
-                        41.0161221
+                        28.9850782,
+                        41.0160825
                     ],
                     [
-                        28.9845958,
-                        41.0161695
+                        28.9848357,
+                        41.0161373
                     ],
                     [
-                        28.9842588,
-                        41.0161771
+                        28.9845985,
+                        41.0161776
                     ],
                     [
-                        28.9840447,
-                        41.0161753
+                        28.9842977,
+                        41.0161913
                     ],
                     [
-                        28.9837967,
-                        41.0161449
+                        28.9840407,
+                        41.0161844
                     ],
                     [
-                        28.9834699,
-                        41.0160769
+                        28.9837994,
+                        41.016157
                     ],
                     [
-                        28.9831148,
-                        41.0159605
+                        28.9835651,
+                        41.0161113
+                    ],
+                    [
+                        28.9833835,
+                        41.0160582
+                    ],
+                    [
+                        28.9832087,
+                        41.016001
                     ],
                     [
                         28.9827486,
@@ -21301,6 +21345,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -21438,6 +21483,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -22379,6 +22426,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -22423,6 +22472,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -22471,6 +22521,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -22491,6 +22543,7 @@ var data = {
                     3653997032,
                     3653997033,
                     3653997034,
+                    13362685798,
                     3653996914
                 ]
             },
@@ -22550,6 +22603,10 @@ var data = {
                         41.0651783
                     ],
                     [
+                        28.6979857,
+                        41.0652872
+                    ],
+                    [
                         28.6978178,
                         41.0654538
                     ]
@@ -22594,8 +22651,8 @@ var data = {
                         41.0760312
                     ],
                     [
-                        29.0152845,
-                        41.0760897
+                        29.0156069,
+                        41.0762118
                     ]
                 ]
             }
@@ -22614,6 +22671,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -22629,8 +22687,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8438614,
-                        40.9763146
+                        28.8438349,
+                        40.9762807
                     ],
                     [
                         28.8440458,
@@ -22650,6 +22708,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "T6 Kazl\u0131\u00e7e\u015fme - Sirkeci Tramvay Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -22704,69 +22763,6 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 426628497,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    4096852601,
-                    4096851787,
-                    3305602314,
-                    4259060245,
-                    4259060244,
-                    3305602315,
-                    3305602316,
-                    3305602317
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9244645,
-                        40.9923202
-                    ],
-                    [
-                        28.9251936,
-                        40.9926257
-                    ],
-                    [
-                        28.9266945,
-                        40.9933272
-                    ],
-                    [
-                        28.927989,
-                        40.993949
-                    ],
-                    [
-                        28.9281861,
-                        40.9940437
-                    ],
-                    [
-                        28.9285777,
-                        40.9942654
-                    ],
-                    [
-                        28.9287881,
-                        40.994383
-                    ],
-                    [
-                        28.9301225,
-                        40.9954557
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 426628498,
                 "tags": {
                     "bridge": "yes",
@@ -22776,6 +22772,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -22817,6 +22814,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -22890,24 +22888,24 @@ var data = {
                         40.9917499
                     ],
                     [
-                        28.923122,
-                        40.9918031
+                        28.9231461,
+                        40.9918203
                     ],
                     [
-                        28.9233612,
-                        40.9918616
+                        28.9233692,
+                        40.9918788
                     ],
                     [
-                        28.9236194,
-                        40.9919447
+                        28.9236114,
+                        40.9919589
                     ],
                     [
-                        28.9239499,
-                        40.9920747
+                        28.9239003,
+                        40.9920727
                     ],
                     [
-                        28.9244645,
-                        40.9923202
+                        28.9244256,
+                        40.9923111
                     ]
                 ]
             }
@@ -22922,6 +22920,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -22979,6 +22979,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -23031,6 +23033,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -23082,66 +23085,6 @@ var data = {
                     [
                         28.9114646,
                         40.9919711
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 472165830,
-                "tags": {
-                    "construction": "rail",
-                    "construction:railway": "rail",
-                    "electrified": "contact_line",
-                    "gauge": "1435",
-                    "highspeed": "yes",
-                    "maxspeed": "200",
-                    "name": "Gebze-\u0130ST-Halkal\u0131 YHT",
-                    "railway": "construction",
-                    "usage": "main"
-                },
-                "nodes": [
-                    5527119166,
-                    11171809545,
-                    11171809544,
-                    5527119165,
-                    5527119164,
-                    11171809543,
-                    4663955819
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        29.0949719,
-                        41.2109911
-                    ],
-                    [
-                        29.0958534,
-                        41.2105372
-                    ],
-                    [
-                        29.0965175,
-                        41.2101811
-                    ],
-                    [
-                        29.0974839,
-                        41.2096541
-                    ],
-                    [
-                        29.0999127,
-                        41.2085092
-                    ],
-                    [
-                        29.1008335,
-                        41.2080752
-                    ],
-                    [
-                        29.1016863,
-                        41.2076993
                     ]
                 ]
             }
@@ -23429,9 +23372,11 @@ var data = {
                 "id": 496534943,
                 "tags": {
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -23497,9 +23442,11 @@ var data = {
                 "id": 496534944,
                 "tags": {
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -23573,34 +23520,44 @@ var data = {
                 },
                 "nodes": [
                     3282407187,
-                    7711133993,
-                    9040305891,
+                    13054592010,
+                    13054592009,
+                    13054592008,
+                    13054591883,
                     9040305900,
+                    13054592002,
                     4283925801,
+                    13054591951,
                     9040305897,
                     3282407188,
                     9040305904,
                     3282407189,
+                    13054591949,
                     9770642201,
                     6112363254,
                     3282407190,
                     7711238160,
                     3282407191,
+                    13054591959,
                     5499934371,
+                    13054591975,
+                    13054591976,
                     3285605199,
                     3282407193,
                     9040308130,
+                    13054591979,
+                    13054591980,
                     9040308129,
                     3282407194,
                     9040308133,
                     3282407195,
                     4283888079,
                     9040308139,
-                    7711238178,
                     7711238181,
                     4283888077,
                     5499934369,
                     4283888076,
+                    13054591998,
                     3282407201,
                     7711238174,
                     7711238171,
@@ -23649,6 +23606,7 @@ var data = {
                     3282407227,
                     3282407229,
                     3282407231,
+                    12985679471,
                     7711340807,
                     3282407233,
                     7711340808,
@@ -23675,120 +23633,160 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.883497,
-                        41.0027315
+                        28.8834263,
+                        41.0028099
                     ],
                     [
-                        28.8827126,
-                        41.0040668
+                        28.8833221,
+                        41.0029686
                     ],
                     [
-                        28.8819519,
-                        41.0054719
+                        28.8832283,
+                        41.0031305
                     ],
                     [
-                        28.8819408,
-                        41.0054915
+                        28.8828722,
+                        41.0037703
                     ],
                     [
-                        28.8817558,
-                        41.0058182
+                        28.8828357,
+                        41.0038334
                     ],
                     [
-                        28.8815809,
-                        41.0061271
+                        28.8819117,
+                        41.0054837
                     ],
                     [
-                        28.8815004,
-                        41.0062693
+                        28.8819032,
+                        41.0054973
                     ],
                     [
-                        28.8814273,
-                        41.006472
+                        28.8816928,
+                        41.0058363
                     ],
                     [
-                        28.8812694,
-                        41.0074172
+                        28.8815143,
+                        41.0060978
                     ],
                     [
-                        28.8812254,
-                        41.007986
+                        28.8814835,
+                        41.0061516
                     ],
                     [
-                        28.8812161,
-                        41.0081059
+                        28.8814002,
+                        41.006331
                     ],
                     [
-                        28.8810021,
-                        41.0104224
+                        28.8813589,
+                        41.0064657
                     ],
                     [
-                        28.880977,
-                        41.0109024
+                        28.8812076,
+                        41.0074046
                     ],
                     [
-                        28.8809717,
-                        41.0109854
+                        28.8811362,
+                        41.0079883
                     ],
                     [
-                        28.8808575,
-                        41.0114403
+                        28.8811274,
+                        41.0080767
                     ],
                     [
-                        28.8803865,
-                        41.0133153
+                        28.8811238,
+                        41.0081129
                     ],
                     [
-                        28.8802302,
-                        41.0138725
+                        28.880922,
+                        41.0104476
                     ],
                     [
-                        28.880129,
-                        41.0140657
+                        28.8808957,
+                        41.0109206
                     ],
                     [
-                        28.880011,
-                        41.014183
+                        28.880893,
+                        41.011023
                     ],
                     [
-                        28.8798671,
-                        41.0142739
+                        28.8808632,
+                        41.0112228
                     ],
                     [
-                        28.8796684,
-                        41.0143572
+                        28.8807848,
+                        41.0115728
+                    ],
+                    [
+                        28.8806729,
+                        41.0120623
+                    ],
+                    [
+                        28.8805497,
+                        41.0124236
+                    ],
+                    [
+                        28.8803181,
+                        41.0133644
+                    ],
+                    [
+                        28.8802035,
+                        41.0138271
+                    ],
+                    [
+                        28.8801477,
+                        41.0139747
+                    ],
+                    [
+                        28.8800991,
+                        41.0140577
+                    ],
+                    [
+                        28.8800395,
+                        41.0141243
+                    ],
+                    [
+                        28.8799902,
+                        41.0141657
+                    ],
+                    [
+                        28.8798505,
+                        41.0142747
+                    ],
+                    [
+                        28.879685,
+                        41.0143415
                     ],
                     [
                         28.8788493,
                         41.0145828
                     ],
                     [
-                        28.8784146,
-                        41.0147127
+                        28.8784894,
+                        41.0146774
                     ],
                     [
-                        28.8783728,
-                        41.014732
+                        28.8783421,
+                        41.0147249
                     ],
                     [
-                        28.8782354,
+                        28.878176,
                         41.0147955
                     ],
                     [
-                        28.8782155,
-                        41.0148073
+                        28.8778266,
+                        41.0150225
                     ],
                     [
-                        28.8779222,
-                        41.0150123
+                        28.877486,
+                        41.0152632
                     ],
                     [
-                        28.8775359,
-                        41.0152867
+                        28.8772391,
+                        41.0154363
                     ],
                     [
-                        28.8772921,
-                        41.0154551
+                        28.8771674,
+                        41.0155162
                     ],
                     [
                         28.8769387,
@@ -23983,6 +23981,10 @@ var data = {
                         41.0266062
                     ],
                     [
+                        28.8615534,
+                        41.0267032
+                    ],
+                    [
                         28.8613968,
                         41.0271723
                     ],
@@ -24086,17 +24088,22 @@ var data = {
                 },
                 "nodes": [
                     3282407185,
+                    13054592017,
                     4958787828,
                     3282407184,
                     4958787880,
+                    13054592018,
                     4958787882,
                     3282407181,
                     4958787848,
+                    13054592020,
                     3282407180,
+                    13054592021,
                     4958787846,
                     3282407182,
                     4958787420,
                     3282407183,
+                    13054592014,
                     3282407186,
                     4958787822,
                     4958787826,
@@ -24108,20 +24115,28 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.889075,
-                        41.001549
+                        28.888917,
+                        41.00156
                     ],
                     [
-                        28.8883688,
-                        41.0014963
+                        28.8886437,
+                        41.0015429
                     ],
                     [
-                        28.8878799,
-                        41.0014599
+                        28.8883657,
+                        41.0015175
                     ],
                     [
-                        28.8875319,
-                        41.0014264
+                        28.8878757,
+                        41.0014701
+                    ],
+                    [
+                        28.8876462,
+                        41.0014484
+                    ],
+                    [
+                        28.8874342,
+                        41.0014163
                     ],
                     [
                         28.8871859,
@@ -24136,24 +24151,36 @@ var data = {
                         41.0012037
                     ],
                     [
-                        28.8860987,
-                        41.0012096
+                        28.8862169,
+                        41.0011965
                     ],
                     [
-                        28.8858636,
-                        41.0012442
+                        28.8860842,
+                        41.0012033
                     ],
                     [
-                        28.8856711,
-                        41.0012829
+                        28.8859713,
+                        41.0012116
                     ],
                     [
-                        28.8854881,
-                        41.0013454
+                        28.8858605,
+                        41.0012277
                     ],
                     [
-                        28.8853023,
-                        41.0014297
+                        28.8856399,
+                        41.001286
+                    ],
+                    [
+                        28.8854704,
+                        41.001347
+                    ],
+                    [
+                        28.8853013,
+                        41.001425
+                    ],
+                    [
+                        28.8850563,
+                        41.0015574
                     ],
                     [
                         28.8847006,
@@ -24168,12 +24195,12 @@ var data = {
                         41.0022432
                     ],
                     [
-                        28.8837057,
-                        41.0024881
+                        28.8836828,
+                        41.0024983
                     ],
                     [
-                        28.883497,
-                        41.0027315
+                        28.8834263,
+                        41.0028099
                     ]
                 ]
             }
@@ -24193,17 +24220,13 @@ var data = {
                 },
                 "nodes": [
                     4958787405,
-                    4958787400,
-                    4958787393,
-                    4958787406,
-                    4958787389,
-                    4958787380,
                     9761483825,
                     4897304957,
                     9761483841,
                     9761483842,
                     4897304961,
                     4897304962,
+                    13054592077,
                     4897304963
                 ]
             },
@@ -24211,56 +24234,40 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8937908,
-                        41.0024324
+                        28.8938824,
+                        41.002469
                     ],
                     [
-                        28.8936857,
-                        41.0024063
+                        28.893127,
+                        41.0023104
                     ],
                     [
-                        28.893496,
-                        41.002359
+                        28.8930046,
+                        41.0022772
                     ],
                     [
-                        28.8934086,
-                        41.0023373
+                        28.8928753,
+                        41.0022427
                     ],
                     [
-                        28.8933529,
-                        41.0023256
+                        28.8928031,
+                        41.0022222
                     ],
                     [
-                        28.8931027,
-                        41.0022732
+                        28.892703,
+                        41.0022024
                     ],
                     [
-                        28.8930785,
-                        41.0022681
+                        28.8925995,
+                        41.0021566
                     ],
                     [
-                        28.892955,
-                        41.0022422
+                        28.8925282,
+                        41.0021008
                     ],
                     [
-                        28.8928818,
-                        41.002224
-                    ],
-                    [
-                        28.892816,
-                        41.0022076
-                    ],
-                    [
-                        28.8927105,
-                        41.0021813
-                    ],
-                    [
-                        28.8926038,
-                        41.0021363
-                    ],
-                    [
-                        28.8924979,
-                        41.0020344
+                        28.8923977,
+                        41.0019328
                     ]
                 ]
             }
@@ -24345,8 +24352,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8519417,
-                        41.1156677
+                        28.8519732,
+                        41.1156429
                     ],
                     [
                         28.8517579,
@@ -24399,20 +24406,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8523776,
-                        41.1154555
+                        28.8523481,
+                        41.1154656
                     ],
                     [
-                        28.8522502,
-                        41.115506
+                        28.8522033,
+                        41.1155252
                     ],
                     [
-                        28.8520878,
-                        41.1155838
+                        28.8520811,
+                        41.1155848
                     ],
                     [
-                        28.8519417,
-                        41.1156677
+                        28.8519732,
+                        41.1156429
                     ]
                 ]
             }
@@ -24437,6 +24444,7 @@ var data = {
                 "nodes": [
                     1104786416,
                     2389507319,
+                    13148058014,
                     2389507320
                 ]
             },
@@ -24444,16 +24452,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8523825,
-                        41.1155024
+                        28.8523731,
+                        41.1155054
                     ],
                     [
-                        28.8521868,
-                        41.1155903
+                        28.8522203,
+                        41.1155681
                     ],
                     [
-                        28.8519794,
-                        41.1157018
+                        28.8521013,
+                        41.1156313
+                    ],
+                    [
+                        28.8520056,
+                        41.1156892
                     ]
                 ]
             }
@@ -24571,16 +24583,16 @@ var data = {
                         41.1145462
                     ],
                     [
-                        28.85536,
-                        41.1146164
+                        28.8554016,
+                        41.1146023
                     ],
                     [
-                        28.8552606,
-                        41.1146471
+                        28.8552619,
+                        41.1146501
                     ],
                     [
-                        28.8550115,
-                        41.114724
+                        28.8550142,
+                        41.1147291
                     ],
                     [
                         28.8545541,
@@ -24607,521 +24619,532 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
+                    "oneway": "yes",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
                     "usage": "main",
                     "voltage": "750"
                 },
                 "nodes": [
-                    4958585477,
-                    9452946245,
-                    4958585478,
-                    9452946246,
-                    9452946247,
-                    4958585479,
-                    9452946248,
-                    4958585470,
-                    7734901066,
-                    4958585481,
-                    4958585482,
-                    4958585483,
-                    4958585484,
-                    4958580178,
-                    4958580179,
-                    4958580180,
-                    4958580164,
-                    4958580163,
-                    4958580181,
-                    4958580159,
-                    4958580182,
-                    4958580183,
-                    4958580184,
-                    4958580185,
-                    4958580186,
-                    4958580187,
-                    4958580188,
-                    4958580189,
-                    4958580190,
-                    4958580191,
-                    4958572721,
-                    4958570017,
-                    9654484445,
-                    9654484447,
-                    4958570004,
-                    4958572722,
-                    4958570014,
-                    4958572723,
-                    4958572724,
-                    4958572725,
-                    4958566424,
-                    4958566427,
-                    12012689168,
-                    4958566425,
-                    4958566426,
-                    12012705279,
-                    8929469190,
-                    4958566428,
-                    4958566430,
-                    4958566429,
-                    4958566431,
-                    8947281225,
-                    4958566432,
-                    4958566319,
-                    4958566435,
-                    9654484417,
-                    4958566434,
-                    4958566436,
-                    4958566437,
-                    4958566452,
-                    4958566453,
-                    4958566454,
-                    9654484410,
-                    4958566455,
-                    4958566456,
-                    4958566448,
-                    4958566445,
-                    4958566447,
-                    4958566443,
-                    4958557331,
-                    4958557329,
-                    9654484397,
-                    9654484402,
-                    4958557323,
-                    4958557337,
-                    9654484391,
-                    4958557335,
-                    4958557336,
-                    4958551934,
-                    4958551935,
-                    4958513656,
-                    4958551942,
-                    4958551940,
-                    9654484348,
-                    4958513657,
-                    4958513658,
-                    4958513659,
-                    4958513660,
-                    4958513661,
-                    4958513662,
-                    4958513663,
-                    4958513664,
-                    4958513665,
-                    4958513666,
-                    4958513667,
-                    4958513668,
-                    4958513669,
-                    4958513670,
-                    4958513671,
+                    4958551958,
                     4958513672,
-                    4958551958
+                    4958513671,
+                    4958513670,
+                    4958513669,
+                    4958513668,
+                    4958513667,
+                    4958513666,
+                    4958513665,
+                    4958513664,
+                    4958513663,
+                    4958513662,
+                    4958513661,
+                    13148058016,
+                    4958513660,
+                    4958513659,
+                    4958513658,
+                    4958513657,
+                    9654484348,
+                    4958551940,
+                    4958551942,
+                    4958513656,
+                    4958551935,
+                    4958551934,
+                    4958557336,
+                    4958557335,
+                    9654484391,
+                    4958557337,
+                    4958557323,
+                    9654484402,
+                    9654484397,
+                    4958557329,
+                    4958557331,
+                    4958566443,
+                    4958566447,
+                    4958566445,
+                    4958566448,
+                    4958566456,
+                    4958566455,
+                    9654484410,
+                    4958566454,
+                    4958566453,
+                    4958566452,
+                    4958566437,
+                    4958566436,
+                    4958566434,
+                    9654484417,
+                    4958566435,
+                    4958566319,
+                    4958566432,
+                    8947281225,
+                    4958566431,
+                    4958566429,
+                    4958566430,
+                    4958566428,
+                    8929469190,
+                    12012705279,
+                    4958566426,
+                    4958566425,
+                    12012689168,
+                    4958566427,
+                    4958566424,
+                    4958572725,
+                    4958572724,
+                    4958572723,
+                    4958570014,
+                    4958572722,
+                    4958570004,
+                    9654484447,
+                    9654484445,
+                    4958570017,
+                    4958572721,
+                    4958580191,
+                    4958580190,
+                    4958580189,
+                    4958580188,
+                    4958580187,
+                    4958580186,
+                    4958580185,
+                    13148058017,
+                    4958580184,
+                    4958580183,
+                    4958580182,
+                    4958580159,
+                    4958580181,
+                    4958580163,
+                    4958580164,
+                    4958580180,
+                    4958580179,
+                    4958580178,
+                    4958585484,
+                    4958585483,
+                    4958585482,
+                    4958585481,
+                    7734901066,
+                    4958585470,
+                    9452946248,
+                    4958585479,
+                    9452946247,
+                    9452946246,
+                    4958585478,
+                    9452946245,
+                    4958585477
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8738889,
-                        41.0820313
-                    ],
-                    [
-                        28.8737989,
-                        41.0821398
-                    ],
-                    [
-                        28.8735761,
-                        41.0823954
-                    ],
-                    [
-                        28.8732409,
-                        41.0827478
-                    ],
-                    [
-                        28.8726067,
-                        41.0834424
-                    ],
-                    [
-                        28.872379,
-                        41.0836823
-                    ],
-                    [
-                        28.8719526,
-                        41.0841386
-                    ],
-                    [
-                        28.8715613,
-                        41.084563
-                    ],
-                    [
-                        28.8712504,
-                        41.0849012
-                    ],
-                    [
-                        28.8709452,
-                        41.085229
-                    ],
-                    [
-                        28.8707333,
-                        41.0854468
-                    ],
-                    [
-                        28.8705114,
-                        41.0856564
-                    ],
-                    [
-                        28.8701914,
-                        41.0859125
-                    ],
-                    [
-                        28.8699403,
-                        41.0860859
-                    ],
-                    [
-                        28.8695812,
-                        41.0863262
-                    ],
-                    [
-                        28.8692044,
-                        41.0865314
-                    ],
-                    [
-                        28.8691337,
-                        41.0865703
-                    ],
-                    [
-                        28.8683414,
-                        41.0870065
-                    ],
-                    [
-                        28.8683085,
-                        41.0870246
-                    ],
-                    [
-                        28.8669014,
-                        41.087787
-                    ],
-                    [
-                        28.866553,
-                        41.0879758
-                    ],
-                    [
-                        28.8662861,
-                        41.0881365
-                    ],
-                    [
-                        28.8659495,
-                        41.0883629
-                    ],
-                    [
-                        28.8656558,
-                        41.0886035
-                    ],
-                    [
-                        28.8654882,
-                        41.0887693
-                    ],
-                    [
-                        28.8649182,
-                        41.0893757
-                    ],
-                    [
-                        28.8647868,
-                        41.0895435
-                    ],
-                    [
-                        28.864658,
-                        41.0897477
-                    ],
-                    [
-                        28.8645762,
-                        41.0899428
-                    ],
-                    [
-                        28.8645253,
-                        41.0901389
-                    ],
-                    [
-                        28.8643992,
-                        41.0907544
-                    ],
-                    [
-                        28.8641595,
-                        41.0919083
-                    ],
-                    [
-                        28.8639723,
-                        41.0928091
-                    ],
-                    [
-                        28.8639616,
-                        41.0928606
-                    ],
-                    [
-                        28.8638623,
-                        41.0933385
-                    ],
-                    [
-                        28.8638024,
-                        41.0936269
-                    ],
-                    [
-                        28.863774,
-                        41.0937681
-                    ],
-                    [
-                        28.8632056,
-                        41.0965922
-                    ],
-                    [
-                        28.8631654,
-                        41.0968328
-                    ],
-                    [
-                        28.8631238,
-                        41.0971238
-                    ],
-                    [
-                        28.8630903,
-                        41.0973886
-                    ],
-                    [
-                        28.8630567,
-                        41.0978384
-                    ],
-                    [
-                        28.8630502,
-                        41.0979286
-                    ],
-                    [
-                        28.863049,
-                        41.0979589
-                    ],
-                    [
-                        28.8630419,
-                        41.0980304
-                    ],
-                    [
-                        28.8630407,
-                        41.0980731
-                    ],
-                    [
-                        28.8630404,
-                        41.0980924
-                    ],
-                    [
-                        28.8630299,
-                        41.0982568
-                    ],
-                    [
-                        28.8630004,
-                        41.0987085
-                    ],
-                    [
-                        28.8629873,
-                        41.0988748
-                    ],
-                    [
-                        28.8629562,
-                        41.0992704
-                    ],
-                    [
-                        28.862921,
-                        41.0997821
-                    ],
-                    [
-                        28.8629146,
-                        41.0998758
-                    ],
-                    [
-                        28.8628946,
-                        41.1002839
-                    ],
-                    [
-                        28.8628811,
-                        41.100562
-                    ],
-                    [
-                        28.8628742,
-                        41.1007147
-                    ],
-                    [
-                        28.8628708,
-                        41.1007904
-                    ],
-                    [
-                        28.8628583,
-                        41.1010713
-                    ],
-                    [
-                        28.8628355,
-                        41.1012371
-                    ],
-                    [
-                        28.8627966,
-                        41.1013796
-                    ],
-                    [
-                        28.8627242,
-                        41.1015675
-                    ],
-                    [
-                        28.862633,
-                        41.1017515
-                    ],
-                    [
-                        28.8622311,
-                        41.1026119
-                    ],
-                    [
-                        28.862008,
-                        41.1030894
-                    ],
-                    [
-                        28.8618216,
-                        41.1034674
-                    ],
-                    [
-                        28.8615781,
-                        41.1040043
-                    ],
-                    [
-                        28.8614635,
-                        41.1042571
-                    ],
-                    [
-                        28.8613728,
-                        41.1044545
-                    ],
-                    [
-                        28.86133,
-                        41.1045516
-                    ],
-                    [
-                        28.8612154,
-                        41.1048043
-                    ],
-                    [
-                        28.8609195,
-                        41.105426
-                    ],
-                    [
-                        28.8604819,
-                        41.1063455
-                    ],
-                    [
-                        28.8603519,
-                        41.1066186
-                    ],
-                    [
-                        28.8602567,
-                        41.1068186
-                    ],
-                    [
-                        28.8600996,
-                        41.1071487
-                    ],
-                    [
-                        28.8600465,
-                        41.1072581
-                    ],
-                    [
-                        28.8600066,
-                        41.1073405
-                    ],
-                    [
-                        28.8599777,
-                        41.1074001
-                    ],
-                    [
-                        28.859188,
-                        41.1090089
-                    ],
-                    [
-                        28.8582145,
-                        41.110992
-                    ],
-                    [
-                        28.8579458,
-                        41.1115341
-                    ],
-                    [
-                        28.8577792,
-                        41.1118768
-                    ],
-                    [
-                        28.8575196,
-                        41.1124107
-                    ],
-                    [
-                        28.8573357,
-                        41.112799
-                    ],
-                    [
-                        28.8573213,
-                        41.1128295
-                    ],
-                    [
-                        28.8572844,
-                        41.1128934
-                    ],
-                    [
-                        28.8570848,
-                        41.1132923
-                    ],
-                    [
-                        28.8569722,
-                        41.1134772
-                    ],
-                    [
-                        28.8568059,
-                        41.1136914
-                    ],
-                    [
-                        28.8566771,
-                        41.1138389
-                    ],
-                    [
-                        28.8565081,
-                        41.1139905
-                    ],
-                    [
-                        28.8563284,
-                        41.1141208
-                    ],
-                    [
-                        28.8561755,
-                        41.1142218
-                    ],
-                    [
-                        28.8559891,
-                        41.114332
-                    ],
-                    [
-                        28.8557759,
-                        41.1144269
-                    ],
-                    [
-                        28.8555251,
-                        41.1145239
-                    ],
-                    [
-                        28.8552446,
-                        41.1146156
-                    ],
-                    [
-                        28.8550088,
-                        41.1146927
-                    ],
-                    [
-                        28.8545394,
-                        41.1148402
+                        28.8533044,
+                        41.1151874
                     ],
                     [
                         28.853956,
                         41.1150089
                     ],
                     [
-                        28.8533044,
-                        41.1151874
+                        28.8545394,
+                        41.1148402
+                    ],
+                    [
+                        28.8550088,
+                        41.1146927
+                    ],
+                    [
+                        28.8552446,
+                        41.1146156
+                    ],
+                    [
+                        28.8555251,
+                        41.1145239
+                    ],
+                    [
+                        28.8557759,
+                        41.1144269
+                    ],
+                    [
+                        28.8559891,
+                        41.114332
+                    ],
+                    [
+                        28.8561755,
+                        41.1142218
+                    ],
+                    [
+                        28.8563284,
+                        41.1141208
+                    ],
+                    [
+                        28.8565081,
+                        41.1139905
+                    ],
+                    [
+                        28.8566771,
+                        41.1138389
+                    ],
+                    [
+                        28.8568059,
+                        41.1136914
+                    ],
+                    [
+                        28.8569227,
+                        41.1135556
+                    ],
+                    [
+                        28.8570017,
+                        41.1134317
+                    ],
+                    [
+                        28.8570848,
+                        41.1132923
+                    ],
+                    [
+                        28.8572844,
+                        41.1128934
+                    ],
+                    [
+                        28.8573213,
+                        41.1128295
+                    ],
+                    [
+                        28.8573357,
+                        41.112799
+                    ],
+                    [
+                        28.8575196,
+                        41.1124107
+                    ],
+                    [
+                        28.8577792,
+                        41.1118768
+                    ],
+                    [
+                        28.8579458,
+                        41.1115341
+                    ],
+                    [
+                        28.8582145,
+                        41.110992
+                    ],
+                    [
+                        28.859188,
+                        41.1090089
+                    ],
+                    [
+                        28.8599777,
+                        41.1074001
+                    ],
+                    [
+                        28.8600066,
+                        41.1073405
+                    ],
+                    [
+                        28.8600465,
+                        41.1072581
+                    ],
+                    [
+                        28.8600996,
+                        41.1071487
+                    ],
+                    [
+                        28.8602567,
+                        41.1068186
+                    ],
+                    [
+                        28.8603519,
+                        41.1066186
+                    ],
+                    [
+                        28.8604819,
+                        41.1063455
+                    ],
+                    [
+                        28.8609195,
+                        41.105426
+                    ],
+                    [
+                        28.8612154,
+                        41.1048043
+                    ],
+                    [
+                        28.86133,
+                        41.1045516
+                    ],
+                    [
+                        28.8613728,
+                        41.1044545
+                    ],
+                    [
+                        28.8614635,
+                        41.1042571
+                    ],
+                    [
+                        28.8615781,
+                        41.1040043
+                    ],
+                    [
+                        28.8618216,
+                        41.1034674
+                    ],
+                    [
+                        28.862008,
+                        41.1030894
+                    ],
+                    [
+                        28.8622311,
+                        41.1026119
+                    ],
+                    [
+                        28.862633,
+                        41.1017515
+                    ],
+                    [
+                        28.8627242,
+                        41.1015675
+                    ],
+                    [
+                        28.8627966,
+                        41.1013796
+                    ],
+                    [
+                        28.8628355,
+                        41.1012371
+                    ],
+                    [
+                        28.8628583,
+                        41.1010713
+                    ],
+                    [
+                        28.8628708,
+                        41.1007904
+                    ],
+                    [
+                        28.8628742,
+                        41.1007147
+                    ],
+                    [
+                        28.8628811,
+                        41.100562
+                    ],
+                    [
+                        28.8628946,
+                        41.1002839
+                    ],
+                    [
+                        28.8629146,
+                        41.0998758
+                    ],
+                    [
+                        28.862921,
+                        41.0997821
+                    ],
+                    [
+                        28.8629562,
+                        41.0992704
+                    ],
+                    [
+                        28.8629873,
+                        41.0988748
+                    ],
+                    [
+                        28.8630004,
+                        41.0987085
+                    ],
+                    [
+                        28.8630299,
+                        41.0982568
+                    ],
+                    [
+                        28.8630404,
+                        41.0980924
+                    ],
+                    [
+                        28.8630407,
+                        41.0980731
+                    ],
+                    [
+                        28.8630419,
+                        41.0980304
+                    ],
+                    [
+                        28.863049,
+                        41.0979589
+                    ],
+                    [
+                        28.8630502,
+                        41.0979286
+                    ],
+                    [
+                        28.8630567,
+                        41.0978384
+                    ],
+                    [
+                        28.8630903,
+                        41.0973886
+                    ],
+                    [
+                        28.8631238,
+                        41.0971238
+                    ],
+                    [
+                        28.8631654,
+                        41.0968328
+                    ],
+                    [
+                        28.8632056,
+                        41.0965922
+                    ],
+                    [
+                        28.863774,
+                        41.0937681
+                    ],
+                    [
+                        28.8638024,
+                        41.0936269
+                    ],
+                    [
+                        28.8638623,
+                        41.0933385
+                    ],
+                    [
+                        28.8639616,
+                        41.0928606
+                    ],
+                    [
+                        28.8639723,
+                        41.0928091
+                    ],
+                    [
+                        28.8641595,
+                        41.0919083
+                    ],
+                    [
+                        28.8643992,
+                        41.0907544
+                    ],
+                    [
+                        28.8645253,
+                        41.0901389
+                    ],
+                    [
+                        28.8645762,
+                        41.0899428
+                    ],
+                    [
+                        28.864658,
+                        41.0897477
+                    ],
+                    [
+                        28.8647868,
+                        41.0895435
+                    ],
+                    [
+                        28.8649182,
+                        41.0893757
+                    ],
+                    [
+                        28.8654882,
+                        41.0887693
+                    ],
+                    [
+                        28.8656397,
+                        41.0886257
+                    ],
+                    [
+                        28.8657836,
+                        41.0884988
+                    ],
+                    [
+                        28.8659495,
+                        41.0883629
+                    ],
+                    [
+                        28.8662861,
+                        41.0881365
+                    ],
+                    [
+                        28.866553,
+                        41.0879758
+                    ],
+                    [
+                        28.8669014,
+                        41.087787
+                    ],
+                    [
+                        28.8683085,
+                        41.0870246
+                    ],
+                    [
+                        28.8683474,
+                        41.0870035
+                    ],
+                    [
+                        28.8691337,
+                        41.0865703
+                    ],
+                    [
+                        28.8692044,
+                        41.0865314
+                    ],
+                    [
+                        28.8695812,
+                        41.0863262
+                    ],
+                    [
+                        28.8699403,
+                        41.0860859
+                    ],
+                    [
+                        28.8701914,
+                        41.0859125
+                    ],
+                    [
+                        28.8705114,
+                        41.0856564
+                    ],
+                    [
+                        28.8707333,
+                        41.0854468
+                    ],
+                    [
+                        28.8709452,
+                        41.085229
+                    ],
+                    [
+                        28.8712504,
+                        41.0849012
+                    ],
+                    [
+                        28.8715613,
+                        41.084563
+                    ],
+                    [
+                        28.8719526,
+                        41.0841386
+                    ],
+                    [
+                        28.872379,
+                        41.0836823
+                    ],
+                    [
+                        28.8726067,
+                        41.0834424
+                    ],
+                    [
+                        28.8732409,
+                        41.0827478
+                    ],
+                    [
+                        28.8735761,
+                        41.0823954
+                    ],
+                    [
+                        28.8737989,
+                        41.0821398
+                    ],
+                    [
+                        28.8738889,
+                        41.0820313
                     ]
                 ]
             }
@@ -25423,7 +25446,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "light_rail",
-                    "service": "siding",
+                    "service": "crossover",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -25474,8 +25497,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8519794,
-                        41.1157018
+                        28.8520056,
+                        41.1156892
                     ],
                     [
                         28.8518054,
@@ -25516,7 +25539,7 @@ var data = {
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
-                    "service": "siding",
+                    "service": "crossover",
                     "usage": "main",
                     "voltage": "750"
                 },
@@ -25549,7 +25572,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "siding",
+                    "service": "crossover",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -25583,7 +25606,7 @@ var data = {
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
-                    "service": "siding",
+                    "service": "crossover",
                     "usage": "main",
                     "voltage": "750"
                 },
@@ -25618,7 +25641,7 @@ var data = {
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
-                    "service": "siding",
+                    "service": "crossover",
                     "usage": "main",
                     "voltage": "750"
                 },
@@ -25631,8 +25654,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8683414,
-                        41.0870065
+                        28.8683474,
+                        41.0870035
                     ],
                     [
                         28.8686913,
@@ -25653,7 +25676,7 @@ var data = {
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
-                    "service": "siding",
+                    "service": "crossover",
                     "usage": "main",
                     "voltage": "750"
                 },
@@ -25686,6 +25709,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
+                    "oneway": "yes",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
                     "usage": "main",
@@ -26156,61 +26180,67 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
+                    "oneway": "yes",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
                     "usage": "main",
                     "voltage": "750"
                 },
                 "nodes": [
-                    4958589525,
-                    4958589526,
-                    4958589527,
-                    4958589528,
-                    4958589529,
-                    9449746814,
-                    11544838400,
+                    4958585476,
                     9449746810,
-                    4958585476
+                    11544838400,
+                    9449746814,
+                    13151591284,
+                    4958589529,
+                    4958589528,
+                    4958589527,
+                    4958589526,
+                    4958589525
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8772068,
-                        41.0785803
-                    ],
-                    [
-                        28.8769814,
-                        41.0787901
-                    ],
-                    [
-                        28.8762908,
-                        41.0795159
-                    ],
-                    [
-                        28.8760762,
-                        41.0797404
-                    ],
-                    [
-                        28.8758844,
-                        41.0799365
-                    ],
-                    [
-                        28.8752991,
-                        41.0805105
-                    ],
-                    [
-                        28.8752257,
-                        41.0805884
+                        28.8746169,
+                        41.0812354
                     ],
                     [
                         28.8750904,
                         41.0807422
                     ],
                     [
-                        28.8746169,
-                        41.0812354
+                        28.8752257,
+                        41.0805884
+                    ],
+                    [
+                        28.8752991,
+                        41.0805105
+                    ],
+                    [
+                        28.8755337,
+                        41.0802804
+                    ],
+                    [
+                        28.8758844,
+                        41.0799365
+                    ],
+                    [
+                        28.8760762,
+                        41.0797404
+                    ],
+                    [
+                        28.8762908,
+                        41.0795159
+                    ],
+                    [
+                        28.8769814,
+                        41.0787901
+                    ],
+                    [
+                        28.8772068,
+                        41.0785803
                     ]
                 ]
             }
@@ -26261,6 +26291,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
+                    "oneway": "yes",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
                     "usage": "main",
@@ -26271,6 +26302,7 @@ var data = {
                     4958589530,
                     2161450351,
                     4958589531,
+                    13151591285,
                     2161450382,
                     11544838399,
                     9449746815,
@@ -26295,6 +26327,10 @@ var data = {
                     [
                         28.8761607,
                         41.0797201
+                    ],
+                    [
+                        28.8758445,
+                        41.0800348
                     ],
                     [
                         28.8756113,
@@ -26458,8 +26494,8 @@ var data = {
                         41.0576072
                     ],
                     [
-                        28.9064656,
-                        41.0575776
+                        28.9064652,
+                        41.0575781
                     ],
                     [
                         28.9067544,
@@ -26559,8 +26595,8 @@ var data = {
                         41.0573976
                     ],
                     [
-                        28.9065119,
-                        41.0576123
+                        28.9065122,
+                        41.057612
                     ],
                     [
                         28.9063769,
@@ -26677,7 +26713,7 @@ var data = {
                     9385532766,
                     4958615808,
                     9385532769,
-                    12327191706,
+                    12846659432,
                     9385532770,
                     4958615820,
                     4958615819,
@@ -26727,8 +26763,8 @@ var data = {
                         41.0377862
                     ],
                     [
-                        28.9230532,
-                        41.0374378
+                        28.9230527,
+                        41.037438
                     ],
                     [
                         28.9233484,
@@ -26956,7 +26992,6 @@ var data = {
                     7726516663,
                     4958630200,
                     4958630199,
-                    1060107138,
                     4958630198,
                     4958630197,
                     4958630196,
@@ -26993,10 +27028,6 @@ var data = {
                     [
                         28.9336934,
                         41.0317811
-                    ],
-                    [
-                        28.9337807,
-                        41.0317003
                     ],
                     [
                         28.9340507,
@@ -27187,8 +27218,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9217681,
-                        41.019505
+                        28.9217542,
+                        41.0194956
                     ],
                     [
                         28.9219444,
@@ -30086,7 +30117,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958718949,
@@ -30147,7 +30178,7 @@ var data = {
                     "railway": "subway",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958723952,
@@ -30215,7 +30246,7 @@ var data = {
                     "tunnel": "yes",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248643151,
@@ -30259,7 +30290,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958723948,
@@ -30338,7 +30369,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958718950,
@@ -30381,7 +30412,7 @@ var data = {
                     "tunnel": "yes",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958723951,
@@ -30430,7 +30461,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     7681128652,
@@ -33062,7 +33093,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958773238,
@@ -33231,7 +33262,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958775267,
@@ -33305,7 +33336,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958775285,
@@ -33412,7 +33443,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958775285,
@@ -33540,6 +33571,7 @@ var data = {
                     4958787369,
                     4958787368,
                     4958787367,
+                    13054592063,
                     4958787366,
                     4958787365,
                     4958787364,
@@ -33552,59 +33584,63 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8937908,
-                        41.0024324
+                        28.8938824,
+                        41.002469
                     ],
                     [
-                        28.8939477,
-                        41.0024456
+                        28.8939886,
+                        41.0024627
                     ],
                     [
-                        28.8940862,
-                        41.0024404
+                        28.89407,
+                        41.0024331
                     ],
                     [
-                        28.8941918,
-                        41.0024071
+                        28.8941627,
+                        41.0023827
                     ],
                     [
-                        28.8942803,
-                        41.0023444
+                        28.8942426,
+                        41.0022867
                     ],
                     [
-                        28.894338,
-                        41.002229
+                        28.8942766,
+                        41.0021875
                     ],
                     [
-                        28.8943554,
-                        41.0021116
+                        28.8942692,
+                        41.0020856
                     ],
                     [
-                        28.8943219,
-                        41.0019699
+                        28.8942282,
+                        41.001974
                     ],
                     [
-                        28.8942468,
-                        41.0018849
+                        28.8941734,
+                        41.0018941
                     ],
                     [
-                        28.8941516,
-                        41.0018039
+                        28.8941068,
+                        41.0018426
                     ],
                     [
-                        28.8939974,
-                        41.0017624
+                        28.8939792,
+                        41.0018088
+                    ],
+                    [
+                        28.8936494,
+                        41.0017697
                     ],
                     [
                         28.8931954,
-                        41.0016835
+                        41.0017176
                     ],
                     [
-                        28.8930103,
-                        41.00164
+                        28.8929564,
+                        41.0016668
                     ],
                     [
-                        28.8928762,
+                        28.8927415,
                         41.0015954
                     ]
                 ]
@@ -33620,12 +33656,12 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     4958787410,
-                    4958787409,
+                    13054592074,
                     4958787408,
                     4958787407
                 ]
@@ -33634,20 +33670,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8946035,
-                        41.0042967
+                        28.8945561,
+                        41.0043504
                     ],
                     [
-                        28.8935401,
-                        41.003064
+                        28.8937448,
+                        41.0033863
                     ],
                     [
-                        28.8933966,
-                        41.0029162
+                        28.8932921,
+                        41.0028845
                     ],
                     [
-                        28.8932392,
-                        41.002757
+                        28.893111,
+                        41.0027131
                     ]
                 ]
             }
@@ -33662,13 +33698,14 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     4958787419,
                     4958787413,
                     4958787412,
+                    13054592073,
                     4958787411
                 ]
             },
@@ -33676,20 +33713,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8929057,
-                        41.0025083
+                        28.8929068,
+                        41.0025701
                     ],
                     [
-                        28.8932893,
-                        41.0028646
+                        28.8931622,
+                        41.0028166
                     ],
                     [
-                        28.8934515,
-                        41.0030336
+                        28.8933438,
+                        41.0029921
                     ],
                     [
-                        28.8945606,
-                        41.0043261
+                        28.8937033,
+                        41.0033976
+                    ],
+                    [
+                        28.8945347,
+                        41.0043684
                     ]
                 ]
             }
@@ -33704,17 +33745,21 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     1037636288,
+                    13054592067,
+                    13054592069,
+                    13054592070,
                     4958787419,
-                    4958787418,
                     4958787407,
+                    13054592076,
                     4958787417,
                     4958787416,
-                    4958787415,
+                    13054592075,
+                    13054592072,
                     4958787414
                 ]
             },
@@ -33722,36 +33767,52 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8926403,
-                        41.0023261
+                        28.8924911,
+                        41.0021535
                     ],
                     [
-                        28.8929057,
-                        41.0025083
+                        28.8925317,
+                        41.0022123
                     ],
                     [
-                        28.8931203,
-                        41.0026764
+                        28.8925916,
+                        41.002299
                     ],
                     [
-                        28.8932392,
-                        41.002757
+                        28.8926549,
+                        41.0023882
                     ],
                     [
-                        28.8934126,
-                        41.0028747
+                        28.8929068,
+                        41.0025701
                     ],
                     [
-                        28.8935307,
-                        41.002982
+                        28.893111,
+                        41.0027131
                     ],
                     [
-                        28.8940175,
-                        41.0035549
+                        28.893277,
+                        41.0028244
                     ],
                     [
-                        28.8946331,
-                        41.0042633
+                        28.8933943,
+                        41.0029219
+                    ],
+                    [
+                        28.8934564,
+                        41.0029885
+                    ],
+                    [
+                        28.8936989,
+                        41.003272
+                    ],
+                    [
+                        28.8939221,
+                        41.0035362
+                    ],
+                    [
+                        28.8945286,
+                        41.0042609
                     ]
                 ]
             }
@@ -33772,20 +33833,20 @@ var data = {
                     "voltage": "750"
                 },
                 "nodes": [
-                    4958787828,
-                    4958787827
+                    13054592017,
+                    4958787878
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8883688,
-                        41.0014963
+                        28.8886437,
+                        41.0015429
                     ],
                     [
-                        28.8887598,
-                        41.0014889
+                        28.888398,
+                        41.0014867
                     ]
                 ]
             }
@@ -33812,12 +33873,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8910094,
-                        41.0014274
+                        28.8907842,
+                        41.001438
                     ],
                     [
-                        28.8913743,
-                        41.0014659
+                        28.891398,
+                        41.0014854
                     ]
                 ]
             }
@@ -33916,7 +33977,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958789955,
@@ -34067,8 +34128,8 @@ var data = {
                         41.0031588
                     ],
                     [
-                        28.8936311,
-                        41.0034065
+                        28.893602,
+                        41.0033756
                     ],
                     [
                         28.8937022,
@@ -34093,7 +34154,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     10242496195,
@@ -34192,7 +34253,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958796348,
@@ -34319,7 +34380,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958796349,
@@ -34378,7 +34439,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958796350,
@@ -34422,7 +34483,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     304052503,
@@ -34537,7 +34598,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958809869,
@@ -34736,7 +34797,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958809912,
@@ -34785,10 +34846,10 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
-                    4958823067,
+                    13296227383,
                     4958828844,
                     4958828850,
                     11253882472,
@@ -34887,7 +34948,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958823068,
@@ -34946,7 +35007,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958823069,
@@ -35415,7 +35476,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
-                    "layer": "3",
+                    "layer": "-3",
                     "maxspeed": "80",
                     "name": "M1B Yenikap\u0131 - Kirazl\u0131 Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -35814,6 +35875,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -35850,6 +35913,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -35894,6 +35959,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -35937,6 +36004,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -35979,6 +36048,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36015,6 +36086,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36052,6 +36125,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -36089,6 +36164,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -36129,6 +36206,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36221,6 +36300,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36259,6 +36339,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -36295,6 +36377,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -36376,6 +36460,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36437,6 +36522,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36491,6 +36578,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36529,6 +36617,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -36567,6 +36656,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -36603,6 +36694,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -36670,6 +36763,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -36722,6 +36817,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -37048,7 +37145,6 @@ var data = {
                 "nodes": [
                     4990203623,
                     12603975085,
-                    355325167,
                     11297385328,
                     7633287373,
                     7684401250,
@@ -37208,7 +37304,6 @@ var data = {
                     11297385358,
                     11297385359,
                     4990362925,
-                    11481492048,
                     4990379259,
                     4990363228,
                     4990363227,
@@ -37244,10 +37339,6 @@ var data = {
                     [
                         29.0249601,
                         41.0282561
-                    ],
-                    [
-                        29.0254039,
-                        41.0282458
                     ],
                     [
                         29.0256383,
@@ -37884,10 +37975,6 @@ var data = {
                     [
                         29.1658726,
                         41.0154364
-                    ],
-                    [
-                        29.1701974,
-                        41.0160699
                     ],
                     [
                         29.1729476,
@@ -39166,6 +39253,7 @@ var data = {
                     "layer": "-2",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -39216,7 +39304,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "-3",
                     "maxspeed": "90",
-                    "name": "M5 \u00dcsk\u00fcdar Samand\u0131ra Merkez Metro Hatt\u0131",
+                    "name": "M5 \u00dcsk\u00fcdar-Samand\u0131ra Merkez Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
                     "railway": "subway",
                     "ref": "M5",
@@ -40311,8 +40399,8 @@ var data = {
                         41.1153818
                     ],
                     [
-                        28.8523776,
-                        41.1154555
+                        28.8523481,
+                        41.1154656
                     ]
                 ]
             }
@@ -40350,8 +40438,8 @@ var data = {
                         41.1154282
                     ],
                     [
-                        28.8523825,
-                        41.1155024
+                        28.8523731,
+                        41.1155054
                     ]
                 ]
             }
@@ -40440,6 +40528,7 @@ var data = {
                     4618316568,
                     4618316566,
                     4618316567,
+                    13367386652,
                     12294042892,
                     6779474176,
                     6779474173,
@@ -40772,6 +40861,10 @@ var data = {
                         41.0604372
                     ],
                     [
+                        28.9444807,
+                        41.0611957
+                    ],
+                    [
                         28.9444603,
                         41.061225
                     ],
@@ -40884,8 +40977,8 @@ var data = {
                         41.0665637
                     ],
                     [
-                        28.9440235,
-                        41.0667968
+                        28.9440153,
+                        41.0667387
                     ],
                     [
                         28.9440098,
@@ -41001,6 +41094,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -41164,6 +41258,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -41202,6 +41297,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -41238,6 +41334,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -41474,6 +41571,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -41710,6 +41808,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -41988,6 +42087,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -42026,6 +42126,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -42062,6 +42163,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -42825,6 +42927,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -42839,8 +42942,8 @@ var data = {
                     5085877773,
                     7716752887,
                     5085877774,
-                    12066311298,
-                    12066311315,
+                    13288045025,
+                    13288045026,
                     5085877775,
                     5085877763,
                     5085877776,
@@ -42854,16 +42957,8 @@ var data = {
                     5085877784,
                     5085877785,
                     5085877786,
-                    12066311290,
-                    12066311272,
-                    5085877787,
-                    12066279666,
-                    5085877788,
-                    5085877789,
-                    5085877790,
-                    5085877791,
-                    5085877792,
-                    5085877806
+                    13288045010,
+                    5085877787
                 ]
             },
             "geometry": {
@@ -42958,44 +43053,12 @@ var data = {
                         40.8146551
                     ],
                     [
-                        29.3360352,
-                        40.8154867
-                    ],
-                    [
-                        29.3357604,
-                        40.8156982
+                        29.3358682,
+                        40.815603
                     ],
                     [
                         29.3349318,
                         40.8163361
-                    ],
-                    [
-                        29.3343676,
-                        40.8167723
-                    ],
-                    [
-                        29.331193,
-                        40.8192267
-                    ],
-                    [
-                        29.330627,
-                        40.8196872
-                    ],
-                    [
-                        29.330217,
-                        40.8200865
-                    ],
-                    [
-                        29.3298685,
-                        40.8204503
-                    ],
-                    [
-                        29.3295627,
-                        40.8208407
-                    ],
-                    [
-                        29.329188,
-                        40.8213832
                     ]
                 ]
             }
@@ -43012,6 +43075,7 @@ var data = {
                     "layer": "-1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -43054,6 +43118,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -43068,6 +43133,7 @@ var data = {
                     5085878834,
                     5085878833,
                     5085878832,
+                    13288045012,
                     5085878831,
                     5085878830,
                     5085878829,
@@ -43121,6 +43187,10 @@ var data = {
                     [
                         29.3348979,
                         40.816311
+                    ],
+                    [
+                        29.3358356,
+                        40.8155703
                     ],
                     [
                         29.3370814,
@@ -43221,6 +43291,7 @@ var data = {
                     "layer": "-1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -43263,6 +43334,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -43599,6 +43671,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -43882,6 +43955,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -43920,6 +43994,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -44523,6 +44598,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -44618,6 +44695,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -44668,149 +44747,6 @@ var data = {
                     [
                         29.2356077,
                         40.8804103
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 576198357,
-                "tags": {
-                    "bridge": "yes",
-                    "bridge:structure": "cable-suspension",
-                    "construction": "rail",
-                    "construction:railway": "rail",
-                    "electrified": "contact_line",
-                    "gauge": "1435",
-                    "highspeed": "yes",
-                    "layer": "1",
-                    "maxspeed": "200",
-                    "name": "Yavuz Sultan Selim K\u00f6pr\u00fcs\u00fc",
-                    "railway": "construction",
-                    "usage": "main"
-                },
-                "nodes": [
-                    4663955819,
-                    11171809539,
-                    11171809538,
-                    11171767736,
-                    11171767735,
-                    5914927875,
-                    11171767733,
-                    11171767732,
-                    4663955820,
-                    11171767729,
-                    11171767728,
-                    5527119401
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        29.1016863,
-                        41.2076993
-                    ],
-                    [
-                        29.1035506,
-                        41.2068314
-                    ],
-                    [
-                        29.1049506,
-                        41.2062091
-                    ],
-                    [
-                        29.1057502,
-                        41.205847
-                    ],
-                    [
-                        29.1077782,
-                        41.2049194
-                    ],
-                    [
-                        29.1089563,
-                        41.2043759
-                    ],
-                    [
-                        29.1109604,
-                        41.2034734
-                    ],
-                    [
-                        29.1127185,
-                        41.2026537
-                    ],
-                    [
-                        29.1201356,
-                        41.1992879
-                    ],
-                    [
-                        29.1206364,
-                        41.1990511
-                    ],
-                    [
-                        29.1211636,
-                        41.1988121
-                    ],
-                    [
-                        29.121877,
-                        41.1985066
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 576198366,
-                "tags": {
-                    "construction": "rail",
-                    "construction:railway": "rail",
-                    "electrified": "contact_line",
-                    "gauge": "1435",
-                    "highspeed": "yes",
-                    "maxspeed": "200",
-                    "name": "Gebze-\u0130ST-Halkal\u0131 YHT",
-                    "railway": "construction",
-                    "usage": "main"
-                },
-                "nodes": [
-                    5527119401,
-                    11171767727,
-                    11171767726,
-                    5527119402,
-                    11171767725,
-                    5527119403
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        29.121877,
-                        41.1985066
-                    ],
-                    [
-                        29.1223155,
-                        41.198306
-                    ],
-                    [
-                        29.1232941,
-                        41.1978871
-                    ],
-                    [
-                        29.1243529,
-                        41.1974302
-                    ],
-                    [
-                        29.1248576,
-                        41.1972529
-                    ],
-                    [
-                        29.126082,
-                        41.1968447
                     ]
                 ]
             }
@@ -44982,8 +44918,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     5676377710,
@@ -45053,8 +44988,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     5676380532,
@@ -45091,8 +45025,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     5676380533,
@@ -45119,19 +45052,22 @@ var data = {
                 "type": "way",
                 "id": 595630916,
                 "tags": {
-                    "electrified": "no",
+                    "electrified": "yes",
+                    "frequency": "50",
                     "gauge": "1435",
+                    "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "tracks": "1",
+                    "usage": "main",
+                    "voltage": "25000"
                 },
                 "nodes": [
                     5676380536,
                     7714471434,
                     7714471435,
                     7714471436,
-                    5676380534,
-                    5676380533
+                    12809248671
                 ]
             },
             "geometry": {
@@ -45154,12 +45090,8 @@ var data = {
                         41.0266538
                     ],
                     [
-                        28.7649778,
-                        41.0253759
-                    ],
-                    [
-                        28.7650224,
-                        41.0250121
+                        28.7649321,
+                        41.0263387
                     ]
                 ]
             }
@@ -45175,6 +45107,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -45827,6 +45761,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -45879,6 +45815,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -46424,6 +46362,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -46498,8 +46438,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876821,
@@ -46550,8 +46489,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876823,
@@ -46622,8 +46560,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876825,
@@ -46679,8 +46616,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876827,
@@ -46751,8 +46687,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876830,
@@ -46813,8 +46748,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876832,
@@ -46895,8 +46829,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876835,
@@ -46957,8 +46890,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876840,
@@ -47029,6 +46961,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "tracks": "1",
                     "usage": "main",
@@ -47068,8 +47002,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876885,
@@ -47114,8 +47047,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     5713876892,
@@ -47150,8 +47082,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     5713876901,
@@ -47221,8 +47152,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     1065493051,
@@ -47267,8 +47197,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     5713876903,
@@ -47310,6 +47239,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -47351,6 +47281,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "no",
                     "usage": "main",
@@ -47913,6 +47844,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -47949,6 +47882,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -47997,6 +47932,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48033,6 +47970,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48092,6 +48030,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48128,6 +48068,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48176,6 +48117,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -48213,6 +48156,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48259,6 +48203,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48387,6 +48332,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48423,6 +48369,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48461,6 +48408,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48497,7 +48445,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
-                    "operator": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48667,6 +48615,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48704,6 +48653,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48748,8 +48698,8 @@ var data = {
                         40.9761796
                     ],
                     [
-                        28.8438614,
-                        40.9763146
+                        28.8438349,
+                        40.9762807
                     ]
                 ]
             }
@@ -48765,6 +48715,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48907,6 +48858,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48942,6 +48895,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -48985,6 +48940,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -49021,6 +48978,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -49142,6 +49101,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -49200,6 +49161,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -49281,6 +49244,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -49453,71 +49418,9 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 643439300,
-                "tags": {
-                    "railway": "rail",
-                    "service": "spur"
-                },
-                "nodes": [
-                    6055160915,
-                    6055160916,
-                    6055160917,
-                    6055160918,
-                    11198271133,
-                    6055160919,
-                    6055160920,
-                    6055160921,
-                    6055160907
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.6407612,
-                        41.1201205
-                    ],
-                    [
-                        28.6409784,
-                        41.1192213
-                    ],
-                    [
-                        28.6410616,
-                        41.1188758
-                    ],
-                    [
-                        28.641083,
-                        41.1186677
-                    ],
-                    [
-                        28.6410773,
-                        41.118513
-                    ],
-                    [
-                        28.641075,
-                        41.1184494
-                    ],
-                    [
-                        28.6410938,
-                        41.1182575
-                    ],
-                    [
-                        28.6411204,
-                        41.1180661
-                    ],
-                    [
-                        28.6411681,
-                        41.117831
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 643439301,
                 "tags": {
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
                     "railway": "rail",
                     "service": "spur"
                 },
@@ -49596,6 +49499,7 @@ var data = {
                 "type": "way",
                 "id": 643439302,
                 "tags": {
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -49699,6 +49603,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -49874,6 +49780,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -50054,6 +49961,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -50222,6 +50130,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -50552,6 +50461,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "tracks": "1",
                     "usage": "main",
@@ -51200,6 +51110,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -51654,6 +51565,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -52023,6 +51936,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -52087,6 +52002,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -52161,9 +52078,6 @@ var data = {
                     7972710962,
                     7658426414,
                     7658426415,
-                    11816194113,
-                    7658426422,
-                    7658426423,
                     7658426424,
                     7658426426,
                     7658426428,
@@ -52457,18 +52371,6 @@ var data = {
                         40.9224535
                     ],
                     [
-                        29.129378,
-                        40.922381
-                    ],
-                    [
-                        29.1298086,
-                        40.9221995
-                    ],
-                    [
-                        29.1304602,
-                        40.9219165
-                    ],
-                    [
                         29.131255,
                         40.9215924
                     ],
@@ -52541,6 +52443,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -52877,6 +52781,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -52912,6 +52818,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "service": "siding",
@@ -52946,6 +52854,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "service": "siding",
@@ -52980,6 +52890,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "service": "siding",
@@ -53037,6 +52949,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -53071,6 +52985,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -53088,6 +53004,7 @@ var data = {
                     7716752872,
                     6395900679,
                     6395900680,
+                    12723896252,
                     6395900682,
                     6395900683,
                     6395900684,
@@ -53155,20 +53072,24 @@ var data = {
                         40.954039
                     ],
                     [
-                        29.0926563,
-                        40.9545905
+                        29.0930218,
+                        40.9544303
                     ],
                     [
-                        29.0923028,
-                        40.9547759
+                        29.0926087,
+                        40.9545955
                     ],
                     [
-                        29.0917746,
-                        40.9551491
+                        29.0922729,
+                        40.9547684
                     ],
                     [
-                        29.0914215,
-                        40.9554784
+                        29.0918009,
+                        40.9550683
+                    ],
+                    [
+                        29.0915203,
+                        40.955328
                     ],
                     [
                         29.0911174,
@@ -53256,6 +53177,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -53280,25 +53203,7 @@ var data = {
                     287815284,
                     287815288,
                     287815291,
-                    287815300,
-                    287815304,
-                    287815308,
-                    287815312,
-                    287815316,
-                    287815319,
-                    287815324,
-                    287815328,
-                    287815333,
-                    287815336,
-                    287815341,
-                    287815345,
-                    6055160913,
-                    287815348,
-                    6055160922,
-                    287815353,
-                    287815361,
-                    6055160914,
-                    287815365
+                    13136274562
                 ]
             },
             "geometry": {
@@ -53373,80 +53278,8 @@ var data = {
                         41.110318
                     ],
                     [
-                        28.648293,
-                        41.110913
-                    ],
-                    [
-                        28.647725,
-                        41.111198
-                    ],
-                    [
-                        28.646491,
-                        41.111925
-                    ],
-                    [
-                        28.646158,
-                        41.11214
-                    ],
-                    [
-                        28.645856,
-                        41.11237
-                    ],
-                    [
-                        28.645428,
-                        41.112723
-                    ],
-                    [
-                        28.645016,
-                        41.113076
-                    ],
-                    [
-                        28.644768,
-                        41.113316
-                    ],
-                    [
-                        28.644425,
-                        41.113685
-                    ],
-                    [
-                        28.643826,
-                        41.114405
-                    ],
-                    [
-                        28.64338,
-                        41.114993
-                    ],
-                    [
-                        28.6428561,
-                        41.1156204
-                    ],
-                    [
-                        28.6424942,
-                        41.1160051
-                    ],
-                    [
-                        28.6421565,
-                        41.116364
-                    ],
-                    [
-                        28.6418911,
-                        41.1166508
-                    ],
-                    [
-                        28.6415235,
-                        41.117074
-                    ],
-                    [
-                        28.6413843,
-                        41.1172759
-                    ],
-                    [
-                        28.6412422,
-                        41.1175475
-                    ],
-                    [
-                        28.6410314,
-                        41.1180032
+                        28.6488839,
+                        41.1106654
                     ]
                 ]
             }
@@ -53583,6 +53416,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "source": "Yahoo",
@@ -53623,6 +53457,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "source": "Yahoo",
@@ -53631,8 +53467,6 @@ var data = {
                 },
                 "nodes": [
                     1908363237,
-                    6507266736,
-                    6507266735,
                     6507266734,
                     11974846145,
                     6507266733,
@@ -53647,16 +53481,8 @@ var data = {
                         40.9892893
                     ],
                     [
-                        29.0392053,
-                        40.988932
-                    ],
-                    [
-                        29.0393418,
-                        40.9887979
-                    ],
-                    [
-                        29.0395606,
-                        40.9885522
+                        29.0391773,
+                        40.988956
                     ],
                     [
                         29.0398739,
@@ -53720,6 +53546,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "Marmaray",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "service": "siding",
@@ -53776,6 +53603,7 @@ var data = {
                     "layer": "-1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -53814,6 +53642,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -53883,6 +53712,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -53916,9 +53746,11 @@ var data = {
                 "id": 693110395,
                 "tags": {
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -54010,6 +53842,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -54046,6 +53879,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -54342,6 +54176,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -54414,6 +54250,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -58302,6 +58139,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "\u0130brahima\u011fa K\u00f6pr\u00fcs\u00fc",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -58547,6 +58385,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -58583,6 +58422,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -60179,6 +60019,7 @@ var data = {
                     11506602953,
                     11506602954,
                     11506602955,
+                    13104429137,
                     11506602956,
                     11506602957,
                     7750415132,
@@ -60440,6 +60281,10 @@ var data = {
                     [
                         29.0857416,
                         40.9792223
+                    ],
+                    [
+                        29.0862235,
+                        40.9794026
                     ],
                     [
                         29.0862835,
@@ -60912,10 +60757,12 @@ var data = {
                     7714600169,
                     7714600170,
                     11098977124,
+                    13367386604,
                     11053937628,
                     7714600171,
                     11053937629,
                     8280717218,
+                    13367384666,
                     7714600172,
                     7714600173,
                     8280658485,
@@ -60994,6 +60841,10 @@ var data = {
                         41.074611
                     ],
                     [
+                        28.9477684,
+                        41.0746087
+                    ],
+                    [
                         28.9477871,
                         41.0746086
                     ],
@@ -61008,6 +60859,10 @@ var data = {
                     [
                         28.948147,
                         41.0746329
+                    ],
+                    [
+                        28.9482129,
+                        41.0746703
                     ],
                     [
                         28.9482444,
@@ -61068,7 +60923,6 @@ var data = {
                     6779474107,
                     6779474108,
                     8280658511,
-                    6779474109,
                     6779474110,
                     6779474111,
                     6779474112,
@@ -61098,6 +60952,7 @@ var data = {
                     6779474132,
                     8225522882,
                     12294042891,
+                    13367386651,
                     6779474133,
                     6779474134,
                     6779474135,
@@ -61265,12 +61120,8 @@ var data = {
                         41.0671229
                     ],
                     [
-                        28.9439788,
-                        41.0668175
-                    ],
-                    [
-                        28.943979,
-                        41.0667993
+                        28.9439733,
+                        41.0667418
                     ],
                     [
                         28.943928,
@@ -61387,6 +61238,10 @@ var data = {
                     [
                         28.9444168,
                         41.0612088
+                    ],
+                    [
+                        28.9444378,
+                        41.0611779
                     ],
                     [
                         28.944494,
@@ -61686,10 +61541,12 @@ var data = {
                     8280658484,
                     7714600167,
                     11053937623,
+                    13367384667,
                     6244065490,
                     11053937630,
                     7714600165,
                     6244065576,
+                    13367386603,
                     7714600164,
                     11098977123,
                     7714600163,
@@ -61728,6 +61585,10 @@ var data = {
                         41.0747205
                     ],
                     [
+                        28.9481767,
+                        41.0747063
+                    ],
+                    [
                         28.9481141,
                         41.0746813
                     ],
@@ -61742,6 +61603,10 @@ var data = {
                     [
                         28.9478457,
                         41.0746382
+                    ],
+                    [
+                        28.9476681,
+                        41.0746436
                     ],
                     [
                         28.9476199,
@@ -61868,6 +61733,7 @@ var data = {
                 },
                 "nodes": [
                     7194878161,
+                    13367386694,
                     7194878162,
                     7194878163,
                     9935629060,
@@ -61927,6 +61793,10 @@ var data = {
                     [
                         28.9493033,
                         41.0759446
+                    ],
+                    [
+                        28.9493083,
+                        41.0759572
                     ],
                     [
                         28.9493696,
@@ -62151,6 +62021,7 @@ var data = {
                 },
                 "nodes": [
                     8644162429,
+                    13367386695,
                     7194878181,
                     7194878182,
                     7194878183,
@@ -62210,6 +62081,10 @@ var data = {
                     [
                         28.9493624,
                         41.0759563
+                    ],
+                    [
+                        28.9493664,
+                        41.0759661
                     ],
                     [
                         28.9494033,
@@ -62689,6 +62564,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -62794,6 +62671,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -62841,6 +62720,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -62876,6 +62757,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -62933,6 +62816,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -62968,6 +62853,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -63080,6 +62967,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -63115,6 +63004,7 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "Marmaray depo hatt\u0131",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63145,6 +63035,7 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63175,6 +63066,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63232,6 +63125,7 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "Marmaray depo hatt\u0131",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63262,6 +63156,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63351,6 +63247,8 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63381,6 +63279,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63421,6 +63321,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63458,6 +63360,8 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63490,6 +63394,8 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63522,6 +63428,8 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -63552,11 +63460,14 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
                 "nodes": [
                     7563780110,
+                    13362685799,
                     7966853219,
                     7563780111,
                     7966853221,
@@ -63569,6 +63480,10 @@ var data = {
                     [
                         28.8933888,
                         40.9823215
+                    ],
+                    [
+                        28.8937441,
+                        40.9823296
                     ],
                     [
                         28.8946216,
@@ -63597,6 +63512,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63657,6 +63574,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63707,6 +63626,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "Marmaray depo hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -63931,6 +63852,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -63985,6 +63908,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64020,6 +63945,7 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -64052,6 +63978,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64109,6 +64037,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64142,6 +64072,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -64194,6 +64126,8 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -64226,6 +64160,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64416,6 +64352,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64441,8 +64379,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8438972,
-                        40.9762929
+                        28.8438747,
+                        40.9762513
                     ],
                     [
                         28.843759,
@@ -64503,6 +64441,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64522,8 +64462,8 @@ var data = {
                         40.9765134
                     ],
                     [
-                        28.8438972,
-                        40.9762929
+                        28.8438747,
+                        40.9762513
                     ]
                 ]
             }
@@ -64538,7 +64478,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
-                    "operator": "Ula\u015ft\u0131rma ve Altyap\u0131 Bakanl\u0131\u011f\u0131",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64721,6 +64662,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64756,6 +64699,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64792,6 +64736,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64825,6 +64771,7 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
                     "railway": "rail"
                 },
                 "nodes": [
@@ -64862,6 +64809,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -64895,6 +64844,7 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
                     "railway": "rail"
                 },
                 "nodes": [
@@ -64956,6 +64906,7 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "1",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
                     "railway": "rail"
                 },
                 "nodes": [
@@ -64987,6 +64938,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -65077,6 +65030,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -65223,6 +65178,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -65259,6 +65216,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -65670,6 +65629,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "layer": "-3",
+                    "level": "-3",
                     "maxspeed": "80",
                     "name": "M2 Yenikap\u0131 - Hac\u0131osman Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -66118,6 +66078,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "layer": "-3",
+                    "level": "-3",
                     "maxspeed": "80",
                     "name": "M2 Yenikap\u0131 - Hac\u0131osman Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -67525,202 +67486,6 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 820162195,
-                "tags": {
-                    "area": "yes",
-                    "building": "train_station",
-                    "building:levels": "2",
-                    "layer": "1",
-                    "name": "G\u00f6ztepe Tren Istasyonu",
-                    "railway": "subway",
-                    "station": "subway",
-                    "subway": "yes"
-                },
-                "nodes": [
-                    7658471705,
-                    7658471706,
-                    7658471707,
-                    7658471737,
-                    7658471763,
-                    7658471708,
-                    7658471709,
-                    7658471710,
-                    7658471711,
-                    7658471712,
-                    7658471713,
-                    7658471760,
-                    7658471714,
-                    7658471715,
-                    7658471716,
-                    7658471717,
-                    7658471746,
-                    7658471718,
-                    7658471719,
-                    7658471744,
-                    7658471720,
-                    7658471721,
-                    7658471722,
-                    7658471723,
-                    7658471724,
-                    7658471725,
-                    7658471762,
-                    7658471726,
-                    7658471727,
-                    7658471728,
-                    7658471729,
-                    7658471730,
-                    7658471735,
-                    7658471705
-                ]
-            },
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            29.062532,
-                            40.9794092
-                        ],
-                        [
-                            29.0625516,
-                            40.9793445
-                        ],
-                        [
-                            29.0624434,
-                            40.9793252
-                        ],
-                        [
-                            29.0624507,
-                            40.9792994
-                        ],
-                        [
-                            29.062455,
-                            40.9792839
-                        ],
-                        [
-                            29.062457,
-                            40.9792768
-                        ],
-                        [
-                            29.0625593,
-                            40.9792968
-                        ],
-                        [
-                            29.0625724,
-                            40.9792532
-                        ],
-                        [
-                            29.0621906,
-                            40.9791869
-                        ],
-                        [
-                            29.0622008,
-                            40.9791562
-                        ],
-                        [
-                            29.062095,
-                            40.9791381
-                        ],
-                        [
-                            29.0620987,
-                            40.979122
-                        ],
-                        [
-                            29.062103,
-                            40.9791031
-                        ],
-                        [
-                            29.0622104,
-                            40.9791217
-                        ],
-                        [
-                            29.0622168,
-                            40.9791009
-                        ],
-                        [
-                            29.0626149,
-                            40.9791549
-                        ],
-                        [
-                            29.0626486,
-                            40.9790477
-                        ],
-                        [
-                            29.0626572,
-                            40.9790206
-                        ],
-                        [
-                            29.0628582,
-                            40.9790555
-                        ],
-                        [
-                            29.0628513,
-                            40.9790784
-                        ],
-                        [
-                            29.0628435,
-                            40.9791038
-                        ],
-                        [
-                            29.0627458,
-                            40.9790869
-                        ],
-                        [
-                            29.0627194,
-                            40.9791724
-                        ],
-                        [
-                            29.0631083,
-                            40.9792386
-                        ],
-                        [
-                            29.0631021,
-                            40.9792591
-                        ],
-                        [
-                            29.0631867,
-                            40.9792737
-                        ],
-                        [
-                            29.0631793,
-                            40.9792981
-                        ],
-                        [
-                            29.0631716,
-                            40.9793235
-                        ],
-                        [
-                            29.0630878,
-                            40.979309
-                        ],
-                        [
-                            29.0630796,
-                            40.979332
-                        ],
-                        [
-                            29.0626947,
-                            40.9792727
-                        ],
-                        [
-                            29.0626473,
-                            40.9794291
-                        ],
-                        [
-                            29.0625846,
-                            40.9794183
-                        ],
-                        [
-                            29.062532,
-                            40.9794092
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 821860880,
                 "tags": {
                     "electrified": "contact_line",
@@ -67733,9 +67498,7 @@ var data = {
                     "railway": "subway",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     7716967065,
@@ -67784,6 +67547,7 @@ var data = {
                     7716970892,
                     7716970893,
                     7716970894,
+                    12053256963,
                     8947079628,
                     7673925114,
                     7673925456,
@@ -68074,6 +67838,10 @@ var data = {
                     [
                         28.801607,
                         41.1112592
+                    ],
+                    [
+                        28.8016165,
+                        41.1109774
                     ],
                     [
                         28.8016431,
@@ -71931,9 +71699,7 @@ var data = {
                     "railway": "subway",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     7673924841,
@@ -71944,6 +71710,7 @@ var data = {
                     8947033469,
                     8947033464,
                     7673996100,
+                    12862861308,
                     7673996101,
                     7974014688,
                     8947033465,
@@ -71965,8 +71732,8 @@ var data = {
                     7673996111,
                     10685555782,
                     7673996112,
-                    10685555781,
                     10685555779,
+                    13203609288,
                     7974014695,
                     10685555780,
                     7974014702,
@@ -72122,6 +71889,10 @@ var data = {
                         41.0286157
                     ],
                     [
+                        28.8459692,
+                        41.0283086
+                    ],
+                    [
                         28.8464149,
                         41.0280597
                     ],
@@ -72206,16 +71977,16 @@ var data = {
                         41.0202023
                     ],
                     [
-                        28.8567163,
-                        41.0200325
+                        28.8570102,
+                        41.0199334
                     ],
                     [
-                        28.8571858,
-                        41.0198319
+                        28.8578319,
+                        41.019572
                     ],
                     [
-                        28.8591395,
-                        41.0189883
+                        28.8592366,
+                        41.0189291
                     ],
                     [
                         28.8601077,
@@ -74032,6 +73803,7 @@ var data = {
                     "name:uk": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
                     "name:ur": "\u0645\u0631\u0645\u0631\u0627\u0626\u06cc",
                     "name:zh": "\u9a6c\u5c14\u9a6c\u62c9\u94c1\u8def",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -74083,7 +73855,6 @@ var data = {
                     7680399993,
                     8765892016,
                     2511296130,
-                    8742862554,
                     8742862553,
                     11282171110,
                     2148803001,
@@ -74262,24 +74033,20 @@ var data = {
                         41.0247872
                     ],
                     [
-                        29.0064325,
-                        41.0240769
+                        29.0069346,
+                        41.0242113
                     ],
                     [
-                        29.0045344,
-                        41.0232974
+                        28.9869783,
+                        41.017553
                     ],
                     [
-                        28.9886193,
-                        41.0182412
+                        28.9857293,
+                        41.0170975
                     ],
                     [
-                        28.9863106,
-                        41.017475
-                    ],
-                    [
-                        28.9854681,
-                        41.0170706
+                        28.9848436,
+                        41.0166632
                     ],
                     [
                         28.9833979,
@@ -74328,6 +74095,7 @@ var data = {
                     "layer": "-2",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -75044,8 +74812,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.043853,
-                        41.0851273
+                        29.0438194,
+                        41.0851076
                     ],
                     [
                         29.0448884,
@@ -75056,8 +74824,8 @@ var data = {
                         41.085298
                     ],
                     [
-                        29.0467903,
-                        41.0854169
+                        29.0463454,
+                        41.0853751
                     ]
                 ]
             }
@@ -75089,8 +74857,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.043853,
-                        41.0851273
+                        29.0438194,
+                        41.0851076
                     ],
                     [
                         29.0444618,
@@ -75105,8 +74873,8 @@ var data = {
                         41.0853915
                     ],
                     [
-                        29.0467868,
-                        41.0855025
+                        29.0463419,
+                        41.0854607
                     ]
                 ]
             }
@@ -75138,8 +74906,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0381884,
-                        41.0828905
+                        29.0384462,
+                        41.0831749
                     ],
                     [
                         29.0379973,
@@ -75154,8 +74922,8 @@ var data = {
                         41.082111
                     ],
                     [
-                        29.0369907,
-                        41.0820123
+                        29.0365522,
+                        41.0817242
                     ]
                 ]
             }
@@ -75187,8 +74955,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0369907,
-                        41.0820123
+                        29.0365522,
+                        41.0817242
                     ],
                     [
                         29.0371553,
@@ -75203,8 +74971,8 @@ var data = {
                         41.0827679
                     ],
                     [
-                        29.0381884,
-                        41.0828905
+                        29.0384462,
+                        41.0831749
                     ]
                 ]
             }
@@ -75226,6 +74994,7 @@ var data = {
                 },
                 "nodes": [
                     7687714958,
+                    12824083154,
                     3755460328,
                     7687714961,
                     7687714962,
@@ -75237,12 +75006,16 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0381884,
-                        41.0828905
+                        29.0384462,
+                        41.0831749
                     ],
                     [
-                        29.0403264,
-                        41.0843351
+                        29.0391958,
+                        41.0837494
+                    ],
+                    [
+                        29.0402031,
+                        41.0843492
                     ],
                     [
                         29.0410011,
@@ -75253,12 +75026,12 @@ var data = {
                         41.084685
                     ],
                     [
-                        29.0419935,
-                        41.0847265
+                        29.0422289,
+                        41.084856
                     ],
                     [
-                        29.043853,
-                        41.0851273
+                        29.0438194,
+                        41.0851076
                     ]
                 ]
             }
@@ -75290,8 +75063,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0250769,
-                        41.0774737
+                        29.0254169,
+                        41.0774484
                     ],
                     [
                         29.0245514,
@@ -75306,8 +75079,8 @@ var data = {
                         41.0773112
                     ],
                     [
-                        29.0230581,
-                        41.0773014
+                        29.0227555,
+                        41.0772535
                     ]
                 ]
             }
@@ -75339,8 +75112,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0230581,
-                        41.0773014
+                        29.0227555,
+                        41.0772535
                     ],
                     [
                         29.0234176,
@@ -75355,8 +75128,8 @@ var data = {
                         41.0774635
                     ],
                     [
-                        29.0250769,
-                        41.0774737
+                        29.0254169,
+                        41.0774484
                     ]
                 ]
             }
@@ -75386,7 +75159,6 @@ var data = {
                     7687714978,
                     3755460325,
                     3755460326,
-                    10043411287,
                     7687714959
                 ]
             },
@@ -75394,20 +75166,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0250769,
-                        41.0774737
+                        29.0254169,
+                        41.0774484
                     ],
                     [
-                        29.0282914,
-                        41.0777008
+                        29.0280139,
+                        41.0776624
                     ],
                     [
-                        29.0285796,
-                        41.0777555
+                        29.0285343,
+                        41.077764
                     ],
                     [
-                        29.0287985,
-                        41.0778392
+                        29.0290873,
+                        41.0780185
                     ],
                     [
                         29.0301543,
@@ -75430,12 +75202,8 @@ var data = {
                         41.0815263
                     ],
                     [
-                        29.0365989,
-                        41.08172
-                    ],
-                    [
-                        29.0369907,
-                        41.0820123
+                        29.0365522,
+                        41.0817242
                     ]
                 ]
             }
@@ -75478,8 +75246,8 @@ var data = {
                         41.0759713
                     ],
                     [
-                        29.0152845,
-                        41.0760897
+                        29.0156069,
+                        41.0762118
                     ]
                 ]
             }
@@ -75513,32 +75281,32 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0152845,
-                        41.0760897
+                        29.0156069,
+                        41.0762118
                     ],
                     [
-                        29.0159437,
-                        41.0762431
+                        29.0160987,
+                        41.0763389
                     ],
                     [
-                        29.0171252,
-                        41.0764888
+                        29.0170822,
+                        41.0765099
                     ],
                     [
-                        29.0181685,
-                        41.0766057
+                        29.0180527,
+                        41.0766254
                     ],
                     [
                         29.018912,
                         41.0767115
                     ],
                     [
-                        29.0202319,
-                        41.0769143
+                        29.0202394,
+                        41.0768918
                     ],
                     [
-                        29.0230581,
-                        41.0773014
+                        29.0227555,
+                        41.0772535
                     ]
                 ]
             }
@@ -76921,7 +76689,6 @@ var data = {
                     7705703160,
                     8882622995,
                     7705703161,
-                    8882622994,
                     7705703162,
                     7705703164,
                     7705703165,
@@ -76932,71 +76699,7 @@ var data = {
                     7705703169,
                     8882631419,
                     8882622992,
-                    8882631418,
-                    7705703170,
-                    8882622988,
-                    11506602931,
-                    11506602932,
-                    11506602933,
-                    11506602934,
-                    11506602935,
-                    11506602936,
-                    7705703178,
-                    8882622979,
-                    7705703179,
-                    11506602937,
-                    7705703180,
-                    8882622975,
-                    8882622974,
-                    7705703181,
-                    8882622970,
-                    7705703182,
-                    7705703183,
-                    7705703184,
-                    7705703185,
-                    11506602939,
-                    11506602958,
-                    8882622968,
-                    11506602942,
-                    11506602943,
-                    11506602944,
-                    11506602945,
-                    11506602946,
-                    11506602947,
-                    11506602948,
-                    11506602949,
-                    7705703193,
-                    7705703194,
-                    11506606083,
-                    11506606084,
-                    11506606085,
-                    11506606086,
-                    11506606087,
-                    11506606091,
-                    11506606088,
-                    11506606089,
-                    11506606090,
-                    8743248851,
-                    8882622941,
-                    8956990884,
-                    7705703202,
-                    8956990900,
-                    11506606095,
-                    11506606094,
-                    11506606093,
-                    11506606098,
-                    11506606092,
-                    8882622937,
-                    8882622933,
-                    8882622930,
-                    8956990898,
-                    8956990899,
-                    7750420729,
-                    8882622932,
-                    8882622931,
-                    7750420727,
-                    10060485295,
-                    7705703212
+                    7705703170
                 ]
             },
             "geometry": {
@@ -77327,10 +77030,6 @@ var data = {
                         40.9985356
                     ],
                     [
-                        29.1094512,
-                        40.9982616
-                    ],
-                    [
                         29.1092401,
                         40.9979939
                     ],
@@ -77371,264 +77070,8 @@ var data = {
                         40.9922079
                     ],
                     [
-                        29.1050007,
-                        40.9917108
-                    ],
-                    [
                         29.104553,
                         40.991164
-                    ],
-                    [
-                        29.1037698,
-                        40.9902977
-                    ],
-                    [
-                        29.1031266,
-                        40.9895905
-                    ],
-                    [
-                        29.1026354,
-                        40.9892656
-                    ],
-                    [
-                        29.1013085,
-                        40.9887266
-                    ],
-                    [
-                        29.0976065,
-                        40.9877288
-                    ],
-                    [
-                        29.0964164,
-                        40.987423
-                    ],
-                    [
-                        29.0956365,
-                        40.987186
-                    ],
-                    [
-                        29.0949248,
-                        40.9869425
-                    ],
-                    [
-                        29.0944173,
-                        40.9867667
-                    ],
-                    [
-                        29.0939415,
-                        40.9865328
-                    ],
-                    [
-                        29.0934283,
-                        40.9862512
-                    ],
-                    [
-                        29.0929101,
-                        40.9859276
-                    ],
-                    [
-                        29.0924019,
-                        40.9855192
-                    ],
-                    [
-                        29.0914421,
-                        40.9846942
-                    ],
-                    [
-                        29.0906715,
-                        40.9839062
-                    ],
-                    [
-                        29.0902146,
-                        40.9834289
-                    ],
-                    [
-                        29.0897465,
-                        40.9828917
-                    ],
-                    [
-                        29.0893934,
-                        40.9824632
-                    ],
-                    [
-                        29.0891404,
-                        40.9821438
-                    ],
-                    [
-                        29.0888603,
-                        40.981799
-                    ],
-                    [
-                        29.0884204,
-                        40.9813387
-                    ],
-                    [
-                        29.0874104,
-                        40.9803364
-                    ],
-                    [
-                        29.0867543,
-                        40.9798854
-                    ],
-                    [
-                        29.0863364,
-                        40.9796074
-                    ],
-                    [
-                        29.0857641,
-                        40.9793857
-                    ],
-                    [
-                        29.0850905,
-                        40.979248
-                    ],
-                    [
-                        29.0843258,
-                        40.9792289
-                    ],
-                    [
-                        29.0829686,
-                        40.9793168
-                    ],
-                    [
-                        29.0817937,
-                        40.9794545
-                    ],
-                    [
-                        29.080715,
-                        40.9796915
-                    ],
-                    [
-                        29.079692,
-                        40.9799209
-                    ],
-                    [
-                        29.07849,
-                        40.9801472
-                    ],
-                    [
-                        29.075683,
-                        40.9804998
-                    ],
-                    [
-                        29.0727406,
-                        40.9808477
-                    ],
-                    [
-                        29.0711757,
-                        40.9811497
-                    ],
-                    [
-                        29.0702135,
-                        40.9812262
-                    ],
-                    [
-                        29.0696159,
-                        40.9811803
-                    ],
-                    [
-                        29.0691804,
-                        40.9810695
-                    ],
-                    [
-                        29.0687626,
-                        40.9809242
-                    ],
-                    [
-                        29.0684258,
-                        40.9807789
-                    ],
-                    [
-                        29.0678333,
-                        40.9804463
-                    ],
-                    [
-                        29.0673319,
-                        40.979999
-                    ],
-                    [
-                        29.066291,
-                        40.9787789
-                    ],
-                    [
-                        29.0654445,
-                        40.9778507
-                    ],
-                    [
-                        29.0651367,
-                        40.9774677
-                    ],
-                    [
-                        29.0649237,
-                        40.9771733
-                    ],
-                    [
-                        29.0641682,
-                        40.9759173
-                    ],
-                    [
-                        29.0637034,
-                        40.9752637
-                    ],
-                    [
-                        29.0632791,
-                        40.9746713
-                    ],
-                    [
-                        29.0627676,
-                        40.974071
-                    ],
-                    [
-                        29.0624181,
-                        40.973767
-                    ],
-                    [
-                        29.0620383,
-                        40.9735051
-                    ],
-                    [
-                        29.0616585,
-                        40.9732527
-                    ],
-                    [
-                        29.0594344,
-                        40.9718647
-                    ],
-                    [
-                        29.0587023,
-                        40.9714758
-                    ],
-                    [
-                        29.0582533,
-                        40.9712224
-                    ],
-                    [
-                        29.0579443,
-                        40.9710136
-                    ],
-                    [
-                        29.0576971,
-                        40.9707956
-                    ],
-                    [
-                        29.0575262,
-                        40.9706392
-                    ],
-                    [
-                        29.0573028,
-                        40.9704218
-                    ],
-                    [
-                        29.0570701,
-                        40.9701613
-                    ],
-                    [
-                        29.0554084,
-                        40.96822
-                    ],
-                    [
-                        29.0551797,
-                        40.9679528
                     ]
                 ]
             }
@@ -78030,7 +77473,6 @@ var data = {
                     8628430141,
                     7705000985,
                     7705000986,
-                    8628430140,
                     7705000987,
                     7705000988,
                     7705000989
@@ -78108,24 +77550,20 @@ var data = {
                         41.01067
                     ],
                     [
-                        29.2105539,
-                        41.0106991
+                        29.2104075,
+                        41.0107408
                     ],
                     [
-                        29.2100952,
-                        41.0107174
+                        29.2096836,
+                        41.0108183
                     ],
                     [
-                        29.2091943,
-                        41.0107348
+                        29.2089078,
+                        41.0108099
                     ],
                     [
-                        29.2087499,
-                        41.0107317
-                    ],
-                    [
-                        29.2081327,
-                        41.0106682
+                        29.2082412,
+                        41.0107166
                     ],
                     [
                         29.2076897,
@@ -78164,10 +77602,8 @@ var data = {
                     8628430134,
                     8628430135,
                     6932313794,
-                    7705001013,
                     8628430137,
                     7705001019,
-                    8628430139,
                     6932313793,
                     6932313792,
                     9010836706,
@@ -78198,28 +77634,20 @@ var data = {
                         41.0103713
                     ],
                     [
-                        29.2080894,
-                        41.010449
+                        29.2082077,
+                        41.0105011
                     ],
                     [
-                        29.2085494,
-                        41.0105001
+                        29.2088452,
+                        41.0106005
                     ],
                     [
-                        29.2088649,
-                        41.0105202
+                        29.2095244,
+                        41.0106132
                     ],
                     [
-                        29.2095195,
-                        41.010509
-                    ],
-                    [
-                        29.2100379,
-                        41.0104818
-                    ],
-                    [
-                        29.2104604,
-                        41.0104697
+                        29.2100971,
+                        41.0105674
                     ],
                     [
                         29.2108879,
@@ -78258,8 +77686,8 @@ var data = {
                         41.0084175
                     ],
                     [
-                        29.2159249,
-                        41.0080071
+                        29.21592,
+                        41.0079029
                     ],
                     [
                         29.2160632,
@@ -78510,6 +77938,7 @@ var data = {
                 "type": "way",
                 "id": 825886239,
                 "tags": {
+                    "bicycle": "permissive",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -78758,31 +78187,31 @@ var data = {
                     ],
                     [
                         28.9204101,
-                        41.0194245
+                        41.0194392
                     ],
                     [
-                        28.9208233,
-                        41.0194456
+                        28.9208539,
+                        41.0194582
                     ],
                     [
-                        28.9212538,
-                        41.0194573
+                        28.921276,
+                        41.0194688
                     ],
                     [
-                        28.9217681,
-                        41.019505
+                        28.9217542,
+                        41.0194956
                     ],
                     [
                         28.9224695,
                         41.0196115
                     ],
                     [
-                        28.9229971,
-                        41.0196663
+                        28.9230944,
+                        41.0196768
                     ],
                     [
-                        28.9234061,
-                        41.0197016
+                        28.9234325,
+                        41.0197089
                     ],
                     [
                         28.9236198,
@@ -79049,8 +78478,8 @@ var data = {
                         41.0096257
                     ],
                     [
-                        28.9554291,
-                        41.0095925
+                        28.9554327,
+                        41.0095972
                     ],
                     [
                         28.9556184,
@@ -79169,8 +78598,8 @@ var data = {
                         41.0092839
                     ],
                     [
-                        28.9655978,
-                        41.0092357
+                        28.9655352,
+                        41.0092505
                     ],
                     [
                         28.9658657,
@@ -79549,8 +78978,8 @@ var data = {
                         41.0158372
                     ],
                     [
-                        28.9764336,
-                        41.016139
+                        28.9764315,
+                        41.0161406
                     ],
                     [
                         28.976445,
@@ -79661,6 +79090,7 @@ var data = {
                 "type": "way",
                 "id": 825886240,
                 "tags": {
+                    "bicycle": "permissive",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -79675,6 +79105,7 @@ var data = {
                 "nodes": [
                     7711133863,
                     7711133864,
+                    13055149534,
                     8623037789,
                     7711133865,
                     7711133866,
@@ -79810,6 +79241,7 @@ var data = {
                     3817961613,
                     3817961615,
                     3282357301,
+                    13357454670,
                     7711110282,
                     3282357319,
                     3282357321,
@@ -79886,12 +79318,16 @@ var data = {
                         41.0192748
                     ],
                     [
-                        28.9206041,
-                        41.0193857
+                        28.9204706,
+                        41.0193847
                     ],
                     [
-                        28.9212512,
-                        41.0194209
+                        28.9207911,
+                        41.0194246
+                    ],
+                    [
+                        28.9212401,
+                        41.0194377
                     ],
                     [
                         28.9218527,
@@ -80158,8 +79594,8 @@ var data = {
                         41.0095924
                     ],
                     [
-                        28.9554159,
-                        41.0095704
+                        28.9554177,
+                        41.0095717
                     ],
                     [
                         28.9556165,
@@ -80262,8 +79698,8 @@ var data = {
                         41.0092536
                     ],
                     [
-                        28.9656043,
-                        41.0092115
+                        28.965537,
+                        41.0092261
                     ],
                     [
                         28.9663045,
@@ -80428,6 +79864,10 @@ var data = {
                     [
                         28.9785312,
                         41.0085319
+                    ],
+                    [
+                        28.9785873,
+                        41.0090405
                     ],
                     [
                         28.9786526,
@@ -80786,164 +80226,6 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 825886243,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "0",
-                    "gauge": "1435",
-                    "railway": "tram",
-                    "service": "spur",
-                    "voltage": "750"
-                },
-                "nodes": [
-                    7711133884,
-                    7711133885,
-                    7711133890,
-                    7711133886,
-                    7711133894,
-                    7711133887,
-                    7711133888
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9173496,
-                        41.0185974
-                    ],
-                    [
-                        28.9165884,
-                        41.0183957
-                    ],
-                    [
-                        28.9163824,
-                        41.0183147
-                    ],
-                    [
-                        28.9161644,
-                        41.0182127
-                    ],
-                    [
-                        28.91561,
-                        41.0180517
-                    ],
-                    [
-                        28.915333,
-                        41.0179659
-                    ],
-                    [
-                        28.9152212,
-                        41.0179375
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 825886244,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "0",
-                    "gauge": "1435",
-                    "railway": "tram",
-                    "service": "spur",
-                    "voltage": "750"
-                },
-                "nodes": [
-                    7711133889,
-                    7711133890
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.917338,
-                        41.0185618
-                    ],
-                    [
-                        28.9163824,
-                        41.0183147
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 825886245,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "0",
-                    "gauge": "1435",
-                    "railway": "tram",
-                    "service": "spur",
-                    "voltage": "750"
-                },
-                "nodes": [
-                    7711133891,
-                    7711133886
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9173395,
-                        41.0185215
-                    ],
-                    [
-                        28.9161644,
-                        41.0182127
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 825886246,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "0",
-                    "gauge": "1435",
-                    "railway": "tram",
-                    "service": "spur",
-                    "voltage": "750"
-                },
-                "nodes": [
-                    7711133892,
-                    7711133893,
-                    7711133894
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9172783,
-                        41.0184765
-                    ],
-                    [
-                        28.9159627,
-                        41.0181188
-                    ],
-                    [
-                        28.91561,
-                        41.0180517
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
                 "id": 825886248,
                 "tags": {
                     "description": "Kabata\u015f - Ba\u011fcilar",
@@ -80972,8 +80254,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9126279,
-                        41.0164663
+                        28.9127214,
+                        41.0164918
                     ],
                     [
                         28.9124502,
@@ -80984,16 +80266,16 @@ var data = {
                         41.0162132
                     ],
                     [
-                        28.9115304,
-                        41.0159698
+                        28.9116187,
+                        41.0159992
                     ],
                     [
                         28.9112811,
                         41.0158525
                     ],
                     [
-                        28.9112004,
-                        41.0158108
+                        28.9111892,
+                        41.0158038
                     ],
                     [
                         28.9110679,
@@ -81045,8 +80327,8 @@ var data = {
                         41.0162132
                     ],
                     [
-                        28.9127041,
-                        41.0163963
+                        28.9127612,
+                        41.0164322
                     ]
                 ]
             }
@@ -81076,24 +80358,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8771418,
-                        41.0153559
+                        28.8771231,
+                        41.015388
                     ],
                     [
-                        28.8773583,
-                        41.0151863
+                        28.8773625,
+                        41.0152075
                     ],
                     [
-                        28.8776514,
-                        41.0149957
+                        28.877535,
+                        41.0150953
                     ],
                     [
-                        28.8778116,
-                        41.0149461
+                        28.8777441,
+                        41.0149877
                     ],
                     [
-                        28.8779783,
-                        41.0148939
+                        28.8779648,
+                        41.0148908
                     ]
                 ]
             }
@@ -81109,7 +80391,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "-2",
                     "name": "M10 Pendik - Sabiha G\u00f6k\u00e7en Havaliman\u0131 Metro Hatt\u0131",
-                    "note": "M10 Sabiha G\u00f6k\u00e7en Havaliman\u0131  - Pendik Metro Hatt\u0131",
+                    "note": "M10 Sabiha G\u00f6k\u00e7en Havaliman\u0131 - Pendik Metro Hatt\u0131",
                     "railway": "construction",
                     "tunnel": "yes"
                 },
@@ -81872,6 +81154,7 @@ var data = {
                 "type": "way",
                 "id": 825953003,
                 "tags": {
+                    "construction": "subway",
                     "construction:railway": "subway",
                     "electrified": "contact_line",
                     "gauge": "1435",
@@ -82114,6 +81397,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -82162,6 +81446,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -82220,6 +81506,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -82288,6 +81576,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -82351,6 +81641,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -82389,6 +81681,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -82447,6 +81741,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -82520,10 +81815,10 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
-                    "service": "spur",
-                    "tracks": "1",
+                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -82741,6 +82036,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -82791,6 +82088,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -82916,8 +82214,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     7711800087,
@@ -82962,6 +82259,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -82996,6 +82294,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -83326,6 +82625,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -83466,6 +82767,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "no",
                     "tracks": "1",
@@ -85106,11 +84409,13 @@ var data = {
                 "type": "way",
                 "id": 826246883,
                 "tags": {
-                    "electrified": "no",
+                    "electrified": "yes",
+                    "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "usage": "main",
+                    "voltage": "25000"
                 },
                 "nodes": [
                     1065496283,
@@ -85140,8 +84445,7 @@ var data = {
                     "electrified": "no",
                     "gauge": "1435",
                     "railway": "rail",
-                    "service": "siding",
-                    "usage": "main"
+                    "service": "siding"
                 },
                 "nodes": [
                     7714471448,
@@ -85207,8 +84511,7 @@ var data = {
                     "gauge": "1435",
                     "railway": "rail",
                     "service": "siding",
-                    "tracks": "1",
-                    "usage": "main"
+                    "tracks": "1"
                 },
                 "nodes": [
                     5713876832,
@@ -86060,7 +85363,7 @@ var data = {
                     "railway": "subway",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     7681128632,
@@ -86096,6 +85399,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -86131,6 +85436,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -86167,6 +85474,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -86204,6 +85513,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -86247,6 +85558,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -86261,12 +85573,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9314354,
-                        40.9971398
+                        28.9314328,
+                        40.9971468
                     ],
                     [
-                        28.9314002,
-                        40.9970659
+                        28.9313989,
+                        40.9970765
                     ]
                 ]
             }
@@ -86367,9 +85679,7 @@ var data = {
                     "operator": "Metro \u0130stanbul",
                     "railway": "subway",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     7716967030,
@@ -86441,9 +85751,7 @@ var data = {
                     "railway": "subway",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     10792898465,
@@ -86625,9 +85933,7 @@ var data = {
                     "railway": "subway",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     7716967071,
@@ -86839,9 +86145,7 @@ var data = {
                     "operator": "Metro \u0130stanbul",
                     "railway": "subway",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q1880963",
-                    "wikipedia": "tr:M3 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     7716967065,
@@ -86908,6 +86212,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -86944,6 +86249,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -87028,7 +86334,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     7681187600,
@@ -87231,7 +86537,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     7681187601,
@@ -87270,7 +86576,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     7681187599,
@@ -87829,6 +87135,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -87849,84 +87156,6 @@ var data = {
                     [
                         28.9503245,
                         41.0044689
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 827491207,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    6511062610,
-                    11684007833,
-                    11684007826,
-                    3305602346
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9465268,
-                        41.0037105
-                    ],
-                    [
-                        28.9468162,
-                        41.0037656
-                    ],
-                    [
-                        28.9495057,
-                        41.0042967
-                    ],
-                    [
-                        28.9500783,
-                        41.0044108
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 827491208,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    7725470073,
-                    6511062610
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9463946,
-                        41.0036805
-                    ],
-                    [
-                        28.9465268,
-                        41.0037105
                     ]
                 ]
             }
@@ -88008,6 +87237,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
+                    "operator": "Metro \u0130stanbul",
                     "railway": "tram",
                     "service": "spur",
                     "voltage": "750"
@@ -88140,6 +87370,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
+                    "operator": "Metro \u0130stanbul",
                     "railway": "tram",
                     "service": "spur",
                     "voltage": "750"
@@ -91691,6 +90922,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -91753,6 +90985,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -91804,6 +91037,8 @@ var data = {
                 "tags": {
                     "electrified": "contact_line",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding"
                 },
@@ -91957,6 +91192,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -92028,6 +91265,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -92084,9 +91322,11 @@ var data = {
                 "tags": {
                     "cutting": "yes",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -92128,6 +91368,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -92161,6 +91403,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "service": "siding",
@@ -92232,6 +91476,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -92313,6 +91558,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -92324,7 +91570,6 @@ var data = {
                     7972710960,
                     7972710961,
                     3398609964,
-                    11816194114,
                     1907502888,
                     1907502890,
                     1907502891,
@@ -92410,10 +91655,6 @@ var data = {
                     [
                         29.1309957,
                         40.9217908
-                    ],
-                    [
-                        29.1294417,
-                        40.9224557
                     ],
                     [
                         29.1291206,
@@ -92848,6 +92089,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -92930,6 +92173,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -92976,6 +92221,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -93022,6 +92269,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -93102,6 +92350,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -93441,6 +92691,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -93829,6 +93080,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -93867,6 +93119,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -93903,6 +93156,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -94195,6 +93449,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -94491,6 +93746,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -94525,6 +93782,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -94782,6 +94041,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -94818,6 +94078,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -95059,6 +94320,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -95342,6 +94604,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "120",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -95512,6 +94775,7 @@ var data = {
                     7897142440,
                     9013602818,
                     7897142436,
+                    13096195838,
                     6974703558,
                     7897142430,
                     6974703557,
@@ -95643,6 +94907,10 @@ var data = {
                     [
                         29.0092327,
                         41.0444238
+                    ],
+                    [
+                        29.0089667,
+                        41.044307
                     ],
                     [
                         29.0083976,
@@ -96721,7 +95989,6 @@ var data = {
                 "type": "way",
                 "id": 865024324,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96763,7 +96030,6 @@ var data = {
                 "type": "way",
                 "id": 865024325,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96805,7 +96071,6 @@ var data = {
                 "type": "way",
                 "id": 865283639,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96816,9 +96081,7 @@ var data = {
                     "service": "crossover",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q16949749",
-                    "wikipedia": "tr:M7 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     6508719317,
@@ -96850,7 +96113,6 @@ var data = {
                 "type": "way",
                 "id": 865283640,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96861,9 +96123,7 @@ var data = {
                     "service": "crossover",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q16949749",
-                    "wikipedia": "tr:M7 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     8065107767,
@@ -96895,7 +96155,6 @@ var data = {
                 "type": "way",
                 "id": 865283641,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96931,7 +96190,6 @@ var data = {
                 "type": "way",
                 "id": 865283643,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96967,7 +96225,6 @@ var data = {
                 "type": "way",
                 "id": 865283645,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -96978,9 +96235,7 @@ var data = {
                     "service": "crossover",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q16949749",
-                    "wikipedia": "tr:M7 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     6507303865,
@@ -97012,7 +96267,6 @@ var data = {
                 "type": "way",
                 "id": 865283646,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -97023,9 +96277,7 @@ var data = {
                     "service": "crossover",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q16949749",
-                    "wikipedia": "tr:M7 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     8065107780,
@@ -97067,7 +96319,6 @@ var data = {
                 "type": "way",
                 "id": 865283647,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -97078,9 +96329,7 @@ var data = {
                     "service": "crossover",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q16949749",
-                    "wikipedia": "tr:M7 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     8065107781,
@@ -97112,7 +96361,6 @@ var data = {
                 "type": "way",
                 "id": 865283648,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -97123,9 +96371,7 @@ var data = {
                     "service": "crossover",
                     "tunnel": "yes",
                     "usage": "main",
-                    "voltage": "1500",
-                    "wikidata": "Q16949749",
-                    "wikipedia": "tr:M7 (\u0130stanbul metrosu)"
+                    "voltage": "1500"
                 },
                 "nodes": [
                     8065107784,
@@ -97157,7 +96403,6 @@ var data = {
                 "type": "way",
                 "id": 867489140,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -97198,7 +96443,6 @@ var data = {
                 "type": "way",
                 "id": 867489141,
                 "tags": {
-                    "colour": "#F19EBF",
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
@@ -97243,7 +96487,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97306,7 +96550,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97384,7 +96628,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97422,7 +96666,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97470,7 +96714,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97508,7 +96752,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97566,7 +96810,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97614,7 +96858,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97657,7 +96901,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97705,7 +96949,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97763,7 +97007,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97816,7 +97060,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97874,7 +97118,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97917,7 +97161,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -97970,7 +97214,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98023,7 +97267,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98081,7 +97325,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98275,16 +97519,17 @@ var data = {
                 "type": "way",
                 "id": 870739974,
                 "tags": {
-                    "electrified": "no",
+                    "covered": "yes",
+                    "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
-                    11093775712,
+                    13151391993,
                     11093775713
                 ]
             },
@@ -98292,12 +97537,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8619269,
-                        41.0717546
+                        28.8619959,
+                        41.0718129
                     ],
                     [
-                        28.8630135,
-                        41.0724791
+                        28.8630142,
+                        41.0724621
                     ]
                 ]
             }
@@ -98313,7 +97558,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98326,7 +97571,7 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8621956,
+                        28.8621955,
                         41.0712043
                     ],
                     [
@@ -98347,7 +97592,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98381,7 +97626,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98394,8 +97639,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.86184,
-                        41.0715249
+                        28.8618399,
+                        41.0715248
                     ],
                     [
                         28.8636943,
@@ -98415,25 +97660,25 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
                     8111295025,
-                    8111295026
+                    13151391999
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8617867,
-                        41.071573
+                        28.8617866,
+                        41.0715729
                     ],
                     [
-                        28.863645,
-                        41.0727394
+                        28.8636781,
+                        41.0727646
                     ]
                 ]
             }
@@ -98449,7 +97694,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98462,8 +97707,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8619432,
-                        41.0714319
+                        28.8619431,
+                        41.0714318
                     ],
                     [
                         28.8637917,
@@ -98483,7 +97728,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98496,8 +97741,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8618954,
-                        41.071475
+                        28.8618953,
+                        41.0714749
                     ],
                     [
                         28.8637473,
@@ -98517,7 +97762,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98530,7 +97775,7 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.862074,
+                        28.8620739,
                         41.0713139
                     ],
                     [
@@ -98551,7 +97796,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98564,7 +97809,7 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.862007,
+                        28.8620069,
                         41.0713743
                     ],
                     [
@@ -98584,7 +97829,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98592,7 +97837,7 @@ var data = {
                     8111295019,
                     10674653258,
                     8111295035,
-                    8111295036,
+                    13151391989,
                     8111295042,
                     8111295037,
                     8111295041,
@@ -98604,24 +97849,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8621956,
+                        28.8621955,
                         41.0712043
                     ],
                     [
-                        28.8620716,
-                        41.0711397
+                        28.862077,
+                        41.0711357
                     ],
                     [
-                        28.8619385,
-                        41.0710701
+                        28.861972,
+                        41.0710863
                     ],
                     [
-                        28.8617446,
-                        41.0710054
+                        28.8618465,
+                        41.0710386
                     ],
                     [
-                        28.8616445,
-                        41.0709634
+                        28.8617057,
+                        41.0709943
                     ],
                     [
                         28.8612838,
@@ -98652,7 +97897,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98660,6 +97905,7 @@ var data = {
                     8111295021,
                     10674653268,
                     8111295038,
+                    13151391992,
                     8111295039,
                     8111295040,
                     8111295041
@@ -98677,12 +97923,16 @@ var data = {
                         41.0711908
                     ],
                     [
-                        28.8618507,
-                        41.0711036
+                        28.8619204,
+                        41.07114
                     ],
                     [
-                        28.8615685,
-                        41.0710236
+                        28.861791,
+                        41.0710854
+                    ],
+                    [
+                        28.8614398,
+                        41.0709781
                     ],
                     [
                         28.8612262,
@@ -98705,12 +97955,15 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
                     8111295042,
+                    13151391986,
+                    13151391988,
+                    13151391987,
                     8111295045
                 ]
             },
@@ -98718,12 +97971,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8616445,
-                        41.0709634
+                        28.8617057,
+                        41.0709943
                     ],
                     [
-                        28.8609255,
-                        41.0704988
+                        28.8615635,
+                        41.0709427
+                    ],
+                    [
+                        28.8614505,
+                        41.0708916
+                    ],
+                    [
+                        28.8613305,
+                        41.0708306
+                    ],
+                    [
+                        28.8609215,
+                        41.0705716
                     ]
                 ]
             }
@@ -98738,13 +98003,15 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
                     8111295031,
                     10674653266,
+                    13151391991,
+                    13151391990,
                     8111295039
                 ]
             },
@@ -98752,16 +98019,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.862074,
+                        28.8620739,
                         41.0713139
                     ],
                     [
-                        28.8619622,
-                        41.0712362
+                        28.8619582,
+                        41.0712402
                     ],
                     [
-                        28.8615685,
-                        41.0710236
+                        28.8617981,
+                        41.071144
+                    ],
+                    [
+                        28.8616351,
+                        41.0710656
+                    ],
+                    [
+                        28.8614398,
+                        41.0709781
                     ]
                 ]
             }
@@ -98776,7 +98051,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98791,8 +98066,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8617867,
-                        41.071573
+                        28.8617866,
+                        41.0715729
                     ],
                     [
                         28.8616697,
@@ -98819,7 +98094,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98882,7 +98157,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98897,7 +98172,7 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.862007,
+                        28.8620069,
                         41.0713743
                     ],
                     [
@@ -98925,7 +98200,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98942,8 +98217,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8619432,
-                        41.0714319
+                        28.8619431,
+                        41.0714318
                     ],
                     [
                         28.861833,
@@ -98978,7 +98253,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -98994,8 +98269,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8618954,
-                        41.071475
+                        28.8618953,
+                        41.0714749
                     ],
                     [
                         28.8618043,
@@ -99026,7 +98301,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "spur",
+                    "service": "yard",
                     "usage": "main",
                     "voltage": "1500"
                 },
@@ -99042,8 +98317,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.86184,
-                        41.0715249
+                        28.8618399,
+                        41.0715248
                     ],
                     [
                         28.8617261,
@@ -99078,6 +98353,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "\u0130brahima\u011fa K\u00f6pr\u00fcs\u00fc",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -99105,8 +98381,8 @@ var data = {
                         40.9987979
                     ],
                     [
-                        29.0288655,
-                        40.999005
+                        29.0288548,
+                        40.9989979
                     ]
                 ]
             }
@@ -102962,7 +102238,7 @@ var data = {
                     9019954850,
                     9019954851,
                     8375474422,
-                    12042166753
+                    8375474421
                 ]
             },
             "geometry": {
@@ -103653,8 +102929,8 @@ var data = {
                         40.8385054
                     ],
                     [
-                        29.4314917,
-                        40.8391261
+                        29.4319737,
+                        40.8398395
                     ]
                 ]
             }
@@ -103727,6 +103003,7 @@ var data = {
                     8874626807,
                     8874626805,
                     8874626804,
+                    13192039840,
                     8375474359,
                     8375474364,
                     8874626803,
@@ -103765,6 +103042,7 @@ var data = {
                     8874633233,
                     8874617705,
                     8375474371,
+                    1758134335,
                     8874622923,
                     8874622921,
                     8874622922,
@@ -103857,7 +103135,7 @@ var data = {
                     8874572300,
                     8375474400,
                     8874572299,
-                    12042166752
+                    8874572298
                 ]
             },
             "geometry": {
@@ -104076,6 +103354,10 @@ var data = {
                         40.786852
                     ],
                     [
+                        29.4169174,
+                        40.7867903
+                    ],
+                    [
                         29.4176853,
                         40.7869478
                     ],
@@ -104226,6 +103508,10 @@ var data = {
                     [
                         29.4350688,
                         40.7984622
+                    ],
+                    [
+                        29.4352854,
+                        40.7985367
                     ],
                     [
                         29.4354391,
@@ -104596,8 +103882,8 @@ var data = {
                         40.8384889
                     ],
                     [
-                        29.4318722,
-                        40.8389914
+                        29.4323457,
+                        40.8397288
                     ]
                 ]
             }
@@ -106752,6 +106038,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -106767,9 +106054,7 @@ var data = {
                     7658471852,
                     1908362734,
                     1908362746,
-                    1908362763,
                     1908362769,
-                    7658471851,
                     1908362792,
                     1908362794,
                     1908362795,
@@ -106839,16 +106124,8 @@ var data = {
                         40.9535183
                     ],
                     [
-                        29.0953795,
-                        40.9538629
-                    ],
-                    [
-                        29.0949313,
-                        40.9540096
-                    ],
-                    [
-                        29.0942498,
-                        40.9542188
+                        29.0949356,
+                        40.9539899
                     ],
                     [
                         29.0935016,
@@ -106988,6 +106265,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -107015,11 +106293,11 @@ var data = {
                     248561244,
                     248561245,
                     248561246,
+                    12723896253,
                     248561247,
                     1908362797,
                     248561248,
                     248561249,
-                    6395900681,
                     248561250,
                     6395900678,
                     1908362742,
@@ -107113,28 +106391,28 @@ var data = {
                         40.95549
                     ],
                     [
-                        29.0917811,
-                        40.9551978
+                        29.0916659,
+                        40.9552575
                     ],
                     [
-                        29.0921363,
-                        40.9549441
+                        29.0918417,
+                        40.9551098
                     ],
                     [
-                        29.0923703,
+                        29.0920326,
+                        40.9549615
+                    ],
+                    [
+                        29.0923017,
                         40.9547927
                     ],
                     [
-                        29.092655,
-                        40.9546579
+                        29.09263,
+                        40.9546193
                     ],
                     [
-                        29.09311,
-                        40.9544771
-                    ],
-                    [
-                        29.0939604,
-                        40.9541821
+                        29.093025,
+                        40.9544548
                     ],
                     [
                         29.094853,
@@ -107196,6 +106474,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -107244,6 +106523,7 @@ var data = {
                     "layer": "1",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -107301,6 +106581,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -107891,6 +107173,7 @@ var data = {
                 "type": "way",
                 "id": 927516466,
                 "tags": {
+                    "construction": "subway",
                     "construction:railway": "subway",
                     "electrified": "contact_line",
                     "gauge": "1435",
@@ -107908,7 +107191,7 @@ var data = {
                     7711662735,
                     9570465469,
                     7711662736,
-                    27463675,
+                    12978354949,
                     7711662739,
                     9570465514,
                     7711662740,
@@ -108125,6 +107408,7 @@ var data = {
                 },
                 "nodes": [
                     8225548819,
+                    13367384668,
                     7194878159,
                     8225548814,
                     7194878160,
@@ -108137,6 +107421,10 @@ var data = {
                     [
                         28.9490553,
                         41.0755862
+                    ],
+                    [
+                        28.9491893,
+                        41.0757625
                     ],
                     [
                         28.9491952,
@@ -108175,6 +107463,7 @@ var data = {
                     8225548820,
                     7194878178,
                     11053937622,
+                    13367384669,
                     7194878179,
                     3341650186,
                     7194878180,
@@ -108195,6 +107484,10 @@ var data = {
                     [
                         28.9492497,
                         41.0757661
+                    ],
+                    [
+                        28.9492604,
+                        41.0757789
                     ],
                     [
                         28.9492959,
@@ -108933,6 +108226,7 @@ var data = {
                     "construction": "subway",
                     "construction:railway": "subway",
                     "electrified": "contact_line",
+                    "frequency": "0",
                     "gauge": "1435",
                     "layer": "-3",
                     "maxspeed": "80",
@@ -109003,6 +108297,7 @@ var data = {
                     10301089113,
                     10592618846,
                     10295668079,
+                    12849423675,
                     11178417620,
                     10295668092,
                     11178417621,
@@ -109199,24 +108494,24 @@ var data = {
                         41.0610611
                     ],
                     [
-                        28.8158626,
-                        41.0607611
+                        28.8158411,
+                        41.0606705
                     ],
                     [
-                        28.815414,
-                        41.0605282
+                        28.8153668,
+                        41.0603826
                     ],
                     [
-                        28.8150715,
-                        41.0602479
+                        28.8150114,
+                        41.0600376
                     ],
                     [
-                        28.8146794,
-                        41.0597391
+                        28.8146665,
+                        41.0596517
                     ],
                     [
-                        28.8143827,
-                        41.0593091
+                        28.8143784,
+                        41.0592541
                     ],
                     [
                         28.8141826,
@@ -109331,16 +108626,20 @@ var data = {
                         41.0553169
                     ],
                     [
-                        28.7876602,
-                        41.0553074
+                        28.7876774,
+                        41.0553123
                     ],
                     [
-                        28.784748,
-                        41.0552973
+                        28.7847716,
+                        41.0553054
                     ],
                     [
-                        28.7840431,
-                        41.0553067
+                        28.784506,
+                        41.055311
+                    ],
+                    [
+                        28.7839444,
+                        41.0553229
                     ],
                     [
                         28.7834423,
@@ -109726,6 +109025,7 @@ var data = {
                     "construction": "subway",
                     "construction:railway": "subway",
                     "electrified": "contact_line",
+                    "frequency": "0",
                     "gauge": "1435",
                     "layer": "-3",
                     "maxspeed": "80",
@@ -109794,6 +109094,7 @@ var data = {
                     10295668046,
                     10592618845,
                     10301089114,
+                    12849423678,
                     10295668045,
                     11397747041,
                     10295668094,
@@ -109941,32 +109242,32 @@ var data = {
                         41.0590729
                     ],
                     [
-                        28.8223502,
-                        41.0599377
+                        28.8223631,
+                        41.0599733
                     ],
                     [
-                        28.8215978,
-                        41.060578
+                        28.8217094,
+                        41.0605974
                     ],
                     [
-                        28.8210483,
-                        41.0609709
+                        28.8211599,
+                        41.0609903
                     ],
                     [
-                        28.8206621,
-                        41.0611423
+                        28.8207737,
+                        41.0611617
                     ],
                     [
-                        28.8201873,
-                        41.0613316
+                        28.8202989,
+                        41.061351
                     ],
                     [
-                        28.8198896,
-                        41.0614121
+                        28.8200012,
+                        41.0614315
                     ],
                     [
-                        28.8195384,
-                        41.061489
+                        28.81965,
+                        41.0615084
                     ],
                     [
                         28.8192746,
@@ -109993,16 +109294,16 @@ var data = {
                         41.0607755
                     ],
                     [
-                        28.8159611,
-                        41.0605786
+                        28.8159462,
+                        41.0605279
                     ],
                     [
-                        28.8155962,
-                        41.0603757
+                        28.8155551,
+                        41.0602602
                     ],
                     [
-                        28.8153177,
-                        41.0601131
+                        28.815243,
+                        41.0599638
                     ],
                     [
                         28.8149776,
@@ -110121,12 +109422,16 @@ var data = {
                         41.0552215
                     ],
                     [
-                        28.7879558,
-                        41.0552345
+                        28.7879429,
+                        41.0552313
                     ],
                     [
-                        28.7850002,
-                        41.0552312
+                        28.7878255,
+                        41.0552311
+                    ],
+                    [
+                        28.7848371,
+                        41.055228
                     ],
                     [
                         28.7836374,
@@ -112554,19 +111859,24 @@ var data = {
                 },
                 "nodes": [
                     7813891362,
-                    3289788382
+                    13138057914,
+                    3289788381
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9738269,
-                        41.0284865
+                        28.9737753,
+                        41.0284827
                     ],
                     [
-                        28.9738631,
-                        41.0284863
+                        28.9738001,
+                        41.0284826
+                    ],
+                    [
+                        28.9738621,
+                        41.0284825
                     ]
                 ]
             }
@@ -112586,11 +111896,18 @@ var data = {
                     "voltage": "600"
                 },
                 "nodes": [
-                    2666827070,
-                    8412221731,
+                    539369561,
+                    13137897088,
+                    7334698926,
+                    13137897087,
+                    13137897086,
                     2666827073,
-                    7820218130,
+                    13137905221,
+                    13137897096,
+                    13137897085,
+                    13137897095,
                     3289785665,
+                    13137905222,
                     3289785666
                 ]
             },
@@ -112598,28 +111915,56 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9844898,
-                        41.036261
+                        28.9847116,
+                        41.036441
                     ],
                     [
-                        28.9844111,
-                        41.0362681
+                        28.9846308,
+                        41.0363961
                     ],
                     [
-                        28.9843651,
-                        41.0362704
+                        28.9845746,
+                        41.0363682
                     ],
                     [
-                        28.9843558,
-                        41.0362766
+                        28.9845174,
+                        41.0363405
                     ],
                     [
-                        28.9842975,
-                        41.0363192
+                        28.9844473,
+                        41.0363101
                     ],
                     [
-                        28.9839592,
-                        41.0366609
+                        28.9844174,
+                        41.0363018
+                    ],
+                    [
+                        28.9843871,
+                        41.0362979
+                    ],
+                    [
+                        28.9843639,
+                        41.036298
+                    ],
+                    [
+                        28.9843223,
+                        41.0363029
+                    ],
+                    [
+                        28.9842785,
+                        41.0363158
+                    ],
+                    [
+                        28.9842485,
+                        41.0363318
+                    ],
+                    [
+                        28.984179,
+                        41.0364064
+                    ],
+                    [
+                        28.9841158,
+                        41.0364743
                     ]
                 ]
             }
@@ -112975,6 +112320,7 @@ var data = {
                     9217135446,
                     10556609743,
                     9217135450,
+                    13239261931,
                     9217135452,
                     9217135449,
                     9217135448
@@ -112998,6 +112344,10 @@ var data = {
                     [
                         28.7259415,
                         41.229734
+                    ],
+                    [
+                        28.7259181,
+                        41.2298811
                     ],
                     [
                         28.7258819,
@@ -113034,6 +112384,7 @@ var data = {
                     10556609744,
                     9217135453,
                     10556609742,
+                    13239261932,
                     10556609753,
                     9217135452
                 ]
@@ -113060,6 +112411,10 @@ var data = {
                     [
                         28.7258839,
                         41.2297805
+                    ],
+                    [
+                        28.7258833,
+                        41.2298773
                     ],
                     [
                         28.725883,
@@ -113092,6 +112447,7 @@ var data = {
                     10556609741,
                     10556609740,
                     9217135457,
+                    13239261933,
                     9217135456,
                     9217135455,
                     9217135448,
@@ -113120,6 +112476,10 @@ var data = {
                     [
                         28.7258041,
                         41.2298305
+                    ],
+                    [
+                        28.7258045,
+                        41.2298787
                     ],
                     [
                         28.7258068,
@@ -113161,6 +112521,7 @@ var data = {
                     10556647224,
                     9217135461,
                     10556609739,
+                    13239261934,
                     9217135460,
                     9217135456
                 ]
@@ -113191,6 +112552,10 @@ var data = {
                     [
                         28.7257528,
                         41.229856
+                    ],
+                    [
+                        28.7257549,
+                        41.2298798
                     ],
                     [
                         28.7257612,
@@ -113542,6 +112907,7 @@ var data = {
                     9217135470,
                     10556609737,
                     9217135469,
+                    13239261935,
                     9217135473,
                     9217135468,
                     9217135613,
@@ -113601,6 +112967,10 @@ var data = {
                     [
                         28.7256137,
                         41.2298003
+                    ],
+                    [
+                        28.7256385,
+                        41.2298949
                     ],
                     [
                         28.7257209,
@@ -113830,6 +113200,7 @@ var data = {
                 "nodes": [
                     9217135473,
                     9217135474,
+                    13239261936,
                     9217135475,
                     10556609745,
                     9217135476,
@@ -113851,6 +113222,10 @@ var data = {
                     [
                         28.7256244,
                         41.2300121
+                    ],
+                    [
+                        28.7255871,
+                        41.2299048
                     ],
                     [
                         28.7255305,
@@ -114568,13 +113943,11 @@ var data = {
                 "type": "way",
                 "id": 998247771,
                 "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "0",
+                    "electrified": "no",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "yard",
-                    "usage": "main",
-                    "voltage": "1500"
+                    "service": "spur",
+                    "usage": "yard"
                 },
                 "nodes": [
                     9217135586,
@@ -115199,7 +114572,7 @@ var data = {
                     "railway": "construction",
                     "tunnel": "yes",
                     "wikidata": "Q107672956",
-                    "wikipedia": "tr:F5 (\u0130stanbul f\u00fcnik\u00fcleri)"
+                    "wikipedia": "tr:F5 (\u0130stanbul F\u00fcnik\u00fcleri)"
                 },
                 "nodes": [
                     9244286528,
@@ -115294,19 +114667,15 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
-                    "service": "spur",
+                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    7714471455,
-                    7714471456,
-                    7714471454,
-                    7714471462,
-                    7714471453,
-                    7714471452,
-                    7714471451,
+                    12809705325,
                     7714471450,
                     7711800054,
                     7711800098,
@@ -115320,32 +114689,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.765614,
-                        41.0251586
-                    ],
-                    [
-                        28.7655322,
-                        41.0247648
-                    ],
-                    [
-                        28.7654351,
-                        41.0243335
-                    ],
-                    [
-                        28.76543,
-                        41.0241398
-                    ],
-                    [
-                        28.765427,
-                        41.0240253
-                    ],
-                    [
-                        28.7654859,
-                        41.0237569
-                    ],
-                    [
-                        28.7657034,
-                        41.023234
+                        28.7657966,
+                        41.0230121
                     ],
                     [
                         28.7659372,
@@ -115513,6 +114858,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -115557,6 +114904,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -115569,7 +114918,7 @@ var data = {
                     7711800058,
                     7711800056,
                     7711800057,
-                    5713876843
+                    12809647972
                 ]
             },
             "geometry": {
@@ -115600,8 +114949,8 @@ var data = {
                         41.0216014
                     ],
                     [
-                        28.7659916,
-                        41.022371
+                        28.7661415,
+                        41.0219372
                     ]
                 ]
             }
@@ -115616,6 +114965,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -116033,7 +115383,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116041,36 +115391,41 @@ var data = {
                     9761483826,
                     12328471731,
                     12328471732,
+                    13054592080,
                     12328471733,
-                    12328471734
+                    1037636280
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8940823,
-                        41.0023895
+                        28.8940209,
+                        41.0023797
                     ],
                     [
-                        28.892875,
-                        41.0021835
+                        28.8928782,
+                        41.0022014
                     ],
                     [
-                        28.8927589,
-                        41.0021489
+                        28.8927524,
+                        41.0021587
                     ],
                     [
-                        28.8926525,
-                        41.0020876
+                        28.8926687,
+                        41.0021079
+                    ],
+                    [
+                        28.8926119,
+                        41.0020636
                     ],
                     [
                         28.8925441,
                         41.0019938
                     ],
                     [
-                        28.8923989,
-                        41.0018142
+                        28.8923825,
+                        41.0017626
                     ]
                 ]
             }
@@ -116085,12 +115440,14 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     9631268345,
+                    13054592084,
                     9761483827,
+                    13054592085,
                     12328471727,
                     12328471728,
                     12328471729,
@@ -116101,16 +115458,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8941514,
-                        41.0023581
+                        28.8940814,
+                        41.0023532
                     ],
                     [
-                        28.8929307,
-                        41.0021552
+                        28.8932618,
+                        41.0022232
                     ],
                     [
-                        28.8927963,
-                        41.0021137
+                        28.8929598,
+                        41.0021763
+                    ],
+                    [
+                        28.8928511,
+                        41.0021475
+                    ],
+                    [
+                        28.8927877,
+                        41.002121
                     ],
                     [
                         28.8926936,
@@ -116121,8 +115486,8 @@ var data = {
                         41.0020009
                     ],
                     [
-                        28.8924679,
-                        41.0018258
+                        28.8925067,
+                        41.0018754
                     ]
                 ]
             }
@@ -116137,11 +115502,12 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     9631268347,
+                    13054592083,
                     9761483828,
                     12328471725,
                     12328471726,
@@ -116152,8 +115518,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8941854,
-                        41.0023257
+                        28.8941046,
+                        41.0023216
+                    ],
+                    [
+                        28.8932665,
+                        41.0021875
                     ],
                     [
                         28.8929564,
@@ -116168,8 +115538,8 @@ var data = {
                         41.0020192
                     ],
                     [
-                        28.8926179,
-                        41.0019367
+                        28.8926524,
+                        41.0019749
                     ]
                 ]
             }
@@ -116184,11 +115554,12 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     9631268349,
+                    13054592082,
                     9761483829,
                     12328471721,
                     12328471722,
@@ -116200,8 +115571,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942104,
-                        41.0022961
+                        28.8941264,
+                        41.002288
+                    ],
+                    [
+                        28.8932828,
+                        41.0021486
                     ],
                     [
                         28.8929539,
@@ -116212,12 +115587,12 @@ var data = {
                         41.0020467
                     ],
                     [
-                        28.8926179,
-                        41.0019367
+                        28.8926524,
+                        41.0019749
                     ],
                     [
-                        28.8924679,
-                        41.0018258
+                        28.8925067,
+                        41.0018754
                     ],
                     [
                         28.8923825,
@@ -116236,7 +115611,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116246,6 +115621,7 @@ var data = {
                     12328471718,
                     12328471719,
                     12328471720,
+                    13054592088,
                     9631268394
                 ]
             },
@@ -116253,11 +115629,11 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942288,
-                        41.0022647
+                        28.8941394,
+                        41.0022549
                     ],
                     [
-                        28.8933531,
+                        28.8932906,
                         41.0021142
                     ],
                     [
@@ -116273,12 +115649,16 @@ var data = {
                         41.001984
                     ],
                     [
-                        28.8928467,
-                        41.0018853
+                        28.8928478,
+                        41.0018967
                     ],
                     [
-                        28.8927387,
-                        41.0017521
+                        28.8927334,
+                        41.0017768
+                    ],
+                    [
+                        28.8926137,
+                        41.0016911
                     ]
                 ]
             }
@@ -116293,7 +115673,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116309,12 +115689,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942409,
-                        41.0022338
+                        28.8941461,
+                        41.0022208
                     ],
                     [
-                        28.8933514,
-                        41.0020811
+                        28.8933008,
+                        41.0020778
                     ],
                     [
                         28.8930858,
@@ -116345,7 +115725,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116360,12 +115740,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942527,
-                        41.0021946
+                        28.8941525,
+                        41.002184
                     ],
                     [
-                        28.8933528,
-                        41.0020545
+                        28.8933102,
+                        41.0020431
                     ],
                     [
                         28.8931055,
@@ -116392,11 +115772,13 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     9631268393,
+                    13054592086,
+                    13054592087,
                     9631268394,
                     9631268395
                 ]
@@ -116409,8 +115791,16 @@ var data = {
                         41.0018636
                     ],
                     [
-                        28.8927387,
-                        41.0017521
+                        28.892793,
+                        41.0017802
+                    ],
+                    [
+                        28.8927087,
+                        41.0017316
+                    ],
+                    [
+                        28.8926137,
+                        41.0016911
                     ],
                     [
                         28.892437,
@@ -116429,7 +115819,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116448,12 +115838,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.894239,
+                        28.8941636,
                         41.0021113
                     ],
                     [
-                        28.8933401,
-                        41.0019744
+                        28.8933304,
+                        41.0019723
                     ],
                     [
                         28.893154,
@@ -116464,8 +115854,8 @@ var data = {
                         41.0018894
                     ],
                     [
-                        28.8928787,
-                        41.0018072
+                        28.8928733,
+                        41.001795
                     ],
                     [
                         28.8927107,
@@ -116480,8 +115870,8 @@ var data = {
                         41.0016087
                     ],
                     [
-                        28.8921658,
-                        41.0015264
+                        28.8921787,
+                        41.001541
                     ]
                 ]
             }
@@ -116496,7 +115886,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116512,28 +115902,28 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.894233,
-                        41.0020774
+                        28.8941565,
+                        41.0020741
                     ],
                     [
-                        28.8933526,
-                        41.0019421
+                        28.8933364,
+                        41.0019388
                     ],
                     [
-                        28.8931898,
-                        41.0019058
+                        28.8931499,
+                        41.0018887
                     ],
                     [
-                        28.8930404,
-                        41.0018507
+                        28.8930329,
+                        41.0018409
                     ],
                     [
-                        28.8928989,
-                        41.0017697
+                        28.8929215,
+                        41.0017762
                     ],
                     [
-                        28.8927931,
-                        41.0017028
+                        28.8928717,
+                        41.0017361
                     ]
                 ]
             }
@@ -116548,7 +115938,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116563,7 +115953,7 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942172,
+                        28.8941558,
                         41.0020385
                     ],
                     [
@@ -116575,12 +115965,12 @@ var data = {
                         41.0018495
                     ],
                     [
-                        28.8927931,
-                        41.0017028
+                        28.8928717,
+                        41.0017361
                     ],
                     [
-                        28.8924353,
-                        41.0015796
+                        28.8927337,
+                        41.0016617
                     ]
                 ]
             }
@@ -116595,15 +115985,15 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
                     9631268365,
                     9631268366,
+                    13054592081,
                     9631268376,
                     9631268377,
-                    9631268378,
                     9631268372
                 ]
             },
@@ -116611,28 +116001,28 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942011,
+                        28.89413,
                         41.0019969
                     ],
                     [
-                        28.8933258,
-                        41.0018639
+                        28.8933096,
+                        41.0018598
                     ],
                     [
-                        28.8931944,
-                        41.0018295
+                        28.8931965,
+                        41.0018317
                     ],
                     [
-                        28.8930015,
-                        41.0017638
+                        28.8930942,
+                        41.0018019
                     ],
                     [
-                        28.8928475,
-                        41.0017039
+                        28.8929455,
+                        41.0017394
                     ],
                     [
-                        28.8926422,
-                        41.0016206
+                        28.8928464,
+                        41.0016893
                     ]
                 ]
             }
@@ -116647,7 +116037,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116661,8 +116051,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.894177,
-                        41.0019589
+                        28.8941231,
+                        41.0019622
                     ],
                     [
                         28.8933115,
@@ -116673,8 +116063,8 @@ var data = {
                         41.0017802
                     ],
                     [
-                        28.8929702,
-                        41.0017078
+                        28.893051,
+                        41.0017476
                     ]
                 ]
             }
@@ -116689,7 +116079,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -116699,6 +116089,8 @@ var data = {
                     9631268375,
                     9631268372,
                     9631268381,
+                    13054592089,
+                    13054592090,
                     9631268390,
                     4958787829
                 ]
@@ -116707,36 +116099,44 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8941525,
-                        41.0019167
+                        28.8941083,
+                        41.0019175
                     ],
                     [
-                        28.8932918,
+                        28.8932767,
                         41.0017803
                     ],
                     [
-                        28.8930482,
-                        41.0017286
+                        28.8932076,
+                        41.0017701
                     ],
                     [
-                        28.8929702,
-                        41.0017078
+                        28.893051,
+                        41.0017476
                     ],
                     [
-                        28.8926422,
-                        41.0016206
+                        28.8928464,
+                        41.0016893
                     ],
                     [
-                        28.8924353,
-                        41.0015796
+                        28.8927337,
+                        41.0016617
                     ],
                     [
-                        28.8921658,
-                        41.0015264
+                        28.8926234,
+                        41.0016219
                     ],
                     [
-                        28.8918382,
-                        41.0014841
+                        28.8925179,
+                        41.0015944
+                    ],
+                    [
+                        28.8921787,
+                        41.001541
+                    ],
+                    [
+                        28.8918878,
+                        41.0015077
                     ]
                 ]
             }
@@ -116994,6 +116394,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -117027,6 +116428,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -117060,6 +116462,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -117099,6 +116503,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -117133,6 +116538,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -117169,6 +116575,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -117370,6 +116778,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -117423,6 +116833,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "120",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -117522,7 +116933,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "tram",
-                    "service": "spur",
+                    "service": "yard",
                     "voltage": "750"
                 },
                 "nodes": [
@@ -117538,12 +116949,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8942444,
-                        41.0021572
+                        28.8941604,
+                        41.0021523
                     ],
                     [
-                        28.8933617,
-                        41.0020228
+                        28.8933197,
+                        41.002009
                     ],
                     [
                         28.8931279,
@@ -117558,8 +116969,8 @@ var data = {
                         41.0018571
                     ],
                     [
-                        28.8928787,
-                        41.0018072
+                        28.8928733,
+                        41.001795
                     ]
                 ]
             }
@@ -117573,6 +116984,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "Marmaray B2 hatt\u0131",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -117619,6 +117032,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -117696,6 +117111,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "no",
                     "usage": "main",
@@ -118547,6 +117964,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118583,6 +118002,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118620,6 +118040,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118656,6 +118078,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118694,6 +118117,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -118731,6 +118156,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -118768,6 +118194,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118806,6 +118234,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118842,6 +118272,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118880,6 +118312,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "-1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -118922,6 +118356,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "tracks": "1",
@@ -118957,6 +118393,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -118993,6 +118431,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -119034,6 +118473,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -119080,6 +118520,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -119391,6 +118832,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -119842,6 +119284,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -119915,6 +119358,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -120168,11 +119612,13 @@ var data = {
                     "name": "T4 Topkap\u0131 - Habibler Tramvay\u0131",
                     "operator": "Metro \u0130stanbul",
                     "railway": "tram",
-                    "usage": "siding",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "750"
                 },
                 "nodes": [
-                    4958580163,
+                    4958580181,
+                    13148058018,
                     10076267320,
                     10076267321,
                     10076267322
@@ -120182,16 +119628,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8683414,
-                        41.0870065
+                        28.8683085,
+                        41.0870246
                     ],
                     [
-                        28.8680462,
-                        41.0871109
+                        28.8682058,
+                        41.0870673
                     ],
                     [
-                        28.8679143,
-                        41.087176
+                        28.8680382,
+                        41.0871286
+                    ],
+                    [
+                        28.8679203,
+                        41.0871831
                     ],
                     [
                         28.8665004,
@@ -120252,7 +119702,6 @@ var data = {
                     "railway": "subway",
                     "service": "spur",
                     "tunnel": "yes",
-                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -120287,7 +119736,6 @@ var data = {
                     "railway": "subway",
                     "service": "spur",
                     "tunnel": "yes",
-                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -120637,6 +120085,8 @@ var data = {
                     9922311180,
                     9922311178,
                     8561884507,
+                    12723851344,
+                    12723851343,
                     9922311175
                 ]
             },
@@ -120664,8 +120114,16 @@ var data = {
                         40.9509188
                     ],
                     [
-                        29.0991294,
-                        40.9499376
+                        29.0978821,
+                        40.950792
+                    ],
+                    [
+                        29.0980587,
+                        40.9506285
+                    ],
+                    [
+                        29.0992676,
+                        40.9497344
                     ]
                 ]
             }
@@ -120696,6 +120154,10 @@ var data = {
                     9922311181,
                     9922311176,
                     9922311179,
+                    12723851341,
+                    12723851340,
+                    12723851342,
+                    12723851339,
                     9922311177
                 ]
             },
@@ -120723,8 +120185,24 @@ var data = {
                         40.9509429
                     ],
                     [
-                        29.0991771,
-                        40.9499843
+                        29.098112,
+                        40.9508101
+                    ],
+                    [
+                        29.098422,
+                        40.95064
+                    ],
+                    [
+                        29.0986666,
+                        40.9504546
+                    ],
+                    [
+                        29.0988683,
+                        40.9502821
+                    ],
+                    [
+                        29.0993284,
+                        40.9497797
                     ]
                 ]
             }
@@ -122931,6 +122409,7 @@ var data = {
                 },
                 "nodes": [
                     10198028346,
+                    12878947428,
                     10198028347,
                     10198028380,
                     10198028381,
@@ -122944,6 +122423,10 @@ var data = {
                     [
                         28.9943656,
                         41.1002289
+                    ],
+                    [
+                        28.9965058,
+                        41.1001414
                     ],
                     [
                         28.9967141,
@@ -123050,6 +122533,8 @@ var data = {
                 },
                 "nodes": [
                     10198028350,
+                    12878947412,
+                    12878947413,
                     10198028351,
                     10198028387,
                     10198028388,
@@ -123063,6 +122548,14 @@ var data = {
                     [
                         28.9943438,
                         41.100114
+                    ],
+                    [
+                        28.9948169,
+                        41.1000943
+                    ],
+                    [
+                        28.9953189,
+                        41.1000734
                     ],
                     [
                         28.9967037,
@@ -123159,6 +122652,7 @@ var data = {
                 },
                 "nodes": [
                     10198028354,
+                    12878947433,
                     10198028355,
                     10198028393,
                     10198028394,
@@ -123172,6 +122666,10 @@ var data = {
                     [
                         28.9942719,
                         41.0997339
+                    ],
+                    [
+                        28.9952116,
+                        41.0996867
                     ],
                     [
                         28.996126,
@@ -123216,6 +122714,8 @@ var data = {
                 },
                 "nodes": [
                     10198028358,
+                    12878947423,
+                    12878947422,
                     10198028359,
                     10198028400,
                     10198028414,
@@ -123231,6 +122731,14 @@ var data = {
                     [
                         28.9942905,
                         41.0998322
+                    ],
+                    [
+                        28.9947749,
+                        41.0998071
+                    ],
+                    [
+                        28.9952515,
+                        41.0997824
                     ],
                     [
                         28.9961391,
@@ -123283,6 +122791,9 @@ var data = {
                 },
                 "nodes": [
                     10198028360,
+                    12878947419,
+                    12878947418,
+                    12878947425,
                     10198028361,
                     10198028395,
                     10198028415,
@@ -123300,6 +122811,18 @@ var data = {
                     [
                         28.9942807,
                         41.0997804
+                    ],
+                    [
+                        28.9945033,
+                        41.0997691
+                    ],
+                    [
+                        28.9947374,
+                        41.0997572
+                    ],
+                    [
+                        28.9952309,
+                        41.0997321
                     ],
                     [
                         28.9961323,
@@ -123360,6 +122883,11 @@ var data = {
                 },
                 "nodes": [
                     10198028362,
+                    12878947406,
+                    12878947410,
+                    12878947429,
+                    12878950214,
+                    12878947430,
                     10198028363,
                     10198028409,
                     10198028410,
@@ -123375,6 +122903,26 @@ var data = {
                     [
                         28.9943095,
                         41.0999323
+                    ],
+                    [
+                        28.9947677,
+                        41.0999076
+                    ],
+                    [
+                        28.9952784,
+                        41.09988
+                    ],
+                    [
+                        28.9953122,
+                        41.0998782
+                    ],
+                    [
+                        28.995344,
+                        41.0998765
+                    ],
+                    [
+                        28.99563,
+                        41.0998611
                     ],
                     [
                         28.9961523,
@@ -125126,6 +124674,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "layer": "-5",
+                    "level": "-5",
                     "maxspeed": "80",
                     "name": "M7 Y\u0131ld\u0131z - Mahmutbey Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -125298,6 +124847,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "layer": "-5",
+                    "level": "-5",
                     "maxspeed": "80",
                     "name": "M7 Y\u0131ld\u0131z - Mahmutbey Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -125465,6 +125015,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "layer": "-5",
+                    "level": "-5",
                     "maxspeed": "80",
                     "name": "M7 Y\u0131ld\u0131z - Mahmutbey Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -125527,6 +125078,7 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "layer": "-5",
+                    "level": "-5",
                     "maxspeed": "80",
                     "name": "M7 Y\u0131ld\u0131z - Mahmutbey Metro Hatt\u0131",
                     "operator": "Metro \u0130stanbul",
@@ -126924,6 +126476,7 @@ var data = {
                 },
                 "nodes": [
                     10599990416,
+                    11212047484,
                     10599990417,
                     10599990418,
                     10599990419,
@@ -126936,6 +126489,10 @@ var data = {
                     [
                         29.0345873,
                         40.9930037
+                    ],
+                    [
+                        29.0343294,
+                        40.9931398
                     ],
                     [
                         29.0342398,
@@ -126987,65 +126544,6 @@ var data = {
                     [
                         29.0314533,
                         40.995585
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1137095117,
-                "tags": {
-                    "electrified": "contact_line",
-                    "fixme": "Exact position of the crossover not clear, but from driver view videos online (example: https://youtu.be/FgqbpwIIn2A?t=2636) it is clear that there is a crossover west of Sirkeci station.",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "-1",
-                    "maxspeed": "80",
-                    "name": "Marmaray",
-                    "name:ar": "\u0645\u0631\u0645\u0631\u0627\u064a",
-                    "name:be": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
-                    "name:bg": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439 (\u0442\u0443\u043d\u0435\u043b)",
-                    "name:cv": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
-                    "name:fa": "\u0645\u0627\u0631\u0645\u0627\u0631\u0627\u06cc",
-                    "name:he": "\u05de\u05e8\u05de\u05e8\u05d9\u05d9",
-                    "name:ja": "\u30de\u30eb\u30de\u30e9\u30a4",
-                    "name:ka": "\u10db\u10d0\u10e0\u10db\u10d0\u10e0\u10d0\u10d8",
-                    "name:ko": "\ub9c8\ub974\ub9c8\ub77c\uc774",
-                    "name:lv": "Marmaraja",
-                    "name:ru": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
-                    "name:sr": "\u041c\u0430\u0440\u043c\u0430\u0440\u0438",
-                    "name:th": "\u0e21\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e44\u0e23\u0e22\u0e4c",
-                    "name:ug": "\u0645\u0627\u0631\u0645\u0627\u0631\u0627\u064a",
-                    "name:uk": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
-                    "name:ur": "\u0645\u0631\u0645\u0631\u0627\u0626\u06cc",
-                    "name:zh": "\u9a6c\u5c14\u9a6c\u62c9\u94c1\u8def",
-                    "passenger_lines": "2",
-                    "railway": "rail",
-                    "railway:etcs": "yes",
-                    "service": "crossover",
-                    "source": "marmaray",
-                    "tunnel": "yes",
-                    "usage": "main",
-                    "voltage": "25000",
-                    "wikipedia": "en:Marmaray"
-                },
-                "nodes": [
-                    6513102963,
-                    10599990424
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9712234,
-                        41.0125722
-                    ],
-                    [
-                        28.9748799,
-                        41.0134984
                     ]
                 ]
             }
@@ -128253,17 +127751,18 @@ var data = {
                     "bridge": "yes",
                     "construction:railway": "rail",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    10599990416,
-                    11212047484,
+                    12804619065,
                     10776372207,
                     10776372208,
                     10776372209,
@@ -128279,12 +127778,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0345873,
-                        40.9930037
-                    ],
-                    [
-                        29.034891,
-                        40.9928104
+                        29.0347619,
+                        40.9928468
                     ],
                     [
                         29.0353767,
@@ -128319,8 +127814,8 @@ var data = {
                         40.9895754
                     ],
                     [
-                        29.0387527,
-                        40.9892412
+                        29.0387471,
+                        40.9892906
                     ]
                 ]
             }
@@ -129458,6 +128953,7 @@ var data = {
                     "name:uk": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
                     "name:ur": "\u0645\u0631\u0645\u0631\u0627\u0626\u06cc",
                     "name:zh": "\u9a6c\u5c14\u9a6c\u62c9\u94c1\u8def",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -129521,6 +129017,7 @@ var data = {
                     9585453824,
                     9585453825,
                     11282171124,
+                    13140609667,
                     9585410204
                 ]
             },
@@ -129732,6 +129229,10 @@ var data = {
                         40.9931237
                     ],
                     [
+                        28.9240154,
+                        40.9922567
+                    ],
+                    [
                         28.9236512,
                         40.9921014
                     ]
@@ -129766,6 +129267,7 @@ var data = {
                     "name:uk": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
                     "name:ur": "\u0645\u0631\u0645\u0631\u0627\u0626\u06cc",
                     "name:zh": "\u9a6c\u5c14\u9a6c\u62c9\u94c1\u8def",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -129779,6 +129281,8 @@ var data = {
                 },
                 "nodes": [
                     9585410203,
+                    13140609666,
+                    13140609670,
                     9585453843,
                     9585453842,
                     9585453841,
@@ -129823,6 +129327,7 @@ var data = {
                     11282171119,
                     5826871194,
                     6513102963,
+                    12708374630,
                     3370689580,
                     3254384592,
                     7716752866
@@ -129832,8 +129337,16 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9236755,
-                        40.99204
+                        28.9236835,
+                        40.9920481
+                    ],
+                    [
+                        28.9240628,
+                        40.9922069
+                    ],
+                    [
+                        28.9256005,
+                        40.9930704
                     ],
                     [
                         28.9283111,
@@ -129904,8 +129417,8 @@ var data = {
                         41.0017728
                     ],
                     [
-                        28.9389249,
-                        41.0023913
+                        28.9389772,
+                        41.0024368
                     ],
                     [
                         28.9405228,
@@ -130010,6 +129523,10 @@ var data = {
                     [
                         28.9712234,
                         41.0125722
+                    ],
+                    [
+                        28.9724863,
+                        41.0127507
                     ],
                     [
                         28.9742682,
@@ -130443,6 +129960,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -130490,9 +130009,11 @@ var data = {
                 "tags": {
                     "cutting": "yes",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -130554,6 +130075,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -130588,6 +130111,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -130641,6 +130166,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -130687,8 +130213,7 @@ var data = {
                 "nodes": [
                     8111294614,
                     10674653261,
-                    8111295048,
-                    11093775712
+                    8111295048
                 ]
             },
             "geometry": {
@@ -130705,10 +130230,6 @@ var data = {
                     [
                         28.8617624,
                         41.0716629
-                    ],
-                    [
-                        28.8619269,
-                        41.0717546
                     ]
                 ]
             }
@@ -130720,14 +130241,13 @@ var data = {
                 "id": 1195284706,
                 "tags": {
                     "electrified": "no",
-                    "frequency": "0",
                     "gauge": "1435",
                     "railway": "subway",
-                    "service": "siding",
-                    "voltage": "1500"
+                    "service": "yard"
                 },
                 "nodes": [
                     11093775713,
+                    13151391994,
                     8111295017
                 ]
             },
@@ -130735,12 +130255,16 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8630135,
-                        41.0724791
+                        28.8630142,
+                        41.0724621
                     ],
                     [
-                        28.8636545,
-                        41.0729065
+                        28.8632566,
+                        41.0726176
+                    ],
+                    [
+                        28.8637604,
+                        41.072956
                     ]
                 ]
             }
@@ -130759,6 +130283,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "\u0130brahima\u011fa K\u00f6pr\u00fcs\u00fc",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -130778,16 +130303,16 @@ var data = {
                         40.9983347
                     ],
                     [
-                        29.029313,
-                        40.9986263
+                        29.0293264,
+                        40.9986344
                     ],
                     [
-                        29.0291284,
-                        40.9988211
+                        29.0291432,
+                        40.9988312
                     ],
                     [
-                        29.0289019,
-                        40.9990341
+                        29.0289073,
+                        40.9990402
                     ]
                 ]
             }
@@ -130803,6 +130328,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -130816,8 +130342,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0296498,
-                        40.9980773
+                        29.0296887,
+                        40.998055
                     ],
                     [
                         29.0295523,
@@ -130837,6 +130363,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -130855,8 +130382,8 @@ var data = {
                         40.9978694
                     ],
                     [
-                        29.0296498,
-                        40.9980773
+                        29.0296887,
+                        40.998055
                     ],
                     [
                         29.0294948,
@@ -130874,6 +130401,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -130908,6 +130436,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "usage": "main",
@@ -130915,6 +130444,7 @@ var data = {
                 },
                 "nodes": [
                     5713876827,
+                    12809705324,
                     5713876825,
                     5713876823,
                     5713876821,
@@ -130927,6 +130457,10 @@ var data = {
                     [
                         28.7655487,
                         41.0233518
+                    ],
+                    [
+                        28.7656162,
+                        41.023224
                     ],
                     [
                         28.7656857,
@@ -131338,13 +130872,12 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
-                    11154298811,
-                    11154298812,
                     11154298813,
                     12660718815,
                     11154298814,
@@ -131361,16 +130894,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9767525,
-                        41.0149554
-                    ],
-                    [
-                        28.9781956,
-                        41.0149827
-                    ],
-                    [
-                        28.9784958,
-                        41.0150016
+                        28.9784435,
+                        41.0149976
                     ],
                     [
                         28.9784998,
@@ -131421,6 +130946,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -131500,8 +131026,12 @@ var data = {
                 },
                 "nodes": [
                     11154298834,
+                    13140623452,
                     11154298836,
+                    13140623450,
                     11154298837,
+                    13140623448,
+                    13140623447,
                     11005962178
                 ]
             },
@@ -131509,95 +131039,36 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9788448,
-                        41.0033358
+                        28.9790057,
+                        41.0033915
+                    ],
+                    [
+                        28.9785359,
+                        41.0032238
                     ],
                     [
                         28.9783234,
                         41.0031597
                     ],
                     [
-                        28.9768011,
-                        41.0028445
+                        28.9781677,
+                        41.0031196
                     ],
                     [
-                        28.9762347,
-                        41.0027626
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1203272458,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "passenger_lines": "2",
-                    "railway": "rail",
-                    "service": "siding",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    11154298845,
-                    11154298844,
-                    11154298842
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9582785,
-                        41.00423
+                        28.9768024,
+                        41.0028415
                     ],
                     [
-                        28.9589317,
-                        41.0040905
+                        28.9766545,
+                        41.0028187
                     ],
                     [
-                        28.9603777,
-                        41.0037315
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1203272459,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "passenger_lines": "2",
-                    "railway": "rail",
-                    "service": "siding",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    11154298842,
-                    11154298841
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9603777,
-                        41.0037315
+                        28.9762856,
+                        41.0027717
                     ],
                     [
-                        28.960579,
-                        41.0036975
+                        28.9760818,
+                        41.0027403
                     ]
                 ]
             }
@@ -131620,6 +131091,8 @@ var data = {
                 "nodes": [
                     11154298850,
                     11684007810,
+                    13140623437,
+                    13140623438,
                     11154298851
                 ]
             },
@@ -131627,16 +131100,24 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9654478,
-                        41.0032552
+                        28.9654438,
+                        41.0032673
                     ],
                     [
-                        28.9659336,
-                        41.003225
+                        28.9658612,
+                        41.0032371
                     ],
                     [
-                        28.9664055,
-                        41.0031651
+                        28.9660275,
+                        41.0032153
+                    ],
+                    [
+                        28.9663548,
+                        41.0031754
+                    ],
+                    [
+                        28.9665772,
+                        41.003154
                     ]
                 ]
             }
@@ -131667,12 +131148,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9650953,
-                        41.0032893
+                        28.9651154,
+                        41.0032923
                     ],
                     [
-                        28.9654478,
-                        41.0032552
+                        28.9654438,
+                        41.0032673
                     ]
                 ]
             }
@@ -131687,6 +131168,7 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -131694,12 +131176,16 @@ var data = {
                 "nodes": [
                     11154298864,
                     11154298865,
+                    13140609675,
                     11154298866,
                     11154298868,
                     11154298867,
                     12660716152,
+                    13140609671,
                     11154298869,
                     11154298870,
+                    13140609669,
+                    13140609668,
                     11154298871,
                     4096852601
                 ]
@@ -131708,137 +131194,60 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9300945,
-                        40.9954896
+                        28.9300851,
+                        40.9954997
                     ],
                     [
-                        28.9293546,
-                        40.9948894
+                        28.9293559,
+                        40.9949056
                     ],
                     [
-                        28.9289157,
-                        40.9945826
+                        28.9291261,
+                        40.9947468
                     ],
                     [
-                        28.9285716,
-                        40.9943963
+                        28.9288875,
+                        40.9945958
                     ],
                     [
-                        28.9282698,
-                        40.9942476
+                        28.9285662,
+                        40.9944125
                     ],
                     [
-                        28.9265674,
-                        40.9934314
+                        28.9282591,
+                        40.9942618
                     ],
                     [
-                        28.9255219,
-                        40.9929301
+                        28.9265459,
+                        40.9934547
                     ],
                     [
-                        28.9250955,
-                        40.9926948
+                        28.9255362,
+                        40.9929922
                     ],
                     [
-                        28.9248536,
-                        40.9925349
+                        28.9253811,
+                        40.9929109
                     ],
                     [
-                        28.9244645,
-                        40.9923202
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1203272464,
-                "tags": {
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    11154298857,
-                    11154298858,
-                    11154298859,
-                    11154298860,
-                    11154298861,
-                    11154298862,
-                    11154298863
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9313526,
-                        40.9970775
+                        28.9252068,
+                        40.9928041
                     ],
                     [
-                        28.9311683,
-                        40.9967323
+                        28.9249658,
+                        40.9926441
                     ],
                     [
-                        28.9310018,
-                        40.9964759
+                        28.9248013,
+                        40.9925306
                     ],
                     [
-                        28.9308283,
-                        40.9962388
+                        28.9246404,
+                        40.9924276
                     ],
                     [
-                        28.9305514,
-                        40.9959228
-                    ],
-                    [
-                        28.930357,
-                        40.9957119
-                    ],
-                    [
-                        28.9301937,
-                        40.9955724
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1203272465,
-                "tags": {
-                    "bridge": "yes",
-                    "electrified": "contact_line",
-                    "frequency": "50",
-                    "gauge": "1435",
-                    "layer": "1",
-                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
-                    "railway": "rail",
-                    "usage": "main",
-                    "voltage": "25000"
-                },
-                "nodes": [
-                    11154298863,
-                    11154298864
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        28.9301937,
-                        40.9955724
-                    ],
-                    [
-                        28.9300945,
-                        40.9954896
+                        28.9244256,
+                        40.9923111
                     ]
                 ]
             }
@@ -131853,12 +131262,17 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
                     11154298855,
+                    13140609683,
+                    13140609682,
+                    13140609679,
+                    13140609681,
                     11154298856
                 ]
             },
@@ -131866,12 +131280,28 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.931652,
-                        40.9977497
+                        28.931715,
+                        40.9979208
                     ],
                     [
-                        28.9313951,
-                        40.997146
+                        28.9316737,
+                        40.9978258
+                    ],
+                    [
+                        28.9316132,
+                        40.997701
+                    ],
+                    [
+                        28.9315739,
+                        40.9976259
+                    ],
+                    [
+                        28.9314739,
+                        40.9973762
+                    ],
+                    [
+                        28.9313875,
+                        40.9971605
                     ]
                 ]
             }
@@ -131888,6 +131318,7 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -131901,285 +131332,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.9313951,
-                        40.997146
+                        28.9313875,
+                        40.9971605
                     ],
                     [
-                        28.9313526,
-                        40.9970775
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1205482221,
-                "tags": {
-                    "bridge": "yes",
-                    "bridge:structure": "cable-suspension",
-                    "construction": "rail",
-                    "construction:railway": "rail",
-                    "electrified": "contact_line",
-                    "gauge": "1435",
-                    "highspeed": "yes",
-                    "layer": "1",
-                    "maxspeed": "200",
-                    "name": "Yavuz Sultan Selim K\u00f6pr\u00fcs\u00fc",
-                    "railway": "construction",
-                    "usage": "main"
-                },
-                "nodes": [
-                    11171767719,
-                    11171767718,
-                    11171767730,
-                    11171767717,
-                    11171767716,
-                    11171767715,
-                    11171767714,
-                    11171767713,
-                    11171767712,
-                    11171767731,
-                    11171767711,
-                    11171767710,
-                    11171767709,
-                    11171767734,
-                    11171767708,
-                    11171767707,
-                    11171767706,
-                    11171809537,
-                    11171767705,
-                    11171809541,
-                    11171809540,
-                    11171809542,
-                    10295728737
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        29.1218529,
-                        41.1984763
-                    ],
-                    [
-                        29.1211344,
-                        41.1987967
-                    ],
-                    [
-                        29.1206275,
-                        41.1990245
-                    ],
-                    [
-                        29.1201277,
-                        41.1992516
-                    ],
-                    [
-                        29.1186075,
-                        41.199946
-                    ],
-                    [
-                        29.1174876,
-                        41.2004556
-                    ],
-                    [
-                        29.1163182,
-                        41.2009939
-                    ],
-                    [
-                        29.1148999,
-                        41.2016298
-                    ],
-                    [
-                        29.1131174,
-                        41.2024359
-                    ],
-                    [
-                        29.1126414,
-                        41.2026544
-                    ],
-                    [
-                        29.1110013,
-                        41.203403
-                    ],
-                    [
-                        29.1099491,
-                        41.2038869
-                    ],
-                    [
-                        29.1088874,
-                        41.2043735
-                    ],
-                    [
-                        29.108335,
-                        41.2046202
-                    ],
-                    [
-                        29.1077765,
-                        41.2048745
-                    ],
-                    [
-                        29.1067877,
-                        41.2053381
-                    ],
-                    [
-                        29.1057224,
-                        41.2058188
-                    ],
-                    [
-                        29.104934,
-                        41.2061712
-                    ],
-                    [
-                        29.1041964,
-                        41.2065038
-                    ],
-                    [
-                        29.1036707,
-                        41.206734
-                    ],
-                    [
-                        29.103146,
-                        41.2069664
-                    ],
-                    [
-                        29.1023997,
-                        41.2073147
-                    ],
-                    [
-                        29.1016554,
-                        41.2076658
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1205482222,
-                "tags": {
-                    "construction": "rail",
-                    "construction:railway": "rail",
-                    "electrified": "contact_line",
-                    "gauge": "1435",
-                    "highspeed": "yes",
-                    "maxspeed": "200",
-                    "name": "Gebze-\u0130ST-Halkal\u0131 YHT",
-                    "railway": "construction",
-                    "usage": "main"
-                },
-                "nodes": [
-                    11171767723,
-                    11171767722,
-                    11171767724,
-                    11171767721,
-                    11171767720,
-                    10295728736,
-                    11171767719
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        29.1260672,
-                        41.1968218
-                    ],
-                    [
-                        29.1253674,
-                        41.1970551
-                    ],
-                    [
-                        29.1248338,
-                        41.1972284
-                    ],
-                    [
-                        29.1243287,
-                        41.1974063
-                    ],
-                    [
-                        29.123306,
-                        41.1978495
-                    ],
-                    [
-                        29.1223076,
-                        41.1982678
-                    ],
-                    [
-                        29.1218529,
-                        41.1984763
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "type": "way",
-                "id": 1205482223,
-                "tags": {
-                    "construction": "rail",
-                    "construction:railway": "rail",
-                    "electrified": "contact_line",
-                    "gauge": "1435",
-                    "highspeed": "yes",
-                    "maxspeed": "200",
-                    "name": "Gebze-\u0130ST-Halkal\u0131 YHT",
-                    "railway": "construction",
-                    "usage": "main"
-                },
-                "nodes": [
-                    10295728737,
-                    11171767704,
-                    11171767703,
-                    11171767701,
-                    11171767702,
-                    11171767700,
-                    11267334592,
-                    11171809546,
-                    11171767699
-                ]
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        29.1016554,
-                        41.2076658
-                    ],
-                    [
-                        29.1008119,
-                        41.2080435
-                    ],
-                    [
-                        29.0999521,
-                        41.208456
-                    ],
-                    [
-                        29.0988782,
-                        41.2089572
-                    ],
-                    [
-                        29.09747,
-                        41.2096297
-                    ],
-                    [
-                        29.0962412,
-                        41.2102925
-                    ],
-                    [
-                        29.0959141,
-                        41.2104619
-                    ],
-                    [
-                        29.0959118,
-                        41.2104631
-                    ],
-                    [
-                        29.0949515,
-                        41.2109686
+                        28.9313513,
+                        40.9970902
                     ]
                 ]
             }
@@ -133689,7 +132847,7 @@ var data = {
                     "railway": "subway",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     7681128624,
@@ -134666,7 +133824,8 @@ var data = {
                     "highspeed": "yes",
                     "level": "-1",
                     "maxspeed": "200",
-                    "name": "\u0130stanbul - Edirne YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "tunnel": "yes",
@@ -134957,7 +134116,8 @@ var data = {
                     "highspeed": "yes",
                     "level": "-1",
                     "maxspeed": "200",
-                    "name": "\u0130stanbul - Edirne YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "tunnel": "yes",
@@ -135241,29 +134401,39 @@ var data = {
                 "tags": {
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
+                    "service": "yard",
                     "usage": "main"
                 },
                 "nodes": [
-                    11289663093,
+                    11289635264,
                     11289663096,
-                    11289663094
+                    13140652580,
+                    11289663094,
+                    13140652581
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0277745,
-                        41.0001844
+                        29.0277665,
+                        41.0001934
                     ],
                     [
                         29.0270724,
                         40.9999952
                     ],
                     [
-                        29.0265796,
-                        40.9998767
+                        29.026826,
+                        40.9999481
+                    ],
+                    [
+                        29.026585,
+                        40.9998848
+                    ],
+                    [
+                        29.0263198,
+                        40.9998015
                     ]
                 ]
             }
@@ -135276,11 +134446,12 @@ var data = {
                 "tags": {
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
+                    "service": "yard",
                     "usage": "main"
                 },
                 "nodes": [
                     11289663096,
+                    13140652582,
                     11289663097,
                     11289663098
                 ]
@@ -135293,12 +134464,16 @@ var data = {
                         40.9999952
                     ],
                     [
-                        29.0275263,
-                        40.9999957
+                        29.0272813,
+                        41.0000015
                     ],
                     [
-                        29.0279044,
-                        40.9999788
+                        29.0275276,
+                        40.9999987
+                    ],
+                    [
+                        29.0279205,
+                        40.9999828
                     ]
                 ]
             }
@@ -135612,12 +134787,15 @@ var data = {
                     11289663132,
                     11289663133,
                     11289663134,
+                    13140652583,
                     11289663135,
                     11289663136,
                     12168968261,
                     11289663137,
+                    13140652584,
                     11289663138,
                     11289663139,
+                    13140652585,
                     11289663140,
                     11289657420,
                     11289657426,
@@ -135628,6 +134806,7 @@ var data = {
                     11289657423,
                     11289657427,
                     11289657428,
+                    13140652586,
                     11289657429,
                     11289657430,
                     11289657432
@@ -135697,40 +134876,52 @@ var data = {
                         40.9987627
                     ],
                     [
-                        29.0290958,
-                        40.9990585
+                        29.0289237,
+                        40.9988995
                     ],
                     [
-                        29.0292269,
-                        40.9992707
+                        29.0291119,
+                        40.9990798
+                    ],
+                    [
+                        29.0292376,
+                        40.9992687
                     ],
                     [
                         29.0293202,
                         40.999476
                     ],
                     [
-                        29.0293952,
-                        40.9996881
+                        29.0293858,
+                        40.9997073
                     ],
                     [
-                        29.029381,
-                        41.0000487
+                        29.0293961,
+                        40.9999382
                     ],
                     [
-                        29.0292784,
-                        41.0003719
+                        29.0293394,
+                        41.0001843
                     ],
                     [
-                        29.0290267,
-                        41.0007219
+                        29.0292449,
+                        41.0004164
                     ],
                     [
-                        29.0288026,
-                        41.0008902
+                        29.0291323,
+                        41.0005845
                     ],
                     [
-                        29.02859,
-                        41.0009937
+                        29.0289865,
+                        41.0007452
+                    ],
+                    [
+                        29.0287999,
+                        41.0008821
+                    ],
+                    [
+                        29.0285994,
+                        41.0009897
                     ],
                     [
                         29.0283651,
@@ -135749,16 +134940,20 @@ var data = {
                         41.0012204
                     ],
                     [
-                        29.0272158,
-                        41.0011925
+                        29.0272024,
+                        41.0011945
                     ],
                     [
                         29.026897,
-                        41.0011428
+                        41.0011307
                     ],
                     [
-                        29.026615,
-                        41.0010334
+                        29.0266499,
+                        41.0010455
+                    ],
+                    [
+                        29.0264233,
+                        41.0009287
                     ],
                     [
                         29.0258941,
@@ -136012,6 +135207,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "passenger_lines": "1",
                     "railway": "rail",
                     "railway:etcs": "no",
@@ -136047,155 +135243,33 @@ var data = {
                     "construction:railway": "subway",
                     "gauge": "1435",
                     "layer": "-1",
-                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu Metro Hatt\u0131",
-                    "opening_date": "2024",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
                     "railway": "construction",
                     "tunnel": "yes"
                 },
                 "nodes": [
-                    11477061314,
-                    11477061386,
-                    11477061385,
-                    11477061384,
-                    11511805078,
-                    11477061383,
-                    11477061382,
-                    11511805076,
-                    12146567636,
-                    11477061308,
-                    11477061306,
-                    12146567634,
-                    11477061379,
-                    12145931561,
-                    11477061378,
-                    11477061377,
-                    11477061374,
-                    11477061373,
-                    12145931562,
-                    11477061372,
-                    11511693266,
-                    11477061371,
-                    11477061370,
                     11477061294,
+                    13308247941,
                     12145969216,
                     12145969215,
                     11511693262,
                     11477061367,
                     11511693261,
                     11477061365,
-                    12145969210,
-                    11511693260,
-                    11477061364,
-                    11511693259,
-                    11477051641,
-                    11477061363,
-                    11477061362,
-                    12145969209,
-                    12145969208,
-                    12145962978,
-                    12145962988,
-                    12145962985,
-                    11477061361
+                    12145969210
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0793288,
-                        41.0337002
+                        29.0742198,
+                        41.0250946
                     ],
                     [
-                        29.0792145,
-                        41.0339886
-                    ],
-                    [
-                        29.0784862,
-                        41.0351474
-                    ],
-                    [
-                        29.0780697,
-                        41.0356674
-                    ],
-                    [
-                        29.0773838,
-                        41.0360301
-                    ],
-                    [
-                        29.0767153,
-                        41.036132
-                    ],
-                    [
-                        29.0748666,
-                        41.0360074
-                    ],
-                    [
-                        29.0742066,
-                        41.0358892
-                    ],
-                    [
-                        29.073648,
-                        41.0356838
-                    ],
-                    [
-                        29.0732139,
-                        41.0354271
-                    ],
-                    [
-                        29.0710849,
-                        41.0333849
-                    ],
-                    [
-                        29.0708156,
-                        41.0330473
-                    ],
-                    [
-                        29.0706765,
-                        41.0326072
-                    ],
-                    [
-                        29.0706902,
-                        41.0321348
-                    ],
-                    [
-                        29.0708832,
-                        41.0316238
-                    ],
-                    [
-                        29.0713225,
-                        41.0311306
-                    ],
-                    [
-                        29.0754229,
-                        41.0284368
-                    ],
-                    [
-                        29.0758825,
-                        41.0280312
-                    ],
-                    [
-                        29.076039,
-                        41.0276472
-                    ],
-                    [
-                        29.0761438,
-                        41.0272453
-                    ],
-                    [
-                        29.0759523,
-                        41.0267165
-                    ],
-                    [
-                        29.0755132,
-                        41.0262195
-                    ],
-                    [
-                        29.0745292,
-                        41.0252263
-                    ],
-                    [
-                        29.0739813,
-                        41.0247999
+                        29.0737073,
+                        41.024595
                     ],
                     [
                         29.0730172,
@@ -136224,54 +135298,6 @@ var data = {
                     [
                         29.0613792,
                         41.0240044
-                    ],
-                    [
-                        29.0607657,
-                        41.0241809
-                    ],
-                    [
-                        29.059899,
-                        41.0243996
-                    ],
-                    [
-                        29.0592135,
-                        41.0244884
-                    ],
-                    [
-                        29.0583068,
-                        41.0244593
-                    ],
-                    [
-                        29.0574327,
-                        41.0243354
-                    ],
-                    [
-                        29.0558713,
-                        41.0240448
-                    ],
-                    [
-                        29.0540904,
-                        41.0237161
-                    ],
-                    [
-                        29.0524839,
-                        41.0233791
-                    ],
-                    [
-                        29.0506183,
-                        41.0229721
-                    ],
-                    [
-                        29.0499469,
-                        41.0228047
-                    ],
-                    [
-                        29.0477946,
-                        41.0222681
-                    ],
-                    [
-                        29.0470389,
-                        41.0220952
                     ]
                 ]
             }
@@ -136819,6 +135845,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "yes",
                     "tracks": "1",
@@ -138372,6 +137399,7 @@ var data = {
                 "type": "way",
                 "id": 1267220533,
                 "tags": {
+                    "construction": "subway",
                     "construction:railway": "subway",
                     "electrified": "contact_line",
                     "gauge": "1435",
@@ -138383,7 +137411,6 @@ var data = {
                 },
                 "nodes": [
                     7569789909,
-                    7705772807,
                     7569789910,
                     7705741763,
                     11279140977,
@@ -138419,6 +137446,7 @@ var data = {
                     8957368667,
                     8957428963,
                     7705741772,
+                    13308278675,
                     8957368643,
                     8957428965,
                     7569789939,
@@ -138454,16 +137482,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.2014686,
+                        29.2014756,
                         41.0005994
                     ],
                     [
-                        29.2017572,
-                        41.0015749
-                    ],
-                    [
-                        29.2021924,
-                        41.0031462
+                        29.2021387,
+                        41.0031374
                     ],
                     [
                         29.2026144,
@@ -138590,56 +137614,60 @@ var data = {
                         41.0222129
                     ],
                     [
-                        29.21985,
-                        41.0235505
+                        29.2200409,
+                        41.0230959
                     ],
                     [
-                        29.2206143,
-                        41.0240403
+                        29.2207629,
+                        41.0236131
                     ],
                     [
-                        29.2210538,
-                        41.0243315
+                        29.2212803,
+                        41.0239523
                     ],
                     [
-                        29.2223798,
-                        41.0252743
+                        29.2219716,
+                        41.0243276
                     ],
                     [
-                        29.2232947,
-                        41.0256682
+                        29.2234699,
+                        41.0249592
                     ],
                     [
-                        29.2244518,
-                        41.026135
+                        29.2244909,
+                        41.0253478
                     ],
                     [
-                        29.2257151,
-                        41.0265993
+                        29.2253992,
+                        41.0256999
                     ],
                     [
-                        29.2277327,
-                        41.027368
+                        29.226282,
+                        41.0261368
                     ],
                     [
-                        29.2294553,
-                        41.0279546
+                        29.2281209,
+                        41.0269148
                     ],
                     [
-                        29.2305869,
-                        41.0282534
+                        29.2296217,
+                        41.0272155
                     ],
                     [
-                        29.2314791,
-                        41.028262
+                        29.2308733,
+                        41.0272987
                     ],
                     [
-                        29.2324508,
-                        41.0281665
+                        29.2318242,
+                        41.0273462
                     ],
                     [
-                        29.2337174,
-                        41.0277623
+                        29.2326264,
+                        41.0273879
+                    ],
+                    [
+                        29.2339023,
+                        41.0274067
                     ],
                     [
                         29.23489,
@@ -138729,12 +137757,14 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "usage": "main",
+                    "service": "siding",
                     "voltage": "25000"
                 },
                 "nodes": [
                     11775924807,
+                    13272455315,
                     11775924806,
                     11775924805,
                     11775924804,
@@ -138747,6 +137777,10 @@ var data = {
                     [
                         28.9790456,
                         41.0152764
+                    ],
+                    [
+                        28.9792361,
+                        41.0152942
                     ],
                     [
                         28.9808151,
@@ -138776,9 +137810,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -138788,6 +137822,7 @@ var data = {
                     11775924816,
                     11775924818,
                     11775924813,
+                    13140618273,
                     11775924819
                 ]
             },
@@ -138819,8 +137854,12 @@ var data = {
                         41.0158345
                     ],
                     [
-                        28.9831148,
-                        41.0159605
+                        28.9830259,
+                        41.0159198
+                    ],
+                    [
+                        28.9832087,
+                        41.016001
                     ]
                 ]
             }
@@ -138834,9 +137873,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -138877,9 +137916,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -138921,9 +137960,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -138955,9 +137994,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -138988,9 +138027,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -139073,6 +138112,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -139117,6 +138157,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -139166,6 +138207,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -139223,7 +138265,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "\u0130stanbul - Edirne YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139292,7 +138335,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "\u0130stanbul - Edirne YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139346,7 +138390,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "\u0130stanbul - Edirne YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139369,6 +138414,7 @@ var data = {
                     11282025890,
                     11978421859,
                     11282025889,
+                    13375806638,
                     287814851
                 ]
             },
@@ -139440,6 +138486,10 @@ var data = {
                         41.0594107
                     ],
                     [
+                        28.700694,
+                        41.0600463
+                    ],
+                    [
                         28.700381,
                         41.060766
                     ]
@@ -139460,7 +138510,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "\u0130stanbul - Edirne YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139563,7 +138614,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "Edirne-\u0130stanbul YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139628,7 +138680,8 @@ var data = {
                     "highspeed": "yes",
                     "level": "1",
                     "maxspeed": "200",
-                    "name": "Edirne-\u0130stanbul YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139666,7 +138719,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "Edirne-\u0130stanbul YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139705,7 +138759,8 @@ var data = {
                     "gauge": "1435",
                     "highspeed": "yes",
                     "maxspeed": "200",
-                    "name": "Edirne-\u0130stanbul YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -139754,7 +138809,8 @@ var data = {
                     "highspeed": "yes",
                     "level": "-1",
                     "maxspeed": "200",
-                    "name": "Edirne-\u0130stanbul YHT Hatt\u0131",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "railway:etcs": "1",
                     "tunnel": "yes",
@@ -139831,6 +138887,7 @@ var data = {
                 "type": "way",
                 "id": 1290243112,
                 "tags": {
+                    "construction": "subway",
                     "construction:railway": "subway",
                     "electrified": "contact_line",
                     "gauge": "1435",
@@ -139933,6 +138990,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -139965,12 +139023,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0288655,
-                        40.999005
+                        29.0288548,
+                        40.9989979
                     ],
                     [
-                        29.0285808,
-                        40.9991965
+                        29.0285821,
+                        40.9991874
                     ],
                     [
                         29.028288,
@@ -140062,6 +139120,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -140166,6 +139225,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "construction",
                     "usage": "main",
                     "voltage": "25000"
@@ -140198,8 +139258,8 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0289019,
-                        40.9990341
+                        29.0289073,
+                        40.9990402
                     ],
                     [
                         29.0287663,
@@ -140292,8 +139352,10 @@ var data = {
                 "tags": {
                     "construction:railway": "rail",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "construction",
                     "usage": "main",
@@ -140308,12 +139370,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0387527,
-                        40.9892412
+                        29.0387471,
+                        40.9892906
                     ],
                     [
-                        29.0395606,
-                        40.9885522
+                        29.0391773,
+                        40.988956
                     ]
                 ]
             }
@@ -140325,8 +139387,10 @@ var data = {
                 "id": 1290415182,
                 "tags": {
                     "electrified": "no",
+                    "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "spur"
+                    "service": "yard"
                 },
                 "nodes": [
                     4013901714,
@@ -140359,8 +139423,10 @@ var data = {
                 "id": 1290415183,
                 "tags": {
                     "electrified": "no",
+                    "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "spur"
+                    "service": "yard"
                 },
                 "nodes": [
                     11964212018,
@@ -140413,9 +139479,11 @@ var data = {
                 "id": 1290415184,
                 "tags": {
                     "electrified": "no",
+                    "gauge": "1435",
                     "layer": "-1",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "spur",
+                    "service": "yard",
                     "tunnel": "yes"
                 },
                 "nodes": [
@@ -140444,9 +139512,11 @@ var data = {
                 "id": 1290415185,
                 "tags": {
                     "electrified": "no",
+                    "gauge": "1435",
                     "layer": "-1",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "spur",
+                    "service": "yard",
                     "tunnel": "yes"
                 },
                 "nodes": [
@@ -140522,7 +139592,6 @@ var data = {
                     "tunnel": "yes"
                 },
                 "nodes": [
-                    12042166753,
                     8375474421,
                     8874572297,
                     8874572296,
@@ -140541,10 +139610,6 @@ var data = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [
-                        29.4314917,
-                        40.8391261
-                    ],
                     [
                         29.4319737,
                         40.8398395
@@ -140614,7 +139679,6 @@ var data = {
                     "tunnel": "yes"
                 },
                 "nodes": [
-                    12042166752,
                     8874572298,
                     9902365279,
                     8375474401,
@@ -140632,10 +139696,6 @@ var data = {
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [
-                        29.4318722,
-                        40.8389914
-                    ],
                     [
                         29.4323457,
                         40.8397288
@@ -141416,7 +140476,8 @@ var data = {
                     "electrified": "contact_line",
                     "gauge": "1435",
                     "layer": "-1",
-                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu Metro Hatt\u0131",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
                     "railway": "construction",
                     "tunnel": "yes"
                 },
@@ -141464,7 +140525,8 @@ var data = {
                     "construction:railway": "subway",
                     "gauge": "1435",
                     "layer": "-1",
-                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu Metro Hatt\u0131",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
                     "railway": "construction",
                     "tunnel": "yes"
                 },
@@ -141517,15 +140579,15 @@ var data = {
                     "construction:railway": "subway",
                     "gauge": "1435",
                     "layer": "-1",
-                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu Metro Hatt\u0131",
-                    "opening_date": "2024",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
                     "railway": "construction",
                     "tunnel": "yes"
                 },
                 "nodes": [
                     11477061371,
                     12145969217,
-                    11477061296,
+                    13308247938,
                     11477061294
                 ]
             },
@@ -141533,20 +140595,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0755132,
-                        41.0262195
+                        29.075109,
+                        41.0259699
                     ],
                     [
-                        29.0751473,
-                        41.025968
+                        29.0749846,
+                        41.0258641
                     ],
                     [
-                        29.0744739,
-                        41.0252879
+                        29.0744463,
+                        41.0253292
                     ],
                     [
-                        29.0739813,
-                        41.0247999
+                        29.0742198,
+                        41.0250946
                     ]
                 ]
             }
@@ -141561,14 +140623,14 @@ var data = {
                     "construction:railway": "subway",
                     "gauge": "1435",
                     "layer": "-1",
-                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu Metro Hatt\u0131",
-                    "opening_date": "2024",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
                     "railway": "construction",
                     "tunnel": "yes"
                 },
                 "nodes": [
                     11477061308,
-                    11477061307,
+                    13308247950,
                     12145991708,
                     11477061306
                 ]
@@ -141577,20 +140639,20 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.0732139,
-                        41.0354271
+                        29.0723745,
+                        41.034798
                     ],
                     [
-                        29.0727343,
-                        41.0350713
+                        29.0719424,
+                        41.034418
                     ],
                     [
-                        29.0715033,
-                        41.0338829
+                        29.0713373,
+                        41.0338089
                     ],
                     [
-                        29.0710849,
-                        41.0333849
+                        29.0710282,
+                        41.0334388
                     ]
                 ]
             }
@@ -142222,8 +141284,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142256,8 +141318,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142290,8 +141352,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142324,8 +141386,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142358,8 +141420,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142392,8 +141454,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142426,8 +141488,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142460,8 +141522,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142494,8 +141556,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142528,8 +141590,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142562,8 +141624,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142596,8 +141658,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142630,8 +141692,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142664,8 +141726,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142698,8 +141760,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142732,8 +141794,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142766,8 +141828,8 @@ var data = {
                     "frequency": "0",
                     "gauge": "1435",
                     "railway": "construction",
-                    "service": "siding",
-                    "usage": "branch",
+                    "service": "yard",
+                    "usage": "main",
                     "voltage": "1500"
                 },
                 "nodes": [
@@ -142807,7 +141869,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     4958789959,
@@ -142861,7 +141923,7 @@ var data = {
                     "usage": "main",
                     "voltage": "750",
                     "wikidata": "Q6048705",
-                    "wikipedia": "tr:M1 (\u0130stanbul metrosu)"
+                    "wikipedia": "tr:M1 (\u0130stanbul Metrosu)"
                 },
                 "nodes": [
                     248648717,
@@ -142918,7 +141980,10 @@ var data = {
                 "nodes": [
                     1024706606,
                     4958787844,
+                    13054592022,
+                    13054592027,
                     4958791089,
+                    13054592051,
                     4958787835,
                     7573148286,
                     4958787833,
@@ -142968,15 +142033,15 @@ var data = {
                     9038926457,
                     7711133972,
                     7711133938,
-                    3282369887,
                     7711133935,
                     9038926454,
+                    13055137565,
                     3282369888,
                     9038926448,
                     9038926449,
                     9038926450,
                     3282369889,
-                    3282369890,
+                    13055137567,
                     7711133934,
                     7711133932,
                     11215413505,
@@ -142994,13 +142059,15 @@ var data = {
                     11215413477,
                     7711133926,
                     9038926438,
-                    11210083974,
                     3282369895,
                     11210083976,
                     7711133923,
                     3282369896,
                     7711133917,
                     3282369898,
+                    13055137576,
+                    13055137577,
+                    13055149540,
                     3282369899,
                     3282369901,
                     9040236170,
@@ -143008,11 +142075,15 @@ var data = {
                     5399354462,
                     5399354461,
                     3282369902,
+                    13055137580,
                     7711133913,
                     5399354215,
                     5509498348,
+                    13055137578,
+                    13055137593,
                     3282369904,
                     5509490799,
+                    13055137583,
                     3282369906,
                     7711133911,
                     7711133908,
@@ -143024,12 +142095,15 @@ var data = {
                     3282357355,
                     9040236182,
                     9040236181,
+                    13055149509,
+                    13055149511,
                     3282357360,
                     7661762056,
                     1054751899,
                     7711133888,
                     9040236183,
                     7711133883,
+                    13055149508,
                     3282362174,
                     7711133882,
                     3282362175,
@@ -143044,64 +142118,76 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8890889,
-                        41.0015117
+                        28.8889091,
+                        41.0015274
                     ],
                     [
-                        28.889392,
-                        41.0015074
+                        28.889181,
+                        41.0015341
                     ],
                     [
-                        28.8898606,
-                        41.0014785
+                        28.8895208,
+                        41.0015251
                     ],
                     [
-                        28.8903082,
-                        41.0014571
+                        28.8897978,
+                        41.0014916
                     ],
                     [
-                        28.8906798,
-                        41.0014426
+                        28.8898086,
+                        41.0014903
                     ],
                     [
-                        28.8910094,
-                        41.0014274
+                        28.8899978,
+                        41.0014688
                     ],
                     [
-                        28.891191,
-                        41.0014128
+                        28.8901929,
+                        41.0014561
+                    ],
+                    [
+                        28.8906476,
+                        41.0014433
+                    ],
+                    [
+                        28.8907842,
+                        41.001438
+                    ],
+                    [
+                        28.8912208,
+                        41.0014194
                     ],
                     [
                         28.8915345,
-                        41.0013888
+                        41.0014051
                     ],
                     [
-                        28.8917285,
-                        41.0013899
+                        28.8917113,
+                        41.0014021
                     ],
                     [
-                        28.8919292,
-                        41.0014023
+                        28.891912,
+                        41.001421
                     ],
                     [
-                        28.8921815,
-                        41.0014355
+                        28.8921341,
+                        41.0014583
                     ],
                     [
-                        28.8926531,
-                        41.0015136
+                        28.8926456,
+                        41.0015421
                     ],
                     [
-                        28.892967,
-                        41.0015642
+                        28.8929616,
+                        41.0015837
                     ],
                     [
-                        28.8932174,
-                        41.0015979
+                        28.8931883,
+                        41.0016174
                     ],
                     [
-                        28.8936711,
-                        41.0016497
+                        28.8936592,
+                        41.0016798
                     ],
                     [
                         28.8943045,
@@ -143208,116 +142294,116 @@ var data = {
                         41.004061
                     ],
                     [
-                        28.9069675,
-                        41.0041343
+                        28.9069406,
+                        41.0041571
                     ],
                     [
-                        28.9073685,
-                        41.0041783
+                        28.9073645,
+                        41.0042031
                     ],
                     [
-                        28.9077785,
-                        41.0042166
+                        28.9077397,
+                        41.0042467
                     ],
                     [
-                        28.9092481,
-                        41.0043615
+                        28.9092074,
+                        41.004419
                     ],
                     [
-                        28.909459,
-                        41.0044045
+                        28.9094322,
+                        41.0044522
                     ],
                     [
-                        28.9095732,
-                        41.0044391
+                        28.9095187,
+                        41.0044887
                     ],
                     [
-                        28.9096669,
-                        41.0044826
+                        28.9095933,
+                        41.0045257
                     ],
                     [
-                        28.9097231,
-                        41.0045239
+                        28.9096383,
+                        41.0045598
                     ],
                     [
-                        28.9097725,
-                        41.0045784
+                        28.9096756,
+                        41.0045921
                     ],
                     [
-                        28.9097907,
-                        41.0046229
+                        28.90972,
+                        41.0046489
                     ],
                     [
-                        28.9098011,
-                        41.0046518
+                        28.9097423,
+                        41.0046805
                     ],
                     [
-                        28.9098116,
-                        41.0046996
+                        28.9097536,
+                        41.0047281
                     ],
                     [
-                        28.9098128,
-                        41.0047529
+                        28.9097651,
+                        41.0048009
                     ],
                     [
-                        28.9097945,
-                        41.0048838
+                        28.9097645,
+                        41.0048565
                     ],
                     [
-                        28.9097397,
-                        41.0050101
+                        28.9097103,
+                        41.0049742
                     ],
                     [
-                        28.9096518,
-                        41.0051098
+                        28.9095878,
+                        41.0051105
                     ],
                     [
-                        28.9095615,
-                        41.0051946
+                        28.9095073,
+                        41.0051778
                     ],
                     [
-                        28.9095098,
-                        41.0052558
+                        28.9094556,
+                        41.0052327
                     ],
                     [
-                        28.9094582,
-                        41.0053339
+                        28.9093998,
+                        41.0053192
                     ],
                     [
-                        28.9090987,
-                        41.0062548
+                        28.9092983,
+                        41.0055654
                     ],
                     [
-                        28.9090195,
-                        41.0064287
+                        28.9089792,
+                        41.0064434
                     ],
                     [
-                        28.9090061,
-                        41.006471
+                        28.9089686,
+                        41.0064804
                     ],
                     [
-                        28.9089903,
-                        41.0065569
+                        28.9089569,
+                        41.0065538
                     ],
                     [
-                        28.9089857,
-                        41.0066209
+                        28.9089593,
+                        41.0066272
                     ],
                     [
-                        28.9089913,
-                        41.0066963
+                        28.9089663,
+                        41.0067005
                     ],
                     [
                         28.9090343,
                         41.0069704
                     ],
                     [
-                        28.9090881,
-                        41.007184
+                        28.909077,
+                        41.007185
                     ],
                     [
-                        28.9091645,
-                        41.0074142
+                        28.9091228,
+                        41.0073607
                     ],
                     [
                         28.909214,
@@ -143332,76 +142418,84 @@ var data = {
                         41.00826
                     ],
                     [
-                        28.9098124,
-                        41.0088138
+                        28.9097856,
+                        41.0088223
                     ],
                     [
-                        28.9098515,
-                        41.0089161
+                        28.9098203,
+                        41.0089226
                     ],
                     [
-                        28.9098663,
-                        41.0090161
+                        28.9098334,
+                        41.0090154
                     ],
                     [
-                        28.909867,
-                        41.0090641
+                        28.9098332,
+                        41.0090713
                     ],
                     [
-                        28.9098587,
-                        41.0091097
+                        28.9098215,
+                        41.0091378
                     ],
                     [
-                        28.9098533,
-                        41.0091412
+                        28.9098105,
+                        41.0092075
                     ],
                     [
-                        28.9098408,
-                        41.0091768
+                        28.9097919,
+                        41.0092459
                     ],
                     [
-                        28.9098127,
-                        41.009255
+                        28.9097619,
+                        41.0092941
                     ],
                     [
-                        28.9097818,
-                        41.0092974
+                        28.9095779,
+                        41.0095553
                     ],
                     [
-                        28.909616,
-                        41.0095651
+                        28.9095205,
+                        41.0096543
                     ],
                     [
-                        28.9095543,
-                        41.0096674
+                        28.90948,
+                        41.0097652
                     ],
                     [
-                        28.9095294,
-                        41.0097405
+                        28.9094644,
+                        41.0098383
                     ],
                     [
-                        28.9095065,
-                        41.0098805
+                        28.9094644,
+                        41.0099102
                     ],
                     [
-                        28.9095091,
-                        41.0100552
+                        28.9094653,
+                        41.0099683
                     ],
                     [
-                        28.9095442,
-                        41.0104509
+                        28.9094719,
+                        41.0100542
                     ],
                     [
-                        28.9095795,
-                        41.0106964
+                        28.9094742,
+                        41.0100847
                     ],
                     [
-                        28.9096201,
-                        41.0110601
+                        28.9095068,
+                        41.0104549
                     ],
                     [
-                        28.9096577,
-                        41.0113533
+                        28.9095421,
+                        41.0107049
+                    ],
+                    [
+                        28.9096026,
+                        41.0110621
+                    ],
+                    [
+                        28.9096522,
+                        41.0113549
                     ],
                     [
                         28.9096711,
@@ -143412,8 +142506,12 @@ var data = {
                         41.0116625
                     ],
                     [
-                        28.9097376,
-                        41.0119844
+                        28.9097357,
+                        41.0118711
+                    ],
+                    [
+                        28.9097454,
+                        41.0119811
                     ],
                     [
                         28.909766,
@@ -143424,12 +142522,24 @@ var data = {
                         41.0125765
                     ],
                     [
-                        28.909859,
-                        41.0128762
+                        28.9098185,
+                        41.0128034
                     ],
                     [
-                        28.9099179,
-                        41.0130704
+                        28.909847,
+                        41.0129348
+                    ],
+                    [
+                        28.9098739,
+                        41.0130127
+                    ],
+                    [
+                        28.9099232,
+                        41.013137
+                    ],
+                    [
+                        28.909969,
+                        41.0132461
                     ],
                     [
                         28.9109208,
@@ -143452,16 +142562,16 @@ var data = {
                         41.0157376
                     ],
                     [
-                        28.9112538,
-                        41.0157655
+                        28.9112404,
+                        41.0157571
                     ],
                     [
-                        28.9116064,
-                        41.0159146
+                        28.9116644,
+                        41.0159401
                     ],
                     [
-                        28.9127041,
-                        41.0163963
+                        28.9127612,
+                        41.0164322
                     ],
                     [
                         28.9138946,
@@ -143476,28 +142586,40 @@ var data = {
                         41.0171725
                     ],
                     [
-                        28.9147134,
-                        41.0175393
+                        28.9146047,
+                        41.0175149
                     ],
                     [
-                        28.9150572,
-                        41.0178301
+                        28.9146421,
+                        41.0175483
                     ],
                     [
-                        28.915153,
-                        41.0178934
+                        28.9148346,
+                        41.0177202
                     ],
                     [
-                        28.9152212,
-                        41.0179375
+                        28.9150001,
+                        41.0178399
                     ],
                     [
-                        28.9152975,
-                        41.0179808
+                        28.9151232,
+                        41.017917
                     ],
                     [
-                        28.9154047,
-                        41.0180279
+                        28.9151918,
+                        41.0179636
+                    ],
+                    [
+                        28.9152862,
+                        41.0180089
+                    ],
+                    [
+                        28.9154359,
+                        41.0180579
+                    ],
+                    [
+                        28.9156533,
+                        41.0181131
                     ],
                     [
                         28.916128,
@@ -143524,8 +142646,8 @@ var data = {
                         41.0190372
                     ],
                     [
-                        28.9188056,
-                        41.0190934
+                        28.9187931,
+                        41.0190829
                     ],
                     [
                         28.9190403,
@@ -143556,18 +142678,26 @@ var data = {
                 },
                 "nodes": [
                     1024706616,
+                    13054591886,
+                    13054591885,
                     4958787825,
                     1024706614,
+                    13054592011,
+                    13054592012,
                     4958787823,
                     1024706613,
+                    13054592013,
                     1024706611,
                     4958787821,
                     2361764135,
                     4958787847,
+                    13054592015,
                     1024706610,
+                    13054592016,
                     4958787849,
                     1024706609,
                     4958787881,
+                    13054592019,
                     4958787879,
                     1024706607,
                     4958787878,
@@ -143579,11 +142709,19 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        28.8834606,
-                        41.0027105
+                        28.8833723,
+                        41.002796
                     ],
                     [
-                        28.8836628,
+                        28.8834632,
+                        41.0026901
+                    ],
+                    [
+                        28.8835624,
+                        41.0025583
+                    ],
+                    [
+                        28.8836514,
                         41.0024628
                     ],
                     [
@@ -143591,36 +142729,56 @@ var data = {
                         41.0022193
                     ],
                     [
-                        28.8842958,
-                        41.0019527
+                        28.8840482,
+                        41.002115
+                    ],
+                    [
+                        28.8841876,
+                        41.002019
+                    ],
+                    [
+                        28.8842864,
+                        41.0019519
                     ],
                     [
                         28.8846861,
                         41.0017213
                     ],
                     [
+                        28.8850193,
+                        41.001539
+                    ],
+                    [
                         28.8852888,
                         41.0013936
                     ],
                     [
-                        28.8854693,
-                        41.001314
+                        28.8854683,
+                        41.0013046
                     ],
                     [
-                        28.8856348,
-                        41.0012537
+                        28.8856306,
+                        41.0012466
                     ],
                     [
-                        28.8858435,
-                        41.0012088
+                        28.8857725,
+                        41.0012118
+                    ],
+                    [
+                        28.8859216,
+                        41.0011843
                     ],
                     [
                         28.886104,
-                        41.0011741
+                        41.001167
                     ],
                     [
-                        28.8863772,
-                        41.0011734
+                        28.886265,
+                        41.0011632
+                    ],
+                    [
+                        28.8863803,
+                        41.0011648
                     ],
                     [
                         28.8866293,
@@ -143631,24 +142789,28 @@ var data = {
                         41.0013363
                     ],
                     [
-                        28.8875547,
-                        41.001393
+                        28.8874208,
+                        41.0013816
                     ],
                     [
-                        28.8879006,
-                        41.0014247
+                        28.887616,
+                        41.001411
                     ],
                     [
-                        28.8884868,
-                        41.0014699
+                        28.8879037,
+                        41.0014435
                     ],
                     [
-                        28.8887598,
-                        41.0014889
+                        28.888398,
+                        41.0014867
                     ],
                     [
-                        28.8890889,
-                        41.0015117
+                        28.888766,
+                        41.0015171
+                    ],
+                    [
+                        28.8889091,
+                        41.0015274
                     ]
                 ]
             }
@@ -144152,7 +143314,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "0",
                     "gauge": "1435",
-                    "layer": "-4",
+                    "layer": "-3",
                     "railway": "construction",
                     "tunnel": "yes",
                     "usage": "branch",
@@ -144263,6 +143425,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:etcs": "1",
@@ -144311,6 +143475,7 @@ var data = {
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -144349,6 +143514,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -144382,9 +143549,11 @@ var data = {
                 "tags": {
                     "cutting": "yes",
                     "electrified": "contact_line",
+                    "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
                     "name": "Marmaray",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "railway:cbtc": "yes",
@@ -144421,6 +143590,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:cbtc": "yes",
                     "railway:etcs": "1",
@@ -144455,6 +143626,8 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -144491,6 +143664,8 @@ var data = {
                     "gauge": "1435",
                     "layer": "1",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "passenger_lines": "2",
                     "railway": "rail",
                     "usage": "main",
@@ -144525,6 +143700,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -144819,6 +143996,8 @@ var data = {
                     "frequency": "50",
                     "gauge": "1435",
                     "maxspeed": "80",
+                    "name": "\u0130stanbul-Ankara demiryolu",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "railway:etcs": "1",
                     "usage": "main",
@@ -144972,8 +144151,10 @@ var data = {
                 "id": 1357772857,
                 "tags": {
                     "electrified": "no",
+                    "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
-                    "service": "spur"
+                    "service": "yard"
                 },
                 "nodes": [
                     12565418453,
@@ -145026,6 +144207,8 @@ var data = {
                 "id": 1357772858,
                 "tags": {
                     "electrified": "no",
+                    "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "yard"
                 },
@@ -147210,6 +146393,7 @@ var data = {
                     "electrified": "contact_line",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "usage": "main",
                     "voltage": "25000"
@@ -147288,9 +146472,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -147321,9 +146505,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -147354,9 +146538,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -147398,9 +146582,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -147432,9 +146616,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -147466,9 +146650,9 @@ var data = {
                     "electrified": "yes",
                     "frequency": "50",
                     "gauge": "1435",
+                    "operator": "TCDD",
                     "railway": "rail",
                     "service": "siding",
-                    "usage": "main",
                     "voltage": "25000"
                 },
                 "nodes": [
@@ -147511,12 +146695,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.2987146,
-                        40.8269808
+                        29.2987215,
+                        40.8269744
                     ],
                     [
-                        29.2986809,
-                        40.8268748
+                        29.2986516,
+                        40.8267431
                     ]
                 ]
             }
@@ -147542,12 +146726,12 @@ var data = {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.2986826,
-                        40.826985
+                        29.2986818,
+                        40.8269821
                     ],
                     [
-                        29.2986478,
-                        40.8268808
+                        29.2986116,
+                        40.8267508
                     ]
                 ]
             }
@@ -147556,29 +146740,56 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 1369239668,
+                "id": 1372500075,
                 "tags": {
-                    "bridge": "yes",
-                    "layer": "1",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "maxspeed": "80",
+                    "name": "Marmaray",
+                    "name:ar": "\u0645\u0631\u0645\u0631\u0627\u064a",
+                    "name:be": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
+                    "name:bg": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439 (\u0442\u0443\u043d\u0435\u043b)",
+                    "name:cv": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
+                    "name:fa": "\u0645\u0627\u0631\u0645\u0627\u0631\u0627\u06cc",
+                    "name:he": "\u05de\u05e8\u05de\u05e8\u05d9\u05d9",
+                    "name:ja": "\u30de\u30eb\u30de\u30e9\u30a4",
+                    "name:ka": "\u10db\u10d0\u10e0\u10db\u10d0\u10e0\u10d0\u10d8",
+                    "name:ko": "\ub9c8\ub974\ub9c8\ub77c\uc774",
+                    "name:lv": "Marmaraja",
+                    "name:ru": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
+                    "name:sr": "\u041c\u0430\u0440\u043c\u0430\u0440\u0438",
+                    "name:th": "\u0e21\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e44\u0e23\u0e22\u0e4c",
+                    "name:ug": "\u0645\u0627\u0631\u0645\u0627\u0631\u0627\u064a",
+                    "name:uk": "\u041c\u0430\u0440\u043c\u0430\u0440\u0430\u0439",
+                    "name:ur": "\u0645\u0631\u0645\u0631\u0627\u0626\u06cc",
+                    "name:zh": "\u9a6c\u5c14\u9a6c\u62c9\u94c1\u8def",
+                    "passenger_lines": "2",
                     "railway": "rail",
-                    "service": "yard",
-                    "tunnel": "yes"
+                    "railway:etcs": "yes",
+                    "service": "crossover",
+                    "source": "marmaray",
+                    "tunnel": "yes",
+                    "usage": "main",
+                    "voltage": "25000",
+                    "wikipedia": "en:Marmaray"
                 },
                 "nodes": [
-                    12681749955,
-                    12681749954
+                    2680421223,
+                    12708374630
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.2994308,
-                        40.8265494
+                        28.9742628,
+                        41.0134278
                     ],
                     [
-                        29.2993836,
-                        40.8263914
+                        28.9724863,
+                        41.0127507
                     ]
                 ]
             }
@@ -147587,29 +146798,4071 @@ var data = {
             "type": "Feature",
             "properties": {
                 "type": "way",
-                "id": 1369239669,
+                "id": 1382591176,
                 "tags": {
-                    "bridge": "yes",
-                    "layer": "1",
-                    "railway": "rail",
-                    "service": "yard",
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
                     "tunnel": "yes"
                 },
                 "nodes": [
-                    12681749956,
-                    12681749957
+                    11477061363,
+                    11477061362,
+                    12145969209,
+                    12145969208,
+                    12145962978,
+                    12145962988
                 ]
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        29.2993673,
-                        40.8263393
+                        29.0574327,
+                        41.0243354
                     ],
                     [
-                        29.2993156,
-                        40.8261681
+                        29.0558713,
+                        41.0240448
+                    ],
+                    [
+                        29.0540904,
+                        41.0237161
+                    ],
+                    [
+                        29.0524839,
+                        41.0233791
+                    ],
+                    [
+                        29.0506183,
+                        41.0229721
+                    ],
+                    [
+                        29.0499469,
+                        41.0228047
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591177,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    12145969210,
+                    11511693260,
+                    11477061364,
+                    11511693259,
+                    11477051641,
+                    11477061363
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0613792,
+                        41.0240044
+                    ],
+                    [
+                        29.0607657,
+                        41.0241809
+                    ],
+                    [
+                        29.059899,
+                        41.0243996
+                    ],
+                    [
+                        29.0592135,
+                        41.0244884
+                    ],
+                    [
+                        29.0583068,
+                        41.0244593
+                    ],
+                    [
+                        29.0574327,
+                        41.0243354
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591178,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    12145962988,
+                    12145962985,
+                    11477061361
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0499469,
+                        41.0228047
+                    ],
+                    [
+                        29.0477946,
+                        41.0222681
+                    ],
+                    [
+                        29.0470389,
+                        41.0220952
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591179,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    11477061371,
+                    13308247939,
+                    13308247940,
+                    11477061294
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.075109,
+                        41.0259699
+                    ],
+                    [
+                        29.0749938,
+                        41.0258269
+                    ],
+                    [
+                        29.0744783,
+                        41.0253217
+                    ],
+                    [
+                        29.0742198,
+                        41.0250946
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591180,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    11477061306,
+                    12146567634,
+                    11477061379,
+                    12145931561,
+                    11477061378,
+                    11477061377,
+                    11477061374,
+                    11477061373,
+                    12145931562,
+                    11477061372,
+                    12800586209,
+                    12800586210,
+                    11511693266,
+                    11477061371
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0710282,
+                        41.0334388
+                    ],
+                    [
+                        29.0708156,
+                        41.0330473
+                    ],
+                    [
+                        29.0706765,
+                        41.0326072
+                    ],
+                    [
+                        29.0706902,
+                        41.0321348
+                    ],
+                    [
+                        29.0708832,
+                        41.0316238
+                    ],
+                    [
+                        29.0713225,
+                        41.0311306
+                    ],
+                    [
+                        29.0754229,
+                        41.0284368
+                    ],
+                    [
+                        29.0758825,
+                        41.0280312
+                    ],
+                    [
+                        29.076039,
+                        41.0276472
+                    ],
+                    [
+                        29.0761438,
+                        41.0272453
+                    ],
+                    [
+                        29.0761301,
+                        41.0270959
+                    ],
+                    [
+                        29.0760952,
+                        41.0269725
+                    ],
+                    [
+                        29.0759523,
+                        41.0267165
+                    ],
+                    [
+                        29.075109,
+                        41.0259699
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591181,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    11477061308,
+                    13308247951,
+                    13308247952,
+                    11477061306
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0723745,
+                        41.034798
+                    ],
+                    [
+                        29.0719759,
+                        41.0343866
+                    ],
+                    [
+                        29.071367,
+                        41.0337812
+                    ],
+                    [
+                        29.0710282,
+                        41.0334388
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591182,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    11477061384,
+                    13308247963,
+                    12800523085,
+                    12800523084,
+                    11511805078,
+                    12800523083,
+                    11477061383,
+                    13308200872,
+                    11477061382,
+                    11511805076,
+                    12146567636,
+                    13308247953,
+                    11477061308
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0785533,
+                        41.0351342
+                    ],
+                    [
+                        29.0782241,
+                        41.0354921
+                    ],
+                    [
+                        29.0778306,
+                        41.0358306
+                    ],
+                    [
+                        29.0776294,
+                        41.0359378
+                    ],
+                    [
+                        29.0773838,
+                        41.0360301
+                    ],
+                    [
+                        29.077085,
+                        41.0360976
+                    ],
+                    [
+                        29.0767153,
+                        41.036132
+                    ],
+                    [
+                        29.0756966,
+                        41.0361114
+                    ],
+                    [
+                        29.0748894,
+                        41.0360417
+                    ],
+                    [
+                        29.0742066,
+                        41.0358892
+                    ],
+                    [
+                        29.073648,
+                        41.0356838
+                    ],
+                    [
+                        29.07301,
+                        41.0352651
+                    ],
+                    [
+                        29.0723745,
+                        41.034798
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591194,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    12800586204,
+                    12800586203,
+                    12800586202,
+                    11477061384
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0794234,
+                        41.0337163
+                    ],
+                    [
+                        29.0792508,
+                        41.0339795
+                    ],
+                    [
+                        29.07884,
+                        41.0346789
+                    ],
+                    [
+                        29.0785533,
+                        41.0351342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1382591195,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "gauge": "1435",
+                    "layer": "-1",
+                    "name": "M14 - Altunizade - K\u00fc\u00e7\u00fcksu/\u00dcmraniye Spor K\u00f6y\u00fc Metro Hatt\u0131",
+                    "opening_date": "2026",
+                    "railway": "construction",
+                    "tunnel": "yes"
+                },
+                "nodes": [
+                    11477061314,
+                    11477061386,
+                    13308247962,
+                    13308247966,
+                    11477061384
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0794668,
+                        41.0337261
+                    ],
+                    [
+                        29.0792995,
+                        41.0339885
+                    ],
+                    [
+                        29.0788934,
+                        41.0346858
+                    ],
+                    [
+                        29.0787369,
+                        41.0349225
+                    ],
+                    [
+                        29.0785533,
+                        41.0351342
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383038685,
+                "tags": {
+                    "construction:railway": "rail",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "80",
+                    "operator": "TCDD",
+                    "passenger_lines": "2",
+                    "railway": "construction",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    11212047484,
+                    12804619065
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.0343294,
+                        40.9931398
+                    ],
+                    [
+                        29.0347619,
+                        40.9928468
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383513987,
+                "tags": {
+                    "electrified": "no",
+                    "gauge": "1435",
+                    "railway": "rail",
+                    "service": "siding"
+                },
+                "nodes": [
+                    12809248671,
+                    5676380534,
+                    5676380533
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.7649321,
+                        41.0263387
+                    ],
+                    [
+                        28.7649778,
+                        41.0253759
+                    ],
+                    [
+                        28.7650224,
+                        41.0250121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383513988,
+                "tags": {
+                    "electrified": "yes",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "80",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "tracks": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    2253949885,
+                    1065496278,
+                    1065496281,
+                    12809248670
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.765073,
+                        41.0250486
+                    ],
+                    [
+                        28.7650227,
+                        41.0253763
+                    ],
+                    [
+                        28.7650146,
+                        41.0257041
+                    ],
+                    [
+                        28.7650041,
+                        41.0259678
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383513989,
+                "tags": {
+                    "electrified": "yes",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    12809248670,
+                    12809248671
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.7650041,
+                        41.0259678
+                    ],
+                    [
+                        28.7649321,
+                        41.0263387
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383566352,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "80",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "railway:etcs": "yes",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    12809647972,
+                    5713876843
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.7661415,
+                        41.0219372
+                    ],
+                    [
+                        28.7659916,
+                        41.022371
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383566353,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "railway:etcs": "yes",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    12809647972,
+                    7711800032
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.7661415,
+                        41.0219372
+                    ],
+                    [
+                        28.766211,
+                        41.0198561
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383567835,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "railway:etcs": "yes",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    12809705324,
+                    12809705325
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.7656162,
+                        41.023224
+                    ],
+                    [
+                        28.7657966,
+                        41.0230121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1383567836,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "railway": "rail",
+                    "railway:etcs": "yes",
+                    "service": "spur",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    7714471455,
+                    7714471456,
+                    7714471454,
+                    7714471462,
+                    7714471453,
+                    7714471452,
+                    7714471451,
+                    12809705325
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.765614,
+                        41.0251586
+                    ],
+                    [
+                        28.7655322,
+                        41.0247648
+                    ],
+                    [
+                        28.7654351,
+                        41.0243335
+                    ],
+                    [
+                        28.76543,
+                        41.0241398
+                    ],
+                    [
+                        28.765427,
+                        41.0240253
+                    ],
+                    [
+                        28.7654859,
+                        41.0237569
+                    ],
+                    [
+                        28.7657034,
+                        41.023234
+                    ],
+                    [
+                        28.7657966,
+                        41.0230121
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1388072008,
+                "tags": {
+                    "construction": "subway",
+                    "construction:railway": "subway",
+                    "electrified": "contact_line",
+                    "gauge": "1435",
+                    "layer": "-3",
+                    "maxspeed": "80",
+                    "operator": "Metro \u0130stanbul",
+                    "railway": "construction",
+                    "tunnel": "yes",
+                    "usage": "main",
+                    "voltage": "1500"
+                },
+                "nodes": [
+                    12849423675,
+                    12849423676,
+                    12849423677,
+                    12849423678
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.784506,
+                        41.055311
+                    ],
+                    [
+                        28.7849918,
+                        41.05527
+                    ],
+                    [
+                        28.7870559,
+                        41.0552686
+                    ],
+                    [
+                        28.7878255,
+                        41.0552311
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1412654732,
+                "tags": {
+                    "railway": "rail"
+                },
+                "nodes": [
+                    12981686469,
+                    12981686470
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.299252,
+                        40.8263701
+                    ],
+                    [
+                        29.299451,
+                        40.8263379
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1412654733,
+                "tags": {
+                    "railway": "rail"
+                },
+                "nodes": [
+                    12981686471,
+                    12981686472
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.2992668,
+                        40.8263926
+                    ],
+                    [
+                        29.2994554,
+                        40.82636
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1412654734,
+                "tags": {
+                    "railway": "rail"
+                },
+                "nodes": [
+                    12981686473,
+                    12981686474
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.2992455,
+                        40.8263513
+                    ],
+                    [
+                        29.2994405,
+                        40.8263165
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420583002,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "spur",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13054592052,
+                    13054592053,
+                    13054592058,
+                    13054592054,
+                    13054592055,
+                    13054592056,
+                    13054592057,
+                    13054592099,
+                    13054592100,
+                    13054592101,
+                    13054592102,
+                    13054592103,
+                    13054592104,
+                    4897304963
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8909947,
+                        41.0015066
+                    ],
+                    [
+                        28.8911776,
+                        41.0015245
+                    ],
+                    [
+                        28.8912738,
+                        41.0015291
+                    ],
+                    [
+                        28.8913306,
+                        41.0015318
+                    ],
+                    [
+                        28.8915299,
+                        41.0015286
+                    ],
+                    [
+                        28.8917831,
+                        41.0015351
+                    ],
+                    [
+                        28.8919619,
+                        41.001557
+                    ],
+                    [
+                        28.8921317,
+                        41.0016166
+                    ],
+                    [
+                        28.8922157,
+                        41.0016646
+                    ],
+                    [
+                        28.8922847,
+                        41.0017248
+                    ],
+                    [
+                        28.8923224,
+                        41.0017711
+                    ],
+                    [
+                        28.8923482,
+                        41.0018166
+                    ],
+                    [
+                        28.8923773,
+                        41.0018768
+                    ],
+                    [
+                        28.8923977,
+                        41.0019328
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420583003,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "spur",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    1037636288,
+                    13054592098,
+                    13054592095,
+                    13054592096,
+                    13054592097,
+                    13054592062,
+                    13054592061,
+                    13054592060,
+                    13054592059,
+                    13054592058
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8924911,
+                        41.0021535
+                    ],
+                    [
+                        28.8924287,
+                        41.0020346
+                    ],
+                    [
+                        28.8923831,
+                        41.00196
+                    ],
+                    [
+                        28.8923357,
+                        41.0019185
+                    ],
+                    [
+                        28.8922797,
+                        41.0018795
+                    ],
+                    [
+                        28.891849,
+                        41.0016804
+                    ],
+                    [
+                        28.8917833,
+                        41.0016511
+                    ],
+                    [
+                        28.8916293,
+                        41.0015983
+                    ],
+                    [
+                        28.8914472,
+                        41.0015519
+                    ],
+                    [
+                        28.8912738,
+                        41.0015291
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420583004,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "spur",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    3282388014,
+                    4958787829,
+                    4958787830,
+                    12328471724,
+                    12328471723,
+                    4958787831,
+                    1037636280
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.891575,
+                        41.0014812
+                    ],
+                    [
+                        28.8918878,
+                        41.0015077
+                    ],
+                    [
+                        28.8920269,
+                        41.0015379
+                    ],
+                    [
+                        28.892139,
+                        41.0015628
+                    ],
+                    [
+                        28.8922432,
+                        41.0016074
+                    ],
+                    [
+                        28.8923262,
+                        41.0016765
+                    ],
+                    [
+                        28.8923825,
+                        41.0017626
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420583005,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "spur",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    4897304963,
+                    1037636288
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8923977,
+                        41.0019328
+                    ],
+                    [
+                        28.8924911,
+                        41.0021535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420620724,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "name": "T1 Kabata\u015f-Ba\u011fc\u0131lar Tramvay",
+                    "railway": "tram",
+                    "voltage": "750",
+                    "wikidata": "Q26273325"
+                },
+                "nodes": [
+                    7711133925,
+                    11215413478,
+                    9038926439,
+                    11215413479,
+                    2594274179,
+                    2594274178,
+                    7711133927,
+                    13055137569,
+                    2594274177,
+                    13055137568,
+                    2594274176,
+                    9038926447,
+                    7711133931,
+                    7711133933,
+                    13055137566,
+                    9038926451,
+                    9038926452,
+                    2594274173,
+                    9038926453,
+                    2594274172,
+                    9038926455,
+                    7711133975,
+                    6989461647,
+                    9038926458,
+                    2594274170,
+                    13055137563,
+                    13055137564,
+                    3282388052,
+                    3282388049,
+                    9040236197
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9097702,
+                        41.0091944
+                    ],
+                    [
+                        28.9097955,
+                        41.0090735
+                    ],
+                    [
+                        28.9097904,
+                        41.0089834
+                    ],
+                    [
+                        28.9097677,
+                        41.0088828
+                    ],
+                    [
+                        28.9095552,
+                        41.0084044
+                    ],
+                    [
+                        28.909319,
+                        41.0078719
+                    ],
+                    [
+                        28.9092133,
+                        41.0076494
+                    ],
+                    [
+                        28.9091188,
+                        41.0074545
+                    ],
+                    [
+                        28.9090659,
+                        41.0073412
+                    ],
+                    [
+                        28.9089722,
+                        41.0069155
+                    ],
+                    [
+                        28.9089168,
+                        41.0066716
+                    ],
+                    [
+                        28.9089099,
+                        41.006564
+                    ],
+                    [
+                        28.9089254,
+                        41.0064757
+                    ],
+                    [
+                        28.9089378,
+                        41.0064406
+                    ],
+                    [
+                        28.9092836,
+                        41.0054834
+                    ],
+                    [
+                        28.9093707,
+                        41.0052875
+                    ],
+                    [
+                        28.9094274,
+                        41.005199
+                    ],
+                    [
+                        28.9095161,
+                        41.0051115
+                    ],
+                    [
+                        28.9096298,
+                        41.0050009
+                    ],
+                    [
+                        28.9096778,
+                        41.0049423
+                    ],
+                    [
+                        28.9097167,
+                        41.0048373
+                    ],
+                    [
+                        28.909702,
+                        41.0047217
+                    ],
+                    [
+                        28.9096857,
+                        41.0046745
+                    ],
+                    [
+                        28.9096412,
+                        41.0046203
+                    ],
+                    [
+                        28.9096111,
+                        41.0045874
+                    ],
+                    [
+                        28.9095312,
+                        41.0045252
+                    ],
+                    [
+                        28.9094585,
+                        41.0044914
+                    ],
+                    [
+                        28.9093858,
+                        41.0044655
+                    ],
+                    [
+                        28.9091606,
+                        41.0044352
+                    ],
+                    [
+                        28.9077334,
+                        41.0042752
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420620730,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "yard",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13055149518,
+                    13055149529,
+                    13055149530,
+                    13055149531,
+                    13055149532
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9155738,
+                        41.0180511
+                    ],
+                    [
+                        28.9157114,
+                        41.0180622
+                    ],
+                    [
+                        28.91583,
+                        41.0180831
+                    ],
+                    [
+                        28.9162142,
+                        41.018181
+                    ],
+                    [
+                        28.9172138,
+                        41.0184553
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420620731,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "yard",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13055149522,
+                    13055149523,
+                    13055149524,
+                    13055149525,
+                    13055149526
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9164505,
+                        41.0183175
+                    ],
+                    [
+                        28.9165362,
+                        41.0183567
+                    ],
+                    [
+                        28.9165838,
+                        41.0183854
+                    ],
+                    [
+                        28.9166288,
+                        41.0184017
+                    ],
+                    [
+                        28.9172769,
+                        41.0185689
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420620732,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "yard",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13055149519,
+                    13055149520,
+                    13055149521,
+                    13055149522,
+                    13055149527,
+                    13055149528
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9160463,
+                        41.0181699
+                    ],
+                    [
+                        28.916145,
+                        41.0182111
+                    ],
+                    [
+                        28.9162964,
+                        41.01826
+                    ],
+                    [
+                        28.9164505,
+                        41.0183175
+                    ],
+                    [
+                        28.9166002,
+                        41.0183619
+                    ],
+                    [
+                        28.9172856,
+                        41.0185441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420620733,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "yard",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13055149518,
+                    13055149519,
+                    13055149533
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9155738,
+                        41.0180511
+                    ],
+                    [
+                        28.9160463,
+                        41.0181699
+                    ],
+                    [
+                        28.917269,
+                        41.0184989
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1420620734,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "spur",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13055149511,
+                    13055149512,
+                    13055149513,
+                    13055149542,
+                    13055149514,
+                    13055149515,
+                    13055149516,
+                    13055149507,
+                    13055149517,
+                    13055149518
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9146421,
+                        41.0175483
+                    ],
+                    [
+                        28.9148352,
+                        41.0176716
+                    ],
+                    [
+                        28.9149434,
+                        41.017748
+                    ],
+                    [
+                        28.9150488,
+                        41.0178294
+                    ],
+                    [
+                        28.9150827,
+                        41.0178557
+                    ],
+                    [
+                        28.915151,
+                        41.0179005
+                    ],
+                    [
+                        28.9151944,
+                        41.0179249
+                    ],
+                    [
+                        28.9152212,
+                        41.0179375
+                    ],
+                    [
+                        28.9153523,
+                        41.0179956
+                    ],
+                    [
+                        28.9155738,
+                        41.0180511
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1422546740,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305598427,
+                    12660718809,
+                    13073199071
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9823326,
+                        41.005195
+                    ],
+                    [
+                        28.9829541,
+                        41.0055807
+                    ],
+                    [
+                        28.9834964,
+                        41.0059177
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1422546741,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13073199071,
+                    3305598428
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9834964,
+                        41.0059177
+                    ],
+                    [
+                        28.9836003,
+                        41.0059845
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1428774662,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602322,
+                    13140609680,
+                    11154298855
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9314328,
+                        40.9971468
+                    ],
+                    [
+                        28.9315237,
+                        40.9973695
+                    ],
+                    [
+                        28.931715,
+                        40.9979208
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1428774663,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    11154298811,
+                    11154298812,
+                    11154298813
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9767525,
+                        41.0149554
+                    ],
+                    [
+                        28.9781956,
+                        41.0149827
+                    ],
+                    [
+                        28.9784435,
+                        41.0149976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429004072,
+                "tags": {
+                    "axle_load": "22.5",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "120",
+                    "name": "\u0130stanbul \u2013 Pythion demiryolu",
+                    "operator": "TCDD",
+                    "passenger_lines": "1",
+                    "railway": "rail",
+                    "railway:etcs": "no",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13136274561,
+                    287815300,
+                    287815304,
+                    287815308,
+                    287815312,
+                    287815316,
+                    287815319,
+                    287815324,
+                    287815328,
+                    287815333,
+                    287815336,
+                    287815341,
+                    287815345,
+                    6055160913,
+                    287815348,
+                    6055160922,
+                    287815353,
+                    287815361,
+                    6055160914,
+                    287815365
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6487899,
+                        41.1107048
+                    ],
+                    [
+                        28.648293,
+                        41.110913
+                    ],
+                    [
+                        28.647725,
+                        41.111198
+                    ],
+                    [
+                        28.646491,
+                        41.111925
+                    ],
+                    [
+                        28.646158,
+                        41.11214
+                    ],
+                    [
+                        28.645856,
+                        41.11237
+                    ],
+                    [
+                        28.645428,
+                        41.112723
+                    ],
+                    [
+                        28.645016,
+                        41.113076
+                    ],
+                    [
+                        28.644768,
+                        41.113316
+                    ],
+                    [
+                        28.644425,
+                        41.113685
+                    ],
+                    [
+                        28.643826,
+                        41.114405
+                    ],
+                    [
+                        28.64338,
+                        41.114993
+                    ],
+                    [
+                        28.6428561,
+                        41.1156204
+                    ],
+                    [
+                        28.6424942,
+                        41.1160051
+                    ],
+                    [
+                        28.6421565,
+                        41.116364
+                    ],
+                    [
+                        28.6418911,
+                        41.1166508
+                    ],
+                    [
+                        28.6415235,
+                        41.117074
+                    ],
+                    [
+                        28.6413843,
+                        41.1172759
+                    ],
+                    [
+                        28.6412422,
+                        41.1175475
+                    ],
+                    [
+                        28.6410314,
+                        41.1180032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429004073,
+                "tags": {
+                    "axle_load": "22.5",
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "maxspeed": "120",
+                    "operator": "TCDD",
+                    "passenger_lines": "1",
+                    "railway": "rail",
+                    "railway:etcs": "no",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13136274562,
+                    13136274561
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6488839,
+                        41.1106654
+                    ],
+                    [
+                        28.6487899,
+                        41.1107048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429469939,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
+                    "passenger_lines": "2",
+                    "railway": "rail",
+                    "railway:cbtc": "yes",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    1034388873,
+                    1034388874,
+                    251732707
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9209294,
+                        40.991889
+                    ],
+                    [
+                        28.9206873,
+                        40.9919521
+                    ],
+                    [
+                        28.919771,
+                        40.992185
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429469940,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
+                    "passenger_lines": "2",
+                    "railway": "rail",
+                    "railway:cbtc": "yes",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305442179,
+                    3305442177,
+                    4259060232
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9197471,
+                        40.9921403
+                    ],
+                    [
+                        28.9206433,
+                        40.9919084
+                    ],
+                    [
+                        28.9209101,
+                        40.9918432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429469941,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    11154298857,
+                    13140609678,
+                    11154298858,
+                    11154298859,
+                    11154298860,
+                    11154298861,
+                    11154298862,
+                    11154298863
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9313513,
+                        40.9970902
+                    ],
+                    [
+                        28.9312322,
+                        40.9968561
+                    ],
+                    [
+                        28.9311187,
+                        40.996667
+                    ],
+                    [
+                        28.9309884,
+                        40.9964779
+                    ],
+                    [
+                        28.9308203,
+                        40.9962499
+                    ],
+                    [
+                        28.9305407,
+                        40.9959309
+                    ],
+                    [
+                        28.9303869,
+                        40.9957698
+                    ],
+                    [
+                        28.9301816,
+                        40.9955815
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429469942,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    11154298863,
+                    11154298864
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9301816,
+                        40.9955815
+                    ],
+                    [
+                        28.9300851,
+                        40.9954997
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429469943,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602318,
+                    4096852607,
+                    13140609676,
+                    3305602319,
+                    3305602320,
+                    13140609677,
+                    3305602321
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9302223,
+                        40.9955542
+                    ],
+                    [
+                        28.9304334,
+                        40.995739
+                    ],
+                    [
+                        28.9307065,
+                        40.9960354
+                    ],
+                    [
+                        28.9309362,
+                        40.9963096
+                    ],
+                    [
+                        28.9311629,
+                        40.9966467
+                    ],
+                    [
+                        28.9312722,
+                        40.9968321
+                    ],
+                    [
+                        28.9313989,
+                        40.9970765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429469944,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602317,
+                    3305602318
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9301252,
+                        40.9954689
+                    ],
+                    [
+                        28.9302223,
+                        40.9955542
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429472668,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "passenger_lines": "2",
+                    "railway": "rail",
+                    "service": "siding",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    11154298845,
+                    13140623431,
+                    13140623432,
+                    11154298844,
+                    13140623434,
+                    11154298842
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9580465,
+                        41.0042816
+                    ],
+                    [
+                        28.9582733,
+                        41.0042346
+                    ],
+                    [
+                        28.9586894,
+                        41.0041549
+                    ],
+                    [
+                        28.9589317,
+                        41.0040935
+                    ],
+                    [
+                        28.9600183,
+                        41.0038134
+                    ],
+                    [
+                        28.9604005,
+                        41.0037254
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429472669,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "passenger_lines": "2",
+                    "railway": "rail",
+                    "service": "siding",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    11154298842,
+                    11154298841
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9604005,
+                        41.0037254
+                    ],
+                    [
+                        28.9605629,
+                        41.0036955
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429472670,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602342,
+                    11684007820,
+                    11154298838,
+                    11154298839,
+                    11228793731,
+                    3305602338,
+                    13140623436,
+                    11154298849
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9605511,
+                        41.003662
+                    ],
+                    [
+                        28.9609063,
+                        41.0036041
+                    ],
+                    [
+                        28.9613145,
+                        41.0035459
+                    ],
+                    [
+                        28.9617501,
+                        41.003508
+                    ],
+                    [
+                        28.9632405,
+                        41.003417
+                    ],
+                    [
+                        28.9643645,
+                        41.003337
+                    ],
+                    [
+                        28.9647226,
+                        41.0032965
+                    ],
+                    [
+                        28.9651129,
+                        41.0032539
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429472671,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305602343,
+                    3305602342
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.9603908,
+                        41.0036925
+                    ],
+                    [
+                        28.9605511,
+                        41.003662
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1429472672,
+                "tags": {
+                    "bridge": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "layer": "1",
+                    "name": "Sirkeci - Kazl\u0131\u00e7e\u015fme Rayl\u0131 Sistem Hatt\u0131",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    3305604378,
+                    13140623439
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.966689,
+                        41.0031473
+                    ],
+                    [
+                        28.9667817,
+                        41.0031414
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1430708715,
+                "tags": {
+                    "electrified": "no",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "subway",
+                    "service": "yard",
+                    "usage": "main",
+                    "voltage": "1500"
+                },
+                "nodes": [
+                    8111295048,
+                    13151391993
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8617624,
+                        41.0716629
+                    ],
+                    [
+                        28.8619959,
+                        41.0718129
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1430708716,
+                "tags": {
+                    "electrified": "no",
+                    "gauge": "1435",
+                    "railway": "subway",
+                    "service": "yard"
+                },
+                "nodes": [
+                    13151391994,
+                    13151391995,
+                    13151391996,
+                    13151391997,
+                    13151391998
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8632566,
+                        41.0726176
+                    ],
+                    [
+                        28.8634834,
+                        41.0727528
+                    ],
+                    [
+                        28.8635987,
+                        41.0728145
+                    ],
+                    [
+                        28.8637502,
+                        41.0728782
+                    ],
+                    [
+                        28.8639326,
+                        41.0729429
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1430708717,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "subway",
+                    "service": "yard",
+                    "usage": "main",
+                    "voltage": "1500"
+                },
+                "nodes": [
+                    13151391999,
+                    13151392000,
+                    13151525101,
+                    13151525102,
+                    8111295026
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8636781,
+                        41.0727646
+                    ],
+                    [
+                        28.8637876,
+                        41.0728254
+                    ],
+                    [
+                        28.8639094,
+                        41.072877
+                    ],
+                    [
+                        28.8640563,
+                        41.0729213
+                    ],
+                    [
+                        28.8645462,
+                        41.0730164
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1430721860,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "railway": "tram",
+                    "service": "crossover",
+                    "usage": "main",
+                    "voltage": "750"
+                },
+                "nodes": [
+                    13151591284,
+                    13151591286,
+                    13151591287,
+                    13151591285
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8755337,
+                        41.0802804
+                    ],
+                    [
+                        28.8756307,
+                        41.0801959
+                    ],
+                    [
+                        28.8757172,
+                        41.0801302
+                    ],
+                    [
+                        28.8758445,
+                        41.0800348
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1448295571,
+                "tags": {
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "maxspeed": "80",
+                    "name": "Marmaray",
+                    "operator": "TCDD",
+                    "railway": "rail",
+                    "railway:cbtc": "yes",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    5085877787,
+                    12066279666,
+                    5085877788,
+                    5085877789,
+                    5085877790,
+                    5085877791,
+                    5085877792,
+                    5085877806
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.3349318,
+                        40.8163361
+                    ],
+                    [
+                        29.3343676,
+                        40.8167723
+                    ],
+                    [
+                        29.331193,
+                        40.8192267
+                    ],
+                    [
+                        29.330627,
+                        40.8196872
+                    ],
+                    [
+                        29.330217,
+                        40.8200865
+                    ],
+                    [
+                        29.3298685,
+                        40.8204503
+                    ],
+                    [
+                        29.3295627,
+                        40.8208407
+                    ],
+                    [
+                        29.329188,
+                        40.8213832
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1451294133,
+                "tags": {
+                    "cycleway": "separate",
+                    "name": "Nostaljik Tren",
+                    "operator": "Tuzla Belediyesi",
+                    "railway": "rail"
+                },
+                "nodes": [
+                    13310440217,
+                    13310440297,
+                    13310440296,
+                    13310440295,
+                    13310440294,
+                    13310440293,
+                    13310440292,
+                    13310440291,
+                    13310440290,
+                    13310440289,
+                    13310440288,
+                    13310440287,
+                    13310440286,
+                    13310440285,
+                    13310440284,
+                    13310440282,
+                    13310440281,
+                    13310440298,
+                    13310440304,
+                    13310440303,
+                    13310440302,
+                    13310440301,
+                    13310440280,
+                    13310440279,
+                    13310440275,
+                    13310505025,
+                    13310440276,
+                    13310505024,
+                    13310440277,
+                    13310440278,
+                    13310440274,
+                    13310440273,
+                    13310440272,
+                    13310440271,
+                    13310440270,
+                    13310440269,
+                    13310440268,
+                    13310440267,
+                    13310440266,
+                    13310440265,
+                    13310440264,
+                    13310440263,
+                    13310440262,
+                    13310440261,
+                    13310440260,
+                    13310440258,
+                    13310440259,
+                    11780250712,
+                    11780250728,
+                    13310440216,
+                    7617791254,
+                    11780250729,
+                    7617791255,
+                    7617791256,
+                    7617791257,
+                    11780250730,
+                    11780250731,
+                    7617791258,
+                    7617791259,
+                    7617791261,
+                    7617791262,
+                    11780250732,
+                    7617791263,
+                    7617791264,
+                    7617791265,
+                    7617791266,
+                    11780250733,
+                    7617791267,
+                    11780250734,
+                    7617791268,
+                    7617791269,
+                    7617791270,
+                    7617791271,
+                    11780250735,
+                    7617791272,
+                    7617791273,
+                    7617791274,
+                    13310440228,
+                    11780250727,
+                    13310440227,
+                    7617791275,
+                    13310440226,
+                    13310440219,
+                    13310440225,
+                    13310440224,
+                    13310440223,
+                    13310440220,
+                    13310440221,
+                    13310440222,
+                    11780250718
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.2948554,
+                        40.8163324
+                    ],
+                    [
+                        29.2952867,
+                        40.816402
+                    ],
+                    [
+                        29.2953658,
+                        40.8164148
+                    ],
+                    [
+                        29.2957992,
+                        40.8165063
+                    ],
+                    [
+                        29.2966398,
+                        40.816599
+                    ],
+                    [
+                        29.2972776,
+                        40.8166276
+                    ],
+                    [
+                        29.2976632,
+                        40.8166327
+                    ],
+                    [
+                        29.2978662,
+                        40.8166252
+                    ],
+                    [
+                        29.2980647,
+                        40.8166053
+                    ],
+                    [
+                        29.2982795,
+                        40.8165465
+                    ],
+                    [
+                        29.2984481,
+                        40.8165197
+                    ],
+                    [
+                        29.2990039,
+                        40.8164531
+                    ],
+                    [
+                        29.2991947,
+                        40.8164485
+                    ],
+                    [
+                        29.2996466,
+                        40.8163815
+                    ],
+                    [
+                        29.3008608,
+                        40.8161528
+                    ],
+                    [
+                        29.3013169,
+                        40.8160561
+                    ],
+                    [
+                        29.3020952,
+                        40.8157601
+                    ],
+                    [
+                        29.3022083,
+                        40.815715
+                    ],
+                    [
+                        29.3022723,
+                        40.8156865
+                    ],
+                    [
+                        29.3023318,
+                        40.8156576
+                    ],
+                    [
+                        29.3023864,
+                        40.8156243
+                    ],
+                    [
+                        29.3024511,
+                        40.8155812
+                    ],
+                    [
+                        29.3025143,
+                        40.815538
+                    ],
+                    [
+                        29.3025492,
+                        40.8155141
+                    ],
+                    [
+                        29.3025794,
+                        40.8154876
+                    ],
+                    [
+                        29.3026084,
+                        40.8154588
+                    ],
+                    [
+                        29.3026367,
+                        40.8154244
+                    ],
+                    [
+                        29.3026526,
+                        40.8153908
+                    ],
+                    [
+                        29.3026742,
+                        40.8153418
+                    ],
+                    [
+                        29.3026838,
+                        40.8153058
+                    ],
+                    [
+                        29.3027497,
+                        40.8150515
+                    ],
+                    [
+                        29.3028146,
+                        40.8147249
+                    ],
+                    [
+                        29.3028333,
+                        40.8146879
+                    ],
+                    [
+                        29.3028641,
+                        40.8146543
+                    ],
+                    [
+                        29.302895,
+                        40.8146237
+                    ],
+                    [
+                        29.3029224,
+                        40.814605
+                    ],
+                    [
+                        29.3029536,
+                        40.8145858
+                    ],
+                    [
+                        29.3036917,
+                        40.8142857
+                    ],
+                    [
+                        29.3041209,
+                        40.8141259
+                    ],
+                    [
+                        29.3048719,
+                        40.8138451
+                    ],
+                    [
+                        29.3054182,
+                        40.813638
+                    ],
+                    [
+                        29.3059178,
+                        40.8133933
+                    ],
+                    [
+                        29.3062933,
+                        40.8131416
+                    ],
+                    [
+                        29.3068551,
+                        40.8127114
+                    ],
+                    [
+                        29.3069163,
+                        40.8126547
+                    ],
+                    [
+                        29.3075521,
+                        40.812098
+                    ],
+                    [
+                        29.3075793,
+                        40.8120848
+                    ],
+                    [
+                        29.3076025,
+                        40.8120855
+                    ],
+                    [
+                        29.3076193,
+                        40.8120899
+                    ],
+                    [
+                        29.3076395,
+                        40.812093
+                    ],
+                    [
+                        29.3076633,
+                        40.8120891
+                    ],
+                    [
+                        29.3077783,
+                        40.8120076
+                    ],
+                    [
+                        29.3077912,
+                        40.811998
+                    ],
+                    [
+                        29.3079282,
+                        40.8119017
+                    ],
+                    [
+                        29.3081943,
+                        40.8117907
+                    ],
+                    [
+                        29.3082985,
+                        40.8117584
+                    ],
+                    [
+                        29.308468,
+                        40.8117058
+                    ],
+                    [
+                        29.3085285,
+                        40.811687
+                    ],
+                    [
+                        29.3087344,
+                        40.811643
+                    ],
+                    [
+                        29.3090594,
+                        40.8116232
+                    ],
+                    [
+                        29.3093093,
+                        40.8116215
+                    ],
+                    [
+                        29.3094828,
+                        40.8116357
+                    ],
+                    [
+                        29.3095493,
+                        40.8116412
+                    ],
+                    [
+                        29.3098244,
+                        40.8117007
+                    ],
+                    [
+                        29.3101011,
+                        40.8117962
+                    ],
+                    [
+                        29.3104581,
+                        40.8119511
+                    ],
+                    [
+                        29.3108521,
+                        40.8121633
+                    ],
+                    [
+                        29.3110197,
+                        40.8122535
+                    ],
+                    [
+                        29.3113433,
+                        40.812446
+                    ],
+                    [
+                        29.3115862,
+                        40.8125905
+                    ],
+                    [
+                        29.3119121,
+                        40.8127777
+                    ],
+                    [
+                        29.3121741,
+                        40.8129437
+                    ],
+                    [
+                        29.3122592,
+                        40.8130007
+                    ],
+                    [
+                        29.3123926,
+                        40.8131189
+                    ],
+                    [
+                        29.3124131,
+                        40.8131371
+                    ],
+                    [
+                        29.312665,
+                        40.813405
+                    ],
+                    [
+                        29.3128792,
+                        40.8136604
+                    ],
+                    [
+                        29.3129998,
+                        40.8137978
+                    ],
+                    [
+                        29.313063,
+                        40.8138612
+                    ],
+                    [
+                        29.3131145,
+                        40.8139106
+                    ],
+                    [
+                        29.3131762,
+                        40.8139636
+                    ],
+                    [
+                        29.3132299,
+                        40.814009
+                    ],
+                    [
+                        29.3132751,
+                        40.8140386
+                    ],
+                    [
+                        29.3133158,
+                        40.8140625
+                    ],
+                    [
+                        29.3134131,
+                        40.8141121
+                    ],
+                    [
+                        29.3134499,
+                        40.8141374
+                    ],
+                    [
+                        29.3134934,
+                        40.8141715
+                    ],
+                    [
+                        29.3135293,
+                        40.8142091
+                    ],
+                    [
+                        29.3136696,
+                        40.8144145
+                    ],
+                    [
+                        29.3137273,
+                        40.8144962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1451294134,
+                "tags": {
+                    "name": "Nostaljik Tren",
+                    "operator": "Tuzla Belediyesi",
+                    "railway": "rail"
+                },
+                "nodes": [
+                    11780250718,
+                    13310440229,
+                    13310440230,
+                    13310440231,
+                    13310440232,
+                    13310440233,
+                    13310440234,
+                    13310440235,
+                    13310440236,
+                    13310440237,
+                    13310440238,
+                    13310440239,
+                    13310440240,
+                    13310440241,
+                    13310440242,
+                    13310440243,
+                    13310440244,
+                    13310440245,
+                    13310440246,
+                    13310440247,
+                    13310440248,
+                    13310440249,
+                    13310440250,
+                    13310440251,
+                    13310440252,
+                    13310440253,
+                    13310440254,
+                    13310440255,
+                    13310440256,
+                    11780250718
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.3137273,
+                        40.8144962
+                    ],
+                    [
+                        29.3137322,
+                        40.814523
+                    ],
+                    [
+                        29.3137322,
+                        40.8145522
+                    ],
+                    [
+                        29.3137251,
+                        40.8145815
+                    ],
+                    [
+                        29.3137064,
+                        40.8146125
+                    ],
+                    [
+                        29.313676,
+                        40.8146532
+                    ],
+                    [
+                        29.3136093,
+                        40.8147196
+                    ],
+                    [
+                        29.3135472,
+                        40.814787
+                    ],
+                    [
+                        29.313522,
+                        40.8148263
+                    ],
+                    [
+                        29.3135099,
+                        40.8148574
+                    ],
+                    [
+                        29.3135052,
+                        40.8148889
+                    ],
+                    [
+                        29.3135106,
+                        40.8149174
+                    ],
+                    [
+                        29.313522,
+                        40.8149428
+                    ],
+                    [
+                        29.3135428,
+                        40.8149611
+                    ],
+                    [
+                        29.3135711,
+                        40.8149764
+                    ],
+                    [
+                        29.3136074,
+                        40.8149851
+                    ],
+                    [
+                        29.3136437,
+                        40.8149851
+                    ],
+                    [
+                        29.3136773,
+                        40.8149784
+                    ],
+                    [
+                        29.3137089,
+                        40.8149693
+                    ],
+                    [
+                        29.3137485,
+                        40.8149505
+                    ],
+                    [
+                        29.3137748,
+                        40.8149306
+                    ],
+                    [
+                        29.3137943,
+                        40.8149016
+                    ],
+                    [
+                        29.313805,
+                        40.8148716
+                    ],
+                    [
+                        29.3138104,
+                        40.8148334
+                    ],
+                    [
+                        29.313809,
+                        40.8147882
+                    ],
+                    [
+                        29.3137969,
+                        40.8147251
+                    ],
+                    [
+                        29.3137694,
+                        40.8146233
+                    ],
+                    [
+                        29.3137533,
+                        40.8145699
+                    ],
+                    [
+                        29.3137452,
+                        40.8145424
+                    ],
+                    [
+                        29.3137273,
+                        40.8144962
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458466405,
+                "tags": {
+                    "construction": "rail",
+                    "construction:railway": "rail",
+                    "cutting": "yes",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "highspeed": "yes",
+                    "maxspeed": "200",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
+                    "railway": "construction",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13375806699,
+                    13375806640,
+                    13375806639,
+                    13375806700
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6461012,
+                        41.1121002
+                    ],
+                    [
+                        28.644053,
+                        41.1137615
+                    ],
+                    [
+                        28.6426076,
+                        41.1151627
+                    ],
+                    [
+                        28.6413579,
+                        41.1161444
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458466406,
+                "tags": {
+                    "construction": "rail",
+                    "construction:railway": "rail",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "highspeed": "yes",
+                    "level": "-1",
+                    "maxspeed": "200",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
+                    "railway": "construction",
+                    "railway:etcs": "1",
+                    "tunnel": "yes",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13375806700,
+                    13375806649,
+                    13375806648,
+                    13375806647,
+                    13375806646,
+                    13375806645,
+                    13375806644,
+                    13375806643,
+                    13375806642,
+                    13375806641,
+                    13375806701
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6413579,
+                        41.1161444
+                    ],
+                    [
+                        28.6405795,
+                        41.1166425
+                    ],
+                    [
+                        28.6394677,
+                        41.1172706
+                    ],
+                    [
+                        28.638442,
+                        41.1177697
+                    ],
+                    [
+                        28.6375366,
+                        41.1181549
+                    ],
+                    [
+                        28.6355385,
+                        41.1187505
+                    ],
+                    [
+                        28.6337616,
+                        41.1191457
+                    ],
+                    [
+                        28.6304573,
+                        41.1198327
+                    ],
+                    [
+                        28.6191659,
+                        41.1222869
+                    ],
+                    [
+                        28.6162684,
+                        41.1230184
+                    ],
+                    [
+                        28.6142672,
+                        41.1236099
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458466407,
+                "tags": {
+                    "construction": "rail",
+                    "construction:railway": "rail",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "highspeed": "yes",
+                    "maxspeed": "200",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
+                    "railway": "construction",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13375806701,
+                    13375806702
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6142672,
+                        41.1236099
+                    ],
+                    [
+                        28.6128154,
+                        41.1241771
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458466408,
+                "tags": {
+                    "bridge": "yes",
+                    "construction": "rail",
+                    "construction:railway": "rail",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "highspeed": "yes",
+                    "level": "1",
+                    "maxspeed": "200",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
+                    "railway": "construction",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13375806702,
+                    13375806703
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6128154,
+                        41.1241771
+                    ],
+                    [
+                        28.6116021,
+                        41.1246461
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458466409,
+                "tags": {
+                    "construction": "rail",
+                    "construction:railway": "rail",
+                    "electrified": "contact_line",
+                    "frequency": "50",
+                    "gauge": "1435",
+                    "highspeed": "yes",
+                    "maxspeed": "200",
+                    "name": "\u0130stanbul-Kap\u0131kule y\u00fcksek standartl\u0131 demiryolu",
+                    "operator": "TCDD",
+                    "railway": "construction",
+                    "railway:etcs": "1",
+                    "usage": "main",
+                    "voltage": "25000"
+                },
+                "nodes": [
+                    13375806703,
+                    13375806654,
+                    13375806653,
+                    13375806652,
+                    13375806651,
+                    13375806650,
+                    13375806704
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.6116021,
+                        41.1246461
+                    ],
+                    [
+                        28.606239,
+                        41.1268681
+                    ],
+                    [
+                        28.6055972,
+                        41.1270937
+                    ],
+                    [
+                        28.6037005,
+                        41.1277798
+                    ],
+                    [
+                        28.6020311,
+                        41.1282715
+                    ],
+                    [
+                        28.6004254,
+                        41.1286827
+                    ],
+                    [
+                        28.5984146,
+                        41.1291097
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458475643,
+                "tags": {
+                    "electrified": "contact_line",
+                    "gauge": "1435",
+                    "layer": "-5",
+                    "railway": "subway",
+                    "service": "yard",
+                    "tunnel": "yes",
+                    "usage": "test"
+                },
+                "nodes": [
+                    13375865591,
+                    13375865592
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8138913,
+                        41.036695
+                    ],
+                    [
+                        28.8123549,
+                        41.0366289
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458475644,
+                "tags": {
+                    "electrified": "contact_line",
+                    "gauge": "1435",
+                    "layer": "-5",
+                    "railway": "subway",
+                    "service": "yard",
+                    "tunnel": "yes",
+                    "usage": "test"
+                },
+                "nodes": [
+                    13375865593,
+                    13375865591
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.813984,
+                        41.0366994
+                    ],
+                    [
+                        28.8138913,
+                        41.036695
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458475655,
+                "tags": {
+                    "electrified": "contact_line",
+                    "gauge": "1435",
+                    "layer": "-4",
+                    "maxspeed": "80",
+                    "name": "T4",
+                    "operator": "Metro \u0130stanbul",
+                    "railway": "subway",
+                    "service": "siding",
+                    "tunnel": "yes",
+                    "usage": "main"
+                },
+                "nodes": [
+                    13375865633,
+                    13375865636
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        28.8910279,
+                        41.0592132
+                    ],
+                    [
+                        28.891034,
+                        41.059215
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "way",
+                "id": 1458708057,
+                "tags": {
+                    "construction:railway": "subway",
+                    "electrified": "contact_line",
+                    "frequency": "0",
+                    "gauge": "1435",
+                    "layer": "-4",
+                    "maxspeed": "80",
+                    "name": "M12 G\u00f6ztepe-\u00dcmraniye Metro Hatt\u0131",
+                    "note": "M12 G\u00f6ztepe \u00dcmraniye Metro Hatt\u0131",
+                    "railway": "construction",
+                    "tunnel": "yes",
+                    "usage": "main",
+                    "voltage": "1500"
+                },
+                "nodes": [
+                    7705703170,
+                    8882622988,
+                    11506602931,
+                    11506602932,
+                    11506602933,
+                    11506602934,
+                    11506602935,
+                    11506602936,
+                    7705703178,
+                    8882622979,
+                    7705703179,
+                    11506602937,
+                    7705703180,
+                    8882622975,
+                    8882622974,
+                    7705703181,
+                    8882622970,
+                    7705703182,
+                    7705703183,
+                    7705703184,
+                    7705703185,
+                    11506602939,
+                    11506602958,
+                    8882622968,
+                    13104429135,
+                    11506602942,
+                    11506602943,
+                    11506602944,
+                    11506602945,
+                    11506602946,
+                    11506602947,
+                    11506602948,
+                    11506602949,
+                    7705703193,
+                    7705703194,
+                    11506606083,
+                    11506606084,
+                    11506606085,
+                    11506606086,
+                    11506606087,
+                    11506606091,
+                    11506606088,
+                    11506606089,
+                    11506606090,
+                    8743248851,
+                    8882622941,
+                    8956990884,
+                    7705703202,
+                    8956990900,
+                    11506606095,
+                    11506606094,
+                    11506606093,
+                    11506606098,
+                    11506606092,
+                    8882622937,
+                    8882622933,
+                    8882622930,
+                    8956990898,
+                    8956990899,
+                    7750420729,
+                    8882622932,
+                    8882622931,
+                    7750420727,
+                    10060485295,
+                    7705703212
+                ]
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        29.104553,
+                        40.991164
+                    ],
+                    [
+                        29.1037698,
+                        40.9902977
+                    ],
+                    [
+                        29.1031266,
+                        40.9895905
+                    ],
+                    [
+                        29.1026354,
+                        40.9892656
+                    ],
+                    [
+                        29.1013085,
+                        40.9887266
+                    ],
+                    [
+                        29.0976065,
+                        40.9877288
+                    ],
+                    [
+                        29.0964164,
+                        40.987423
+                    ],
+                    [
+                        29.0956365,
+                        40.987186
+                    ],
+                    [
+                        29.0949248,
+                        40.9869425
+                    ],
+                    [
+                        29.0944173,
+                        40.9867667
+                    ],
+                    [
+                        29.0939415,
+                        40.9865328
+                    ],
+                    [
+                        29.0934283,
+                        40.9862512
+                    ],
+                    [
+                        29.0929101,
+                        40.9859276
+                    ],
+                    [
+                        29.0924019,
+                        40.9855192
+                    ],
+                    [
+                        29.0914421,
+                        40.9846942
+                    ],
+                    [
+                        29.0906715,
+                        40.9839062
+                    ],
+                    [
+                        29.0902146,
+                        40.9834289
+                    ],
+                    [
+                        29.0897465,
+                        40.9828917
+                    ],
+                    [
+                        29.0893934,
+                        40.9824632
+                    ],
+                    [
+                        29.0891404,
+                        40.9821438
+                    ],
+                    [
+                        29.0888603,
+                        40.981799
+                    ],
+                    [
+                        29.0884204,
+                        40.9813387
+                    ],
+                    [
+                        29.0874104,
+                        40.9803364
+                    ],
+                    [
+                        29.0867543,
+                        40.9798854
+                    ],
+                    [
+                        29.0863406,
+                        40.9796102
+                    ],
+                    [
+                        29.0863364,
+                        40.9796074
+                    ],
+                    [
+                        29.0857641,
+                        40.9793857
+                    ],
+                    [
+                        29.0850905,
+                        40.979248
+                    ],
+                    [
+                        29.0843258,
+                        40.9792289
+                    ],
+                    [
+                        29.0829686,
+                        40.9793168
+                    ],
+                    [
+                        29.0817937,
+                        40.9794545
+                    ],
+                    [
+                        29.080715,
+                        40.9796915
+                    ],
+                    [
+                        29.079692,
+                        40.9799209
+                    ],
+                    [
+                        29.07849,
+                        40.9801472
+                    ],
+                    [
+                        29.075683,
+                        40.9804998
+                    ],
+                    [
+                        29.0727406,
+                        40.9808477
+                    ],
+                    [
+                        29.0711757,
+                        40.9811497
+                    ],
+                    [
+                        29.0702135,
+                        40.9812262
+                    ],
+                    [
+                        29.0696159,
+                        40.9811803
+                    ],
+                    [
+                        29.0691804,
+                        40.9810695
+                    ],
+                    [
+                        29.0687626,
+                        40.9809242
+                    ],
+                    [
+                        29.0684258,
+                        40.9807789
+                    ],
+                    [
+                        29.0678333,
+                        40.9804463
+                    ],
+                    [
+                        29.0673319,
+                        40.979999
+                    ],
+                    [
+                        29.066291,
+                        40.9787789
+                    ],
+                    [
+                        29.0654445,
+                        40.9778507
+                    ],
+                    [
+                        29.0651367,
+                        40.9774677
+                    ],
+                    [
+                        29.0649237,
+                        40.9771733
+                    ],
+                    [
+                        29.0641682,
+                        40.9759173
+                    ],
+                    [
+                        29.0637034,
+                        40.9752637
+                    ],
+                    [
+                        29.0632791,
+                        40.9746713
+                    ],
+                    [
+                        29.0627676,
+                        40.974071
+                    ],
+                    [
+                        29.0624181,
+                        40.973767
+                    ],
+                    [
+                        29.0620383,
+                        40.9735051
+                    ],
+                    [
+                        29.0616585,
+                        40.9732527
+                    ],
+                    [
+                        29.0594344,
+                        40.9718647
+                    ],
+                    [
+                        29.0587023,
+                        40.9714758
+                    ],
+                    [
+                        29.0582533,
+                        40.9712224
+                    ],
+                    [
+                        29.0579443,
+                        40.9710136
+                    ],
+                    [
+                        29.0576971,
+                        40.9707956
+                    ],
+                    [
+                        29.0575262,
+                        40.9706392
+                    ],
+                    [
+                        29.0573028,
+                        40.9704218
+                    ],
+                    [
+                        29.0570701,
+                        40.9701613
+                    ],
+                    [
+                        29.0554084,
+                        40.96822
+                    ],
+                    [
+                        29.0551797,
+                        40.9679528
                     ]
                 ]
             }
