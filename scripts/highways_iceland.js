@@ -22,7 +22,7 @@ function style(feature) {
     }
 
     const surface = feature.properties.tags.surface;
-    if (['paved', 'asphalt', 'concrete', 'concrete:plates', 'paving_stones', 'wood'].includes(surface)) {
+    if (['paved', 'asphalt', 'concrete', 'concrete:plates', 'paving_stones', 'wood', 'metal'].includes(surface)) {
         st.color = '#009900';
     }
     if (['unpaved', 'gravel', 'compacted', 'dirt', 'fine_gravel', 'ground'].includes(surface)) {
